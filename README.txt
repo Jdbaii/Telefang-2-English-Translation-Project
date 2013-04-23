@@ -14,7 +14,7 @@ Modify this before running the BAT file to change the translations.
 However, make sure line breaks are no more than 28 characters apart or the game may force a line break in the middle of a word.
 
 Extracting script:
-You can extract the script from the ROM using the files in the Cartographer directory.
+You can extract the script from the ROM using the files in the Tools\Cartographer directory.
 Just name your ROMs bootleg.gba, power.gba or speed.gba according to the version, place them in there and run one of the BAT files.
 However the script already extracted is heavily modified to work better in game, so it is not recommended to re-extract it.
 

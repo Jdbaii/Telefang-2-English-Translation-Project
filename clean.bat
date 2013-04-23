@@ -1,1 +1,0 @@
-cp rom/input.gba rom/output.gba
