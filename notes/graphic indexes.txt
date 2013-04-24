@@ -1,0 +1,11 @@
+89 = small menu graphics/font - offset 52ED0C
+126 = misc menu graphics and text - offset 5426E4
+127 = unknown text
+128 = file select screen - offset 543E08
+132-163 = unknown text
+166-169 = unknown text
+193-213 = more unknown text
+216-217 = unknown text
+2843 = title screen
+2894 = title screen logo
+2896 = title screen logo outline

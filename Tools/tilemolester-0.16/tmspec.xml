@@ -29,6 +29,10 @@
             <data>000000990000009900CC6600000099990099009999CCCCCC666666FF666666FF66FFFF666666FFFF66FF66FFFFFFFFFF</data>
             <description>Enhanced Graphics Adapter (EGA)</description>
         </indexedcolor>
+        <indexedcolor id="CF08" bpp="4" endianness="big">
+            <data>FFFFFFEEEEEEDDDDDDCCCCCCBBBBBBAAAAAA999999888888777777666666555555444444333333222222FF00FF000000</data>
+            <description>Grayscale</description>
+        </indexedcolor>
 
     </colorformats>
 
