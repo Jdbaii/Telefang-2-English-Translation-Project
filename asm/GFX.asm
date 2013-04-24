@@ -293,6 +293,20 @@ here:
 .org 0x8500E80
 	.word gfx217
 	
+; -------------------------------------
+.org 0x8128C6C
+	.word gfx2753
+	
+; -------------------------------------
+.org 0x8128C74
+	.word gfx2754
+	
+; -------------------------------------
+.org 0x81584C8
+	.word gfx2761
+.org 0x8158E8C
+	.word gfx2761
+	
 .org 0x8870000
 
 .align 4
@@ -546,5 +560,17 @@ gfx216:
 .align 4
 gfx217:
 .incbin asm/bin/GFX/217_Malias2.bin
+
+.align 4
+gfx2753:
+.incbin asm/bin/GFX/2753_Malias2.bin
+
+.align 4
+gfx2754:
+.incbin asm/bin/GFX/2754_Malias2.bin
+
+.align 4
+gfx2761:
+.incbin asm/bin/GFX/2761_Malias2.bin
 
 .close
