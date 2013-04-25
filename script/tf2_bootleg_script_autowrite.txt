@@ -597,10 +597,10 @@ Get"Item of Event","Map "!<END>
 Queko: Consult"Map "for<LINE>place names of Electric<LINE>Monster World.Open<LINE>with"Choice "and take<LINE>another thing you'll need<LINE>there.<END>
 //POINTER #182 @ $C1628 - STRING #182 @ $AA7CC
 
-Get"D Card".<END>
+Get"D-Shot".<END>
 //POINTER #183 @ $C162C - STRING #183 @ $AA7DA
 
-Queko: This is"D Card"for<LINE>the mobile phone used there.<END>
+Queko: This is"D-Shot"for<LINE>the mobile phone used there.<END>
 //POINTER #184 @ $C1630 - STRING #184 @ $AA812
 
 (HERO): Incredible<LINE>phone...?<END>
@@ -1008,16 +1008,16 @@ I'm (HERO).May we be<LINE>friends?<END>
 (HERO): Well Done!<END>
 //POINTER #319 @ $C184C - STRING #319 @ $ABF16
 
-(HERO): The original<LINE>telephone number can get an<LINE>instant access to"D Card"."D<LINE>Card"is OK now.<END>
+(HERO): The original<LINE>telephone number can get an<LINE>instant access to"D-Shot"."D<LINE>Card"is OK now.<END>
 //POINTER #320 @ $C1850 - STRING #320 @ $ABF71
 
-Queko: Get the friend and<LINE>confirm the use of"D Card".<END>
+Queko: Get the friend and<LINE>confirm the use of"D-Shot".<END>
 //POINTER #321 @ $C1854 - STRING #321 @ $ABFA8
 
 (HERO): I Know!<END>
 //POINTER #322 @ $C1858 - STRING #322 @ $ABFB5
 
-Queko: Do you have any idea<LINE>of how to use"D Card"? The<LINE>functions in frequent use<LINE>include "Telephone Talk",<LINE>"Illustrated Handbook","D<LINE>Mode"and "Item".<END>
+Queko: Do you have any idea<LINE>of how to use"D-Shot"? The<LINE>functions in frequent use<LINE>include "Telephone Talk",<LINE>"Illustrated Handbook","D<LINE>Mode"and "Item".<END>
 //POINTER #323 @ $C185C - STRING #323 @ $AC04C
 
 (HERO): Thanks!<END>
@@ -1615,7 +1615,7 @@ Monster: Sorry for the<LINE>trouble from Queko.<END>
 (HERO): Never mind.<END>
 //POINTER #521 @ $C1B74 - STRING #521 @ $ADF07
 
-Monster: Only the girl's<LINE>telephone number is seen on<LINE>D Card of Queko.<END>
+Monster: Only the girl's<LINE>telephone number is seen on<LINE>D-Shot of Queko.<END>
 //POINTER #522 @ $C1B78 - STRING #522 @ $ADF4E
 
 (HERO): Mili is all<LINE>right?<END>
@@ -2610,7 +2610,7 @@ Jim: Anything wrong?<END>
 Jim: Such a trifle, can't<LINE>you do it alone?<END>
 //POINTER #852 @ $C20A0 - STRING #852 @ $B0E5D
 
-Jim: This is"D Card"I've<LINE>used. Take it.<END>
+Jim: This is"D-Shot"I've<LINE>used. Take it.<END>
 //POINTER #853 @ $C20A4 - STRING #853 @ $B0E86
 
 Jim: Where?<END>
@@ -2799,7 +2799,7 @@ Babi: Sure!<END>
 Baluka: Marvellous!!<END>
 //POINTER #915 @ $C219C - STRING #915 @ $B15F7
 
-(HERO): This is"D Card"<LINE>from Uncle Queko.<END>
+(HERO): This is"D-Shot"<LINE>from Uncle Queko.<END>
 //POINTER #916 @ $C21A0 - STRING #916 @ $B161E
 
 Alux: What guy? ?<END>
@@ -3528,7 +3528,7 @@ Discovered  "Radium".<END>
 (HERO): Not delighted.<END>
 //POINTER #1158 @ $C2568 - STRING #1158 @ $B3645
 
-Dad: Then, let me have a<LINE>look at your"D Card  ".<END>
+Dad: Then, let me have a<LINE>look at your"D-Shot  ".<END>
 //POINTER #1159 @ $C256C - STRING #1159 @ $B3677
 
 (HERO): I haven't.<END>
@@ -3813,7 +3813,7 @@ Monster: Then, I'll come<LINE>back home ... and this is<LINE>for you.<END>
 Item of Event<END>
 //POINTER #1253 @ $C26E4 - STRING #1253 @ $B42BD
 
-Get"D Card ".What shall we<LINE>do?Take"D Cade"<LINE>back.Monster: Thanks!!<END>
+Get"D-Shot ".What shall we<LINE>do?Take"D Cade"<LINE>back.Monster: Thanks!!<END>
 //POINTER #1254 @ $C26E8 - STRING #1254 @ $B42DB
 
 Take"D Cade" back.Monster:<LINE>Thanks!!<END>

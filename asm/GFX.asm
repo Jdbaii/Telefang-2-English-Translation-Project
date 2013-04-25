@@ -50,6 +50,30 @@ here:
 .org 0x81389E8
 	.word bigFont
 	
+; D-Shot font
+.org 0x8155C04
+	.word DShotFont
+.org 0x8155C34
+	.word DShotFont
+.org 0x8155D18
+	.word DShotFont
+.org 0x8155D80
+	.word DShotFont
+.org 0x8157638
+	.word DShotFont
+.org 0x8157688
+	.word DShotFont
+.org 0x815BDEC
+	.word DShotFont
+.org 0x815BF1C
+	.word DShotFont
+.org 0x815BFFC
+	.word DShotFont
+	
+; D-Shot Graphics
+.org 0x81570F4
+	.word DShotGfx
+	
 ; -------------------------------------
 .org 0x81359AC
 	.word gfx126
@@ -341,6 +365,14 @@ battleFont:
 .align 4
 bigFont:
 .incbin asm/bin/bigFont.bin
+
+.align 4
+DShotFont:
+.incbin asm/bin/DShotFont.bin
+
+.align 4
+DShotGfx:
+.incbin asm/bin/DShotGfx.bin
 
 .align 4
 gfx126:
