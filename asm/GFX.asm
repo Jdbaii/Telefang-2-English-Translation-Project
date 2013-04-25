@@ -1,4 +1,5 @@
  ; Telefang 2 Power Graphics Replacement Hack by Jdbye
+ ; Purpose: Adds binaries to file and changes pointers to match
 
 .gba				; Set the architecture to GBA
 .open "rom/power_patched.gba",0x08000000		; Open input.gba for output.
@@ -28,6 +29,26 @@ here:
     .word smallMenuGfx
 .org 0x8160130
     .word smallMenuGfx
+	
+; Battle font
+.org 0x8110D14
+	.word battleFont
+.org 0x81173FC
+	.word battleFont
+.org 0x8138A28
+	.word battleFont
+.org 0x8145628
+	.word battleFont
+.org 0x814F728
+	.word battleFont
+.org 0x8166074
+	.word battleFont
+	
+; Large font (for denjuu names etc)
+.org 0x8134188
+	.word bigFont
+.org 0x81389E8
+	.word bigFont
 	
 ; -------------------------------------
 .org 0x81359AC
@@ -312,6 +333,14 @@ here:
 .align 4
 smallMenuGfx:
 .incbin asm/bin/smallMenuGfx_Malias2.bin
+
+.align 4
+battleFont:
+.incbin asm/bin/battleFont.bin
+
+.align 4
+bigFont:
+.incbin asm/bin/bigFont.bin
 
 .align 4
 gfx126:

@@ -1,0 +1,9 @@
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\bin\Release\GfxDecompressor.exe.config
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Release\GfxDecompressor.csprojResolveAssemblyReference.cache
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Release\GfxDecompressor.Form1.resources
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Release\GfxDecompressor.Properties.Resources.resources
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Release\GfxDecompressor.csproj.GenerateResource.Cache
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\bin\Release\GfxDecompressor.exe
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\bin\Release\GfxDecompressor.pdb
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Release\GfxDecompressor.exe
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Release\GfxDecompressor.pdb

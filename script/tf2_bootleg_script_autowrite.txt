@@ -1002,7 +1002,7 @@ I'm (HERO).May we be<LINE>friends?<END>
 (HERO): Then, can we be<LINE>friends?<END>
 //POINTER #317 @ $C1844 - STRING #317 @ $ABECD
 
-????: My name is "Leku"and<LINE>this is my telephone number.<END>
+????: My name is "Rex" and<LINE>this is my telephone number.<END>
 //POINTER #318 @ $C1848 - STRING #318 @ $ABF06
 
 (HERO): Well Done!<END>
@@ -1089,7 +1089,7 @@ Mili: Come on!<END>
 (HERO): You are his first<LINE>friend!<END>
 //POINTER #346 @ $C18B8 - STRING #346 @ $AC508
 
-Leku: I have though of<LINE>making friends with you.<END>
+Rex: I have though of<LINE>making friends with you.<END>
 //POINTER #347 @ $C18BC - STRING #347 @ $AC539
 
 Mili: What shall I do now?<END>
@@ -1257,7 +1257,7 @@ Queko: Along the seaside is<LINE>the Electric Monster with<LINE>the attribute of
 Get Item of Evolution.<END>
 //POINTER #402 @ $C1998 - STRING #402 @ $ACD9C
 
-(HERO): Transform Leku,<LINE>OK?<END>
+(HERO): Transform Rex,<LINE>OK?<END>
 //POINTER #403 @ $C199C - STRING #403 @ $ACDB5
 
 Soldier T: You are also<LINE>soldier T, aren't you? I<LINE>have never met you before.<END>
@@ -1558,7 +1558,7 @@ Yufu: (HERO), If Mili<LINE>meets any trouble, nobody<LINE>but you is to blame.<E
 (HERO): Shall we look for<LINE>Mili?<END>
 //POINTER #502 @ $C1B28 - STRING #502 @ $ADC41
 
-Leku: Come to fight with<LINE>me.Qin.<END>
+Rex: Come to fight with<LINE>me.Qin.<END>
 //POINTER #503 @ $C1B2C - STRING #503 @ $ADC63
 
 Qin: Well, I can't afford<LINE>to lose today.<END>
@@ -1570,7 +1570,7 @@ Little Girl: What? You have<LINE>met before?<END>
 Qin: You have seen the<LINE>Electric Monster before?<END>
 //POINTER #506 @ $C1B38 - STRING #506 @ $ADCE7
 
-Leku: Hurry up, Dorin.<END>
+Rex: Hurry up, Dorin.<END>
 //POINTER #507 @ $C1B3C - STRING #507 @ $ADCFF
 
 Dorin: Today, let's have<LINE>everything settled.<END>
@@ -1585,13 +1585,13 @@ Yufu: Any relationship you<LINE>have?<END>
 Dorin: Some relationship<LINE>with Soldier T<END>
 //POINTER #511 @ $C1B4C - STRING #511 @ $ADD96
 
-Leku: Notice our<LINE>relationship?<END>
+Rex: Notice our<LINE>relationship?<END>
 //POINTER #512 @ $C1B50 - STRING #512 @ $ADDB6
 
 (HERO): It's enough to be<LINE>my friend.<END>
 //POINTER #513 @ $C1B54 - STRING #513 @ $ADDD8
 
-Leku: Ho......<END>
+Rex: Ho......<END>
 //POINTER #514 @ $C1B58 - STRING #514 @ $ADDE8
 
 (HERO): See no Mili...<END>

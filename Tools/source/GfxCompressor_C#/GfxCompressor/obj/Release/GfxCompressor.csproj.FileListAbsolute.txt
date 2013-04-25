@@ -1,0 +1,5 @@
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\bin\Release\GfxCompressor.exe.config
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\bin\Release\GfxCompressor.exe
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\bin\Release\GfxCompressor.pdb
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\obj\Release\GfxCompressor.exe
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\obj\Release\GfxCompressor.pdb

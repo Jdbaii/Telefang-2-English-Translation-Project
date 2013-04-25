@@ -1,0 +1,16 @@
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\bin\Debug\GfxDecompressor.exe.config
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Debug\GfxDecompressor.csprojResolveAssemblyReference.cache
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Debug\GfxDecompressor.Form1.resources
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Debug\GfxDecompressor.Properties.Resources.resources
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Debug\GfxDecompressor.csproj.GenerateResource.Cache
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\bin\Debug\GfxDecompressor.exe
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\bin\Debug\GfxDecompressor.pdb
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Debug\GfxDecompressor.exe
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Debug\GfxDecompressor.pdb
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\bin\Debug\GfxDecompressor.exe.config
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Debug\GfxDecompressor.exe
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Debug\GfxDecompressor.pdb
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Debug\ResolveAssemblyReference.cache
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Debug\GfxDecompressor.Form1.resources
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Debug\GfxDecompressor.Properties.Resources.resources
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Debug\GfxDecompressor.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\bin\Debug\GfxCompressor.exe.config
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\bin\Debug\GfxCompressor.exe
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\bin\Debug\GfxCompressor.pdb
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\obj\Debug\GfxCompressor.csprojResolveAssemblyReference.cache
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\obj\Debug\GfxCompressor.exe
+D:\Git_Projects\Telefang-2-English-Translation-Project\GfxCompressor\GfxCompressor\obj\Debug\GfxCompressor.pdb
