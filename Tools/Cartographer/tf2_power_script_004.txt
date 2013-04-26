@@ -1,0 +1,136 @@
+//GAME NAME:		Telefang 2 - Power (GBA)
+
+//BLOCK #004 NAME:		5 - Battle Dialogue (POINTER)
+
+//POINTER #0 @ $CD310 - STRING #0 @ $CCF20
+
+サポ-トアイテム<LINE>(RED)（(MONSTER)）(/RED)をゲット!<END>
+//POINTER #1 @ $CD314 - STRING #1 @ $CCF36
+
+Tファンガ-が<LINE>テレファングをしかけてきた!!<END>
+//POINTER #2 @ $CD318 - STRING #2 @ $CCF4F
+
+デンワバンゴウ<LINE>おしえてよ!<END>
+//POINTER #3 @ $CD31C - STRING #3 @ $CCF5F
+
+おしえますか?<LINE> はい いいえ<$F1>コこれから<LINE>よろしく!<END>
+//POINTER #4 @ $CD320 - STRING #4 @ $CCF70
+
+これから<LINE>よろしく!<END>
+//POINTER #5 @ $CD324 - STRING #5 @ $CCF7C
+
+(MONSTER) の<LINE>デンワバンゴウをメモリ-した!<END>
+//POINTER #6 @ $CD328 - STRING #6 @ $CCF92
+
+(MONSTER)<LINE>（ちょっとおくれる!!）<END>
+//POINTER #7 @ $CD32C - STRING #7 @ $CCFA3
+
+(MONSTER) を<LINE>しんかさせますか?<LINE> はい いいえ<$F1>コ(MONSTER) は<LINE>しぜんしんかした!!<END>
+//POINTER #8 @ $CD330 - STRING #8 @ $CCFBB
+
+(MONSTER) は<LINE>しぜんしんかした!!<END>
+//POINTER #9 @ $CD334 - STRING #9 @ $CCFCC
+
+(MONSTER) の<LINE>デンワバンゴウをうしなった!!<END>
+//POINTER #10 @ $CD338 - STRING #10 @ $CCFE2
+
+かいぞうアイテム<LINE>(RED)（(MONSTER)）(/RED)をゲット!<END>
+//POINTER #11 @ $CD33C - STRING #11 @ $CCFF8
+
+（う'ん ここはどこだろう?<LINE> まよったみたいだ・・・）<END>
+//POINTER #12 @ $CD340 - STRING #12 @ $CD016
+
+（ごめん!!<LINE> みちまちがえた-）<END>
+//POINTER #13 @ $CD344 - STRING #13 @ $CD029
+
+（やっぱり<LINE> いくのやめる-）<END>
+//POINTER #14 @ $CD348 - STRING #14 @ $CD03A
+
+（こわいから<LINE> あんまりいきたくないなあ-）<END>
+//POINTER #15 @ $CD34C - STRING #15 @ $CD052
+
+（なんでそんなとこいかなきゃ<LINE> なんないんだ!! かえる!）<END>
+//POINTER #16 @ $CD350 - STRING #16 @ $CD072
+
+（ワタシとしょうぶよ!!<LINE>  (HERO) !!）<END>
+//POINTER #17 @ $CD354 - STRING #17 @ $CD089
+
+（オレとしょうぶだ!!<LINE>  (HERO) !!）<END>
+//POINTER #18 @ $CD358 - STRING #18 @ $CD09F
+
+（ワタシにかてるとおもって?!<LINE> (HERO) くん!!）<END>
+//POINTER #19 @ $CD35C - STRING #19 @ $CD0BA
+
+（(HERO)! オマエの<LINE>   ちから みせてみろ!!）<END>
+//POINTER #20 @ $CD360 - STRING #20 @ $CD0D5
+
+（ワタシとしょうぶよ!!）<END>
+//POINTER #21 @ $CD364 - STRING #21 @ $CD0E4
+
+（(HERO) くん!!<LINE>    ワタシとしょうぶだ!）<END>
+//POINTER #22 @ $CD368 - STRING #22 @ $CD0FE
+
+（ワタシとしょうぶよ!!）<END>
+//POINTER #23 @ $CD36C - STRING #23 @ $CD10D
+
+（てかげんはしませんよ<LINE> (HERO) くん!!）<END>
+//POINTER #24 @ $CD370 - STRING #24 @ $CD124
+
+（そのじつりょく<LINE>   みせてもらおうかの!!）<END>
+//POINTER #25 @ $CD374 - STRING #25 @ $CD13E
+
+（アタシと<LINE>   しょうぶしてくれる'?）<END>
+//POINTER #26 @ $CD378 - STRING #26 @ $CD155
+
+（おにいちゃんには<LINE>      まけないぞっ!!）<END>
+//POINTER #27 @ $CD37C - STRING #27 @ $CD170
+
+（ワタシにかてるかな?）<END>
+//POINTER #28 @ $CD380 - STRING #28 @ $CD17E
+
+（このしょうぶ<LINE>  きあいでかってやるっ!!）<END>
+//POINTER #29 @ $CD384 - STRING #29 @ $CD197
+
+（あ'ら このワタシに<LINE>       かてるかしら?）<END>
+//POINTER #30 @ $CD388 - STRING #30 @ $CD1B4
+
+（さあ かかってこいっ!!）<END>
+//POINTER #31 @ $CD38C - STRING #31 @ $CD1C4
+
+（おてやわらかに<LINE>      おねがいします）<END>
+//POINTER #32 @ $CD390 - STRING #32 @ $CD1DD
+
+（いやぁ'<LINE>  ひさしぶりにやってみるか）<END>
+//POINTER #33 @ $CD394 - STRING #33 @ $CD1F4
+
+（ワシをなめとったら<LINE>    いたいめみるでぇ'よ）<END>
+//POINTER #34 @ $CD398 - STRING #34 @ $CD210
+
+（さあ!テレファングだ!!）<END>
+//POINTER #35 @ $CD39C - STRING #35 @ $CD220
+
+（かかってきな!<LINE>  かるくひねってやるよ!!）<END>
+//POINTER #36 @ $CD3A0 - STRING #36 @ $CD23A
+
+（ワシは'テレファングれき<LINE>     80ねんじゃわい'）<END>
+//POINTER #37 @ $CD3A4 - STRING #37 @ $CD259
+
+（テレファングしましょう!）<END>
+//POINTER #38 @ $CD3A8 - STRING #38 @ $CD269
+
+（てがげんしないわよ'!）<END>
+//POINTER #39 @ $CD3AC - STRING #39 @ $CD278
+
+（きっと このしょうぶ<LINE>     かってみせるわ!!）<END>
+//POINTER #40 @ $CD3B0 - STRING #40 @ $CD295
+
+（ゴホン!!<LINE> え'キミ!よわそうだねぇ'）<END>
+//POINTER #41 @ $CD3B4 - STRING #41 @ $CD2AD
+
+（テレファングしょうぶ<LINE>       であります!!）<END>
+//POINTER #42 @ $CD3B8 - STRING #42 @ $CD2CA
+
+（ボク おねえさんを<LINE>      たおせるかしら?）<END>
+//POINTER #43 @ $CD3BC - STRING #43 @ $CD2E6
+
+（やいっ!!じんじょうに<LINE>      しょうぶだっ!!）<END>

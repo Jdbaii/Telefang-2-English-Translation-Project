@@ -1,0 +1,238 @@
+//GAME NAME:		Telefang 2 - Power (GBA)
+
+//BLOCK #007 NAME:		8 - Hints/Phone Conversations? (POINTER)
+
+//POINTER #0 @ $FCDA0 - STRING #0 @ $FB610
+
+デンジュウカイを<LINE>はしりまわってるかい???<LINE>くさのなかを はしっていると<LINE>たまに アイテムが<LINE>でてくるからね<LINE>よくみておくんだよ<END>
+//POINTER #1 @ $FCDA4 - STRING #1 @ $FB653
+
+くさを かったときに<LINE>でてくる コインは<LINE>(HERO)くんがとると<LINE>おかねになるんだ<LINE>デンジュウがとると<LINE>けいけんちになるんだよ<END>
+//POINTER #2 @ $FCDA8 - STRING #2 @ $FB691
+
+くさをかると （やくそう）が<LINE>たくさんとれるけど<LINE>たまに ほかのものが<LINE>でてくるからね<END>
+//POINTER #3 @ $FCDAC - STRING #3 @ $FB6BE
+
+（つぼ）とか （タル）は<LINE>なげることができるんだ<LINE>あるいているデンジュウに<LINE>あてると テレファングを<LINE>かいひすることができるんだぜ!<LINE>でも いたいから オレには<LINE>あてないでくれよ<END>
+//POINTER #4 @ $FCDB0 - STRING #4 @ $FB719
+
+（つぼ）や（タル）どうしは<LINE>ぶつけて こわせるんだ<LINE>まちがえて あてて<LINE>こわさないように きをつけてね<END>
+//POINTER #5 @ $FCDB4 - STRING #5 @ $FB74E
+
+（いわ）や（きばこ）は<LINE>ちからがあれば うごかすことができるんだ<LINE>(HERO)くんは<LINE>できるかな?<END>
+//POINTER #6 @ $FCDB8 - STRING #6 @ $FB77D
+
+（つぼ）や（タル）が<LINE>じゃまをして （きばこ）が<LINE>うごかせないところが<LINE>あったりするんだ<LINE>そんなときは （つぼ）をどけて<LINE>（きばこ）を うごかすんだよ<END>
+//POINTER #7 @ $FCDBC - STRING #7 @ $FB7CA
+
+（とびら）には （カギ）が<LINE>かかっていることが あるんだ<LINE>そういうときは どこかにある<LINE>（カギ）を さがしてとびらを<LINE>あけるひつようが あるんだ<END>
+//POINTER #8 @ $FCDC0 - STRING #8 @ $FB814
+
+（しんりん）の ぞくせいの<LINE>デンジュウは （ひ）の<LINE>ぞくせいのこうげきに よわいんだテレファングをするときは<LINE>きをつけてね<END>
+//POINTER #9 @ $FCDC4 - STRING #9 @ $FB853
+
+（さばく）の ぞくせいの<LINE>デンジュウは （みず）の<LINE>ぞくせいこうげきに よわいんだ<LINE>テレファングをするときは<LINE>きをつけてね<END>
+//POINTER #10 @ $FCDC8 - STRING #10 @ $FB892
+
+（そうげん）の ぞくせいの<LINE>デンジュウは （かぜ）の<LINE>ぞくせいこうげきに よわいんだ<LINE>テレファングをするときは<LINE>きをつけてね<END>
+//POINTER #11 @ $FCDCC - STRING #11 @ $FB8D2
+
+（すいせい）の ぞくせいの<LINE>デンジュウは （かみなり）の<LINE>ぞくせいこうげきに よわいんだ<LINE>テレファングをするときは<LINE>きをつけてね<END>
+//POINTER #12 @ $FCDD0 - STRING #12 @ $FB914
+
+（そら）の ぞくせいの<LINE>デンジュウは （いわ）の<LINE>ぞくせいこうげきに よわいんだ<LINE>テレファングをするときは<LINE>きをつけてね<END>
+//POINTER #13 @ $FCDD4 - STRING #13 @ $FB952
+
+（いわやま）の ぞくせいの<LINE>デンジュウは （きかい）の<LINE>ぞくせいこうげきに よわいんだ<LINE>テレファングをするときは<LINE>きをつけてね<END>
+//POINTER #14 @ $FCDD8 - STRING #14 @ $FB993
+
+せいかくが （わがまま）な<LINE>デンジュウは<LINE>テレファングに よんだのに<LINE>こなかったりするんだけど<LINE>トモダチが たすけにきてくれる<LINE>かくりつが たかいんだ!<LINE>おぼえておくと やくにたつよ<END>
+//POINTER #15 @ $FCDDC - STRING #15 @ $FB9F0
+
+せいかくが （のんびり）な<LINE>デンジュウは<LINE>テレファングに よんだときに<LINE>みちにまよったりするけど<LINE>きてくれたら ぜったい<LINE>さいごまで テレファングを<LINE>してくれるんだ!<LINE>おぼえておくと やくにたつよ<END>
+//POINTER #16 @ $FCDE0 - STRING #16 @ $FBA54
+
+せいかくが （せっかち）な<LINE>デンジュウは<LINE>テレファングに よんだときに<LINE>みちを まちがえたりするけど<LINE>テレファングちゅうは ものすごいスピ-ドで あいてを<LINE>ほんろうしてくれるんだ<LINE>おぼえておくと やくにたつよ<END>
+//POINTER #17 @ $FCDE4 - STRING #17 @ $FBABE
+
+せいかくが （こわがり）な<LINE>デンジュウは<LINE>テレファングに よんだときに<LINE>びびって なかなかこなかったりするんだけど<LINE>テレファングのときは<LINE>てきのこうげきを よけるんだ<LINE>おぼえておくと やくにたつよ<END>
+//POINTER #18 @ $FCDE8 - STRING #18 @ $FBB22
+
+せいかくが （たんき）な<LINE>デンジュウは<LINE>テレファングに よんだときに<LINE>おこってしまって こなかったりするんだけど<LINE>テレファングのときは<LINE>クリティカルが でやすいんだ<LINE>おぼえておくと やくにたつよ<END>
+//POINTER #19 @ $FCDEC - STRING #19 @ $FBB85
+
+せいかくが （まじめ）な<LINE>デンジュウは<LINE>これといって わるいことは<LINE>ないんだけど<LINE>あいてのこうげきも まじめに<LINE>うけちゃうんだ<LINE>よけるってことを しらないんだねおぼえておくと やくにたつよ<END>
+//POINTER #20 @ $FCDF0 - STRING #20 @ $FBBE5
+
+デンジュウと なかよくなると<LINE>テレファングまえや<LINE>テレファングちゅうに<LINE>せいかくの わるいぶぶんが<LINE>あらわれなく なっていくんだ<END>
+//POINTER #21 @ $FCDF4 - STRING #21 @ $FBC27
+
+（かいぞう）するときは<LINE>つかう アイテムによって<LINE>（かいぞう）ごの パラメ-タが<LINE>かわるんだ<END>
+//POINTER #22 @ $FCDF8 - STRING #22 @ $FBC57
+
+（かいぞう）すると デンジュウのぞくせいが かわるんだ<LINE>あたらしい ばしょに<LINE>いくときは デンジュウを<LINE>かいぞうしていくと いいかもね<END>
+//POINTER #23 @ $FCDFC - STRING #23 @ $FBC9C
+
+テレファングちゅうに<LINE>てきに （かいぞうアイテム）を<LINE>あげると デンワバンゴウを<LINE>おしえてくれやすくなるよ<END>
+//POINTER #24 @ $FCE00 - STRING #24 @ $FBCD3
+
+せんとうちゅうに あげる<LINE>（かいぞうアイテム）は<LINE>デンジュウの ぞくせいと<LINE>おなじ ぞくせいのものが<LINE>いちばん よろこばれるんだ<LINE>それいがいだったら ねだんの<LINE>たかいものが うれしいな<END>
+//POINTER #25 @ $FCE04 - STRING #25 @ $FBD31
+
+デンジュウがもっている わざには（ぞくせいわざ）という<LINE>わざがあって<LINE>てきの ぞくせいとの<LINE>あいしょうが かんけいするんだ<LINE>（むぞくせいわざ）には<LINE>あいしょうは かんけいないよ<LINE>あいてを よくみて<LINE>わざを きめたほうがいいね<END>
+//POINTER #26 @ $FCE08 - STRING #26 @ $FBDA3
+
+デンジュウカイを あるくときは<LINE>かいふくアイテムは ぜったい<LINE>ひつようだよ<LINE>わすれないようにね<END>
+//POINTER #27 @ $FCE0C - STRING #27 @ $FBDD4
+
+そうびひんには いろいろ<LINE>しゅるいがあるんだ<LINE>Dショットで アイテムを<LINE>みるときに せつめいが<LINE>でているから みておいてね<END>
+//POINTER #28 @ $FCE10 - STRING #28 @ $FBE13
+
+アイテムが なくなって<LINE>しまったときの ミニゲ-ム!<LINE>こうレベルまでいったら<LINE>アイテムが てにはいるんだぜ!<END>
+//POINTER #29 @ $FCE14 - STRING #29 @ $FBE4B
+
+デンジュウの とうちゃくじかんはデンジュウの しゅっしんちに<LINE>おうじて かわってくるんだ<LINE>いろんなばしょのデンジュウを<LINE>そだてておかないと<LINE>たいへんなことになるぞ<END>
+//POINTER #30 @ $FCE18 - STRING #30 @ $FBE9E
+
+（タケダマむら）に<LINE>すんでいるデンジュウは<LINE>ものしりな ひとがおおいんだ<LINE>わからないことが あれば<LINE>こえをかけてごらん<END>
+//POINTER #31 @ $FCE1C - STRING #31 @ $FBEDB
+
+もしもし (HERO)?<LINE>（タケダマのもり）は<LINE>でんぱレベルが（1）しか<LINE>ないけれど<LINE>どうくつへはいったら（3）<LINE>になってるんだ<LINE>だから どうくつのなかでの<LINE>テレファングは てきも<LINE>トモダチを よぶから<LINE>きをつけるんだぜ<END>
+//POINTER #32 @ $FCE20 - STRING #32 @ $FBF47
+
+（タケダマどうくつ）には<LINE>とびらが ふたつ あるんだ<LINE>あけるじゅんばんは<LINE>みぎがわを さきにあけるんだぜなんでしってるかって?<LINE>それは きかないでくれよ<END>
+//POINTER #33 @ $FCE24 - STRING #33 @ $FBF95
+
+（トカリベむら）で<LINE>なにか おきてるらしいぜ?<LINE>まだ みてないんだったら<LINE>わからないかもしれないけど<LINE>とりあえず おおさわぎみたいだ<LINE>かんけいないヤツには<LINE>いいめいわくだよな<END>
+//POINTER #34 @ $FCE28 - STRING #34 @ $FBFEE
+
+オレのしりあいの Tファンガ-が（トカリベむら）の<LINE>ちかくで テレファングして<LINE>（あしわ）を みつけたんだって<LINE>うらやましいよな<LINE>オレも （あしわ）ほしいぜ<END>
+//POINTER #35 @ $FCE2C - STRING #35 @ $FC03E
+
+トモダチが ケガしちゃったんだ<LINE>でも（やくそう）があったから<LINE>だいじょうぶだったんだ<LINE>（がんやく）があったら<LINE>そっちのほうが いいよ<LINE>なんせ こうかが あるからね<END>
+//POINTER #36 @ $FCE30 - STRING #36 @ $FC091
+
+オレの しってるヤツに<LINE>チャコルっていうデンジュウが<LINE>いるんだ<LINE>こいつ おんなずきなんだよな-あいてのめいわく かんがえ<LINE>ないヤツだからな・・・・・<LINE>オマエのトモダチに おんなのこがいるんだったら<LINE>きをつけたほうがいいぞ<END>
+//POINTER #37 @ $FCE34 - STRING #37 @ $FC101
+
+（トカリベむら）をぬけたところに （クフモクやま）っていう<LINE>ところがあるんだけど<LINE>ここで みたことない<LINE>デンジュウが （トカリベむら）にむけてあるいてたんだって<LINE>(HERO)って<LINE>（トカリベむら）にいるの?<LINE>そういう デンジュウ<LINE>みかけなかった?<END>
+//POINTER #38 @ $FCE38 - STRING #38 @ $FC17A
+
+チャコルって じぶんより<LINE>つよいやつと テレファングを<LINE>するような タイプには<LINE>みえないよな<LINE>きっと （トカリベむら）と<LINE>（タケダマむら）の<LINE>あいだぐらいで<LINE>テレファングしてるんだぜ<END>
+//POINTER #39 @ $FCE3C - STRING #39 @ $FC1D7
+
+（チアワタむら）で<LINE>おきてるじけんって<LINE>なんだろうな<LINE>すごくきになるよな<END>
+//POINTER #40 @ $FCE40 - STRING #40 @ $FC1FD
+
+（チアワタのもり）には<LINE>ちいさないけがあるんだ<LINE>もりの ひだりうえの<LINE>ほうだったかな?<LINE>ちょっときれいな ところだから<LINE>いってみたら いいんじゃない?<END>
+//POINTER #41 @ $FCE44 - STRING #41 @ $FC24A
+
+（チアワタむら）に<LINE>イタズラずきの デンジュウが<LINE>いるんだけど<LINE>コイツが またすばやいんだ<LINE>もし おいかけっこするような<LINE>ことがあるんだったら<LINE>あいてのうごきを さきよみして<LINE>つかまえるんだ!<END>
+//POINTER #42 @ $FCE48 - STRING #42 @ $FC2AC
+
+（チアワタどうくつ）のなかの<LINE>みぎしたのほうで<LINE>うろうろしている ニンゲンを<LINE>みたよ<LINE>あれ・・・なにしてるんだろ?<END>
+//POINTER #43 @ $FCE4C - STRING #43 @ $FC2E7
+
+（チアワタどうくつ）のなかの<LINE>ひだりうえのほうに<LINE>ちからもちの デンジュウが<LINE>すんでるんだ<LINE>いっかい テレファングを<LINE>してみたいんだけど・・・<LINE>やっぱり こわいな-<END>
+//POINTER #44 @ $FCE50 - STRING #44 @ $FC33B
+
+（チアワタどうくつ）にある<LINE>(RED)アンテナのタネ(/RED)は<LINE>みぎうえのほうに<LINE>ほかんしてあるみたいだよ<END>
+//POINTER #45 @ $FCE54 - STRING #45 @ $FC36B
+
+(HERO)には<LINE>おとうちゃん おかあちゃんが<LINE>いるんだよね<LINE>だいじにしないと だめだよ!<END>
+//POINTER #46 @ $FCE58 - STRING #46 @ $FC396
+
+いろんな ことで<LINE>じぶんのしたいことが<LINE>できないときがあるよね<LINE>でも がまんしないと<LINE>いけないときも あるよね<LINE>そのへんの みきわめって<LINE>むずかしくない?<END>
+//POINTER #47 @ $FCE5C - STRING #47 @ $FC3E5
+
+デンジュウカイから<LINE>いなくなっちゃいやだよ!<LINE>ニンゲンの せかいに<LINE>かえったとしても ぜったいに<LINE>もどってきてね<END>
+//POINTER #48 @ $FCE60 - STRING #48 @ $FC41F
+
+（メリバロむら）で<LINE>ドロボウさわぎが<LINE>おきてるんだって<LINE>はんにんだれだろうね?<LINE>こういうさわぎって<LINE>なんだか わくわくしない?<END>
+//POINTER #49 @ $FCE64 - STRING #49 @ $FC460
+
+（チアワタむら）で<LINE>へんな ニンゲンを みたんだ<LINE>でっかいのと ちっちゃいのと<LINE>やなかんじの おんなのひと<LINE>あのひとたち Tファンガ-では<LINE>なかったみたいだけど・・・・<END>
+//POINTER #50 @ $FCE68 - STRING #50 @ $FC4B6
+
+おれ かくれんぼが<LINE>すきなんだけど<LINE>かくれんぼするなら<LINE>（クフモクやま）がいちばん!<LINE>かくれるところが おおくて<LINE>たのしいんだ!<LINE>かくれるんだったら ぜったいに<LINE>ここ!!!<END>
+//POINTER #51 @ $FCE6C - STRING #51 @ $FC50E
+
+（キワトラむら）に<LINE>すごいTファンガ-が いるってはなしをきいたんだ!<LINE>どんなひとなんだろうね?<LINE>ハチマキしてるんだってさ<END>
+//POINTER #52 @ $FCE70 - STRING #52 @ $FC54D
+
+（キワトラかいがん）には<LINE>（ヒエロのぬけあな）っていう<LINE>どうくつの いりぐちがあるんだ<LINE>ここを ぬければ<LINE>さばくに いけるんだぜ<END>
+//POINTER #53 @ $FCE74 - STRING #53 @ $FC58F
+
+（ヒエロのぬけあな）のまえで<LINE>ないてるデンジュウがいたよ<LINE>ようじがあったから<LINE>くわしいはなしは<LINE>きけなかったんだけどね<LINE>みかけたら たすけてあげてよ<END>
+//POINTER #54 @ $FCE78 - STRING #54 @ $FC5DB
+
+さばくで おきてる<LINE>いちだいじを しってるか?<LINE>なんと・・・さんぞくが<LINE>あるむらを おそうんだって!<LINE>え・・しってた???<LINE>ゴメン・・・・・・<END>
+//POINTER #55 @ $FCE7C - STRING #55 @ $FC624
+
+さばくのちかには<LINE>いせきが ひろがってるんだ<LINE>このいせき・・・ゆかにある<LINE>スイッチで とびらが<LINE>あくんだって!<LINE>どういう ひとたちが<LINE>すんでいたんだろうね<END>
+//POINTER #56 @ $FCE80 - STRING #56 @ $FC673
+
+さんぞくたちって<LINE>もともとは （しんりん）に<LINE>すんでいた デンジュウなんだ<LINE>さばくに くるために<LINE>かいぞうしたんだって!<LINE>しんてんちを めざすために<LINE>じぶんを（かいぞう）する・・・<LINE>これがただしい かいぞうの<LINE>かんがえかたなんだ<END>
+//POINTER #57 @ $FCE84 - STRING #57 @ $FC6E7
+
+（ビジニアさばく）にある<LINE>いせきは いりぐちが<LINE>4つあるんだ<LINE>どのじゅんばんで<LINE>はいったらいいかは<LINE>しらないけど・・・・・・<END>
+//POINTER #58 @ $FCE88 - STRING #58 @ $FC727
+
+いせきにある スイッチって<LINE>じぶんでおしたり<LINE>うえに おもいものを<LINE>のせたりして うごかすんだって<LINE>なんかパズルみたいって<LINE>うわさをきいたことがあるよ<END>
+//POINTER #59 @ $FCE8C - STRING #59 @ $FC774
+
+(RED)アンテナのタネ(/RED)は<LINE>（みどり）の ゆかのところに<LINE>ほかんしてあるんだって<LINE>でも そこにいくためには<LINE>ほかの いりぐちからはいって<LINE>ボタンを おして<LINE>とびらをあけないと ダメなんだ<END>
+//POINTER #60 @ $FCE90 - STRING #60 @ $FC7D0
+
+（ウラ-ニむら）って<LINE>デンジュウカイでも<LINE>さいほくたんに あるんだ<LINE>ニンゲンを さけてるような<LINE>むらなんだ<LINE>そんなところから およびが<LINE>かかるんだろ???<LINE>なんだか あやしいよな・・・<END>
+//POINTER #61 @ $FCE94 - STRING #61 @ $FC82E
+
+（ウラ-ニこ）のしたには<LINE>どうくつが ひろがってるんだ<LINE>むかしの デンジュウが<LINE>おおくすんでるって<LINE>きいたけど ほんとかな?<END>
+//POINTER #62 @ $FCE98 - STRING #62 @ $FC86E
+
+（ウラ-ニこ）のちかに<LINE>ほかんされている (RED)タネ(/RED)には<LINE>みはりが ついているんだって!<LINE>テレファングに なるかも<LINE>しれないから きをつけるんだよ<END>
+//POINTER #63 @ $FCE9C - STRING #63 @ $FC8B8
+
+（バルスタのもり）は<LINE>しっちなんだ<LINE>じめんに あながあいてて<LINE>ちかの どうくつに<LINE>おっこちちゃうから きをつけてね<END>
+//POINTER #64 @ $FCEA0 - STRING #64 @ $FC8F3
+
+（バルスタのもり）には<LINE>ふしぎな あなが あいてるんだちかにある どうくつに<LINE>つながってるみたいだけど・・・どっか ちがうところに<LINE>でるためには はいらないと<LINE>いけないのかな?<END>
+//POINTER #65 @ $FCEA4 - STRING #65 @ $FC94D
+
+（バルスタのもり）って<LINE>しっちなんでしょ<LINE>ひょっとしたら めずらしい<LINE>デンジュウとかも<LINE>いるのかな?<END>
+//POINTER #66 @ $FCEA8 - STRING #66 @ $FC981
+
+（ウジチチやま）のばしょって<LINE>（クフモクやま）の<LINE>ちょうじょうから<LINE>づづいている さらに<LINE>たかいところなんだろ?<LINE>ひえ- さむそう・・・<END>
+//POINTER #67 @ $FCEAC - STRING #67 @ $FC9C7
+
+（ウジチチやま）の のぼりかたはまず したのどうくつから!<LINE>じょうほうのでどころは<LINE>ひみつだよ-<END>
+//POINTER #68 @ $FCEB0 - STRING #68 @ $FC9F9
+
+（ウジチチやま）の<LINE>ちょうじょうあたりで<LINE>ニンゲンをみたんだって<LINE>へんな3にんぐみらしいけど・・(HERO)くんが<LINE>そんなひとを さがしていたってきいてたから おしえておくよ<END>
+//POINTER #69 @ $FCEB4 - STRING #69 @ $FCA4E
+
+（キワトラかいがん）から<LINE>みぎにいくと（テックかい）が<LINE>ひろがってるんだ<LINE>ここにある しまから<LINE>どこかにいけるって<LINE>ちいさいころきいたんだ<END>
+//POINTER #70 @ $FCEB8 - STRING #70 @ $FCA95
+
+（テックかい）には<LINE>（カラツムどうくつ）っていう<LINE>どうくつのいりぐちが あるんだ<LINE>このなかには すごい<LINE>かいぞうデンジュウが<LINE>いるんだぜ<END>
+//POINTER #71 @ $FCEBC - STRING #71 @ $FCADB
+
+（テックかい）にある どうくつにすごい かいぞうデンジュウが<LINE>いるんだけど コイツは<LINE>1たい1の テレファングしか<LINE>しないんだ<LINE>ほかのヤツがいると<LINE>どこかに ふっとばしちゃうんだ<END>
+//POINTER #72 @ $FCEC0 - STRING #72 @ $FCB36
+
+もうすこしで (RED)ヒホウ(/RED)が<LINE>なにか わかるんだね<LINE>ざいほうだったら<LINE>ボクにも わけてね!<END>
+//POINTER #73 @ $FCEC4 - STRING #73 @ $FCB64
+
+(HERO)くんが<LINE>デンジュウカイに きたときに<LINE>じぶんで いまのすがたを<LINE>そうぞうできた?<LINE>ボクは できなかったよ<LINE>キミと トモダチだなんて<LINE>なんだか ほこらしいな<END>
+//POINTER #74 @ $FCEC8 - STRING #74 @ $FCBB5
+
+（イアスカ）ってところにいる<LINE>デンジュウは（そら）の<LINE>ぞくせいだっていう はなしを<LINE>きいたことがあるよ<LINE>ほんとかどうか わからないけどね<END>
+//POINTER #75 @ $FCECC - STRING #75 @ $FCBFB
+
+Dメロはぜんぶあつめたかい?<LINE>デンジュウカイにいるひとたちにはなしかけてごらん<LINE>もってるひとが<LINE>いるとおもうよ<END>
+//POINTER #76 @ $FCED0 - STRING #76 @ $FCC34
+
+デンジュウは ぜんぶあつめたかいなかなかでてこないデンジュウもいるから みつけたら<LINE>（かいぞうアイテム）をあげて<LINE>バンゴウを おしえてもらうんだ<END>
+//POINTER #77 @ $FCED4 - STRING #77 @ $FCC7E
+
+むかし さいきょうのTファンガ-（スマイルシスタ-ズ）っていうTファンガ-がいたんだけど・・・いまも けんざいっていう<LINE>うわさが ながれてるんだ・・・<LINE>ほんとだったら・・・すごいな!テレファング してみたいぜ!<END>

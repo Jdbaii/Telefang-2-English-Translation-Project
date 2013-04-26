@@ -1,0 +1,1438 @@
+//GAME NAME:		Telefang 2 - Power (GBA)
+
+//BLOCK #003 NAME:		4 - Dialogue (POINTER)
+
+//POINTER #0 @ $CC7A0 - STRING #0 @ $C50E0
+
+(RED)デンジュウ:(/RED)<LINE>いてててててて!<LINE>いま はなしかけないでくれ!<END>
+//POINTER #1 @ $CC7A4 - STRING #1 @ $C5102
+
+(RED)デンジュウ:(/RED)<LINE>そとで ウロウロしている<LINE>デンジュウは みんな<LINE>テレファングの あいてを<LINE>さがしているデンジュウだから<LINE>きをつけるんだよ<END>
+//POINTER #2 @ $CC7A8 - STRING #2 @ $C5149
+
+(RED)デンジュウ:(/RED)<LINE>ここからさきは<LINE>きけんだ!<LINE>テレファングの けいけんのないニンゲンは とおせないぞ!<END>
+//POINTER #3 @ $CC7AC - STRING #3 @ $C517E
+
+(RED)デンジュウ:(/RED)<LINE>さっきは ゆだんしたんだ!<LINE>こんどは とおさないぞ!<END>
+//POINTER #4 @ $CC7B0 - STRING #4 @ $C51A3
+
+(RED)デンジュウ:(/RED)<LINE>ものしりデンジュウの いえ?<LINE>いどの うえにある いえだよ<END>
+//POINTER #5 @ $CC7B4 - STRING #5 @ $C51CB
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイにきたばかりで<LINE>トモダチが いないのかい?<LINE>ニンゲンだけで むらのそとに<LINE>でていくのは あぶないよ<END>
+//POINTER #6 @ $CC7B8 - STRING #6 @ $C520E
+
+(RED)デンジュウ:(/RED)<LINE>テレファングは さいだい<LINE>（3たい3）でたたかうんだ<LINE>テレファングに さんかできる<LINE>かずは アンテナのほんすうに<LINE>さゆうされるから<LINE>たまには たちどまって<LINE>かくにんするんだよ<END>
+//POINTER #7 @ $CC7BC - STRING #7 @ $C5270
+
+(RED)デンジュウ:(/RED)<LINE>テレファングは<LINE>つよくなったかい?<END>
+//POINTER #8 @ $CC7C0 - STRING #8 @ $C528C
+
+(RED)デンジュウ:(/RED)<LINE>ものしりデンジュウの いえ?<LINE>このうえにある いえだよ<END>
+//POINTER #9 @ $CC7C4 - STRING #9 @ $C52B2
+
+(RED)デンジュウ:(/RED)<LINE>むかしは たくさんの<LINE>ニンゲンが デンジュウカイに<LINE>きてたんだって<LINE>また ニンゲンたちが たくさん<LINE>きてくれると うれしいな<END>
+//POINTER #10 @ $CC7C8 - STRING #10 @ $C52FB
+
+(RED)デンジュウ:(/RED)<LINE>あれ? (RED)タネ(/RED)を さがしに<LINE>いったんじゃ なかったっけ?<END>
+//POINTER #11 @ $CC7CC - STRING #11 @ $C5323
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)に はっぱが<LINE>はえてたんだ!<LINE>いつのまに! ってかんじだよ<END>
+//POINTER #12 @ $CC7D0 - STRING #12 @ $C5353
+
+(RED)デンジュウ:(/RED)<LINE>キミと トモダチに?<LINE>トモダチには なれないけど<LINE>トモダチが いないデンジュウはしってるよ<END>
+//POINTER #13 @ $CC7D4 - STRING #13 @ $C538B
+
+(RED)デンジュウ:(/RED)<LINE>テレファングで まけちゃったりにげだしちゃったりしたら<LINE>トモダチが キミのことを<LINE>きらいに なっていくからね<LINE>きらわれたら テレファングの<LINE>さいちゅうに いうことを<LINE>きかなかったりすることがあるよ<END>
+//POINTER #14 @ $CC7D8 - STRING #14 @ $C53F8
+
+(RED)デンジュウ:(/RED)<LINE>みなれない かおだな<LINE>デンジュウカイに<LINE>きたばっかりなのか?<LINE>それじゃあ オレが<LINE>デンジュウの しんかについて<LINE>おしえてやろう<LINE>しんかには（しぜん）と<LINE>（かいぞう）の 2しゅるいが<LINE>ある<LINE>（しぜん）しんかは そのまんま<LINE>あるレベルになると しんかする（かいぞう）しんかは まず<LINE>（かいぞうアイテム）を<LINE>てにいれないと ダメなんだ<LINE>そして（かいぞうや）に<LINE>いくんだぞ!<END>
+//POINTER #15 @ $CC7DC - STRING #15 @ $C54BA
+
+(RED)デンジュウ:(/RED)<LINE>オレたち デンジュウは<LINE>さいだい2かい （しぜん）の<LINE>しんかが できるんだぜ<LINE>（かいぞう）は 2パタ-ンだ<LINE>（しぜん）に しんかした<LINE>デンジュウは（かいぞう）できないこれだけは おぼえておくんだぞ<END>
+//POINTER #16 @ $CC7E0 - STRING #16 @ $C5527
+
+(RED)デンジュウ:(/RED)<LINE>（しぜん）しんかは<LINE>さいこうで 2かいできる<LINE>（かいぞう）しんかは<LINE>さいこうで 2パタ-ンだ<LINE>（しぜん）に しんかした<LINE>デンジュウは（かいぞう）できないちゃんと おぼえてるかい?<END>
+//POINTER #17 @ $CC7E4 - STRING #17 @ $C558B
+
+(RED)デンジュウ:(/RED)<LINE>（タケダマどうくつ）にいくの?(RED)タネ(/RED)から(RED)め(/RED)が<LINE>でてるといいなぁ そしたら<LINE>(RED)アンテナのき(/RED)も<LINE>ふっかつできるもんね!<END>
+//POINTER #18 @ $CC7E8 - STRING #18 @ $C55D3
+
+(RED)デンジュウ:(/RED)<LINE>こんにちは<LINE>ここは（タケダマむら）だよ<END>
+//POINTER #19 @ $CC7EC - STRING #19 @ $C55F1
+
+(RED)デンジュウ:(/RED)<LINE>へえ (RED)タケダマどうくつ(/RED)に<LINE>(RED)アンテナのタネ(/RED)を <LINE>とりにいくんだ がんばってね<END>
+//POINTER #20 @ $CC7F0 - STRING #20 @ $C5625
+
+(RED)デンジュウ:(/RED)<LINE>（タケダマどうくつ）にいくの?(RED)タネ(/RED)から(RED)め(/RED)が<LINE>でてるといいなぁ そしたら<LINE>(RED)アンテナのき(/RED)も<LINE>ふっかつできるもんね!<END>
+//POINTER #21 @ $CC7F4 - STRING #21 @ $C566D
+
+(RED)デンジュウ:(/RED)<LINE>ボクも いつか ニンゲンカイにあそびに いきたいな<END>
+//POINTER #22 @ $CC7F8 - STRING #22 @ $C5691
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウが テレファングの<LINE>さいちゅうに くりだす<LINE>わざって いろいろあるんだ<LINE>それぞれに ぞくせいも<LINE>あるんだよ<END>
+//POINTER #23 @ $CC7FC - STRING #23 @ $C56D6
+
+(RED)デンジュウ:(/RED)<LINE>わざを おおきくわけると<LINE>4しゅるい<LINE>（むぞくせいわざ）<LINE>（ぞくせいわざ）（ほじょわざ）<LINE>（でんまわざ）の<LINE>4しゅるいだ!<END>
+//POINTER #24 @ $CC800 - STRING #24 @ $C571E
+
+(RED)デンジュウ:(/RED)<LINE>（むぞくせいわざ）は<LINE>どんな デンジュウにも<LINE>そこそこきく!<LINE>（ぞくせいわざ）は<LINE>デンジュウの ぞくせいとの<LINE>あいしょうで ダメ-ジがかわる<LINE>（ほじょわざ）は<LINE>テレファングをゆうりにすすめる<LINE>そして（でんまわざ）は<LINE>ひっさつわざだよ!!!!<END>
+//POINTER #25 @ $CC804 - STRING #25 @ $C57A1
+
+(RED)デンジュウ:(/RED)<LINE>オヤジさんたち みつかった?<LINE>そうか それはよかったね<END>
+//POINTER #26 @ $CC808 - STRING #26 @ $C57C7
+
+(RED)Tファンガ-:(/RED)<LINE>キミは デンジュウのトモダチ<LINE>なんびきできた?<LINE>えっ? まだ いっぴきもいないじつは オレも まだなんだ<LINE>おたがい がんばろうな!<END>
+//POINTER #27 @ $CC80C - STRING #27 @ $C5814
+
+(RED)Tファンガ-:(/RED)<LINE>テレファングでうけたダメ-ジはテレファングが おわっても<LINE>のこっているんだ<LINE>たおされた デンジュウなんて<LINE>HPが（1）になってるんだぜ<LINE>でも（かいぞうや）や アイテムでかいふくできるんだよ<END>
+//POINTER #28 @ $CC810 - STRING #28 @ $C587E
+
+(RED)Tファンガ-:(/RED)<LINE>キミって (RED)アンテナのき(/RED)を<LINE>ふっかつさせた Tファンガ-?<LINE>きっと デンジュウの かんりもかんぺきなんだろ?<LINE>テレファングで たおされて<LINE>HPが（1）になっている<LINE>デンジュウなんて いないでしょオレも デンジュウたちを<LINE>アイテムとか （かいぞうや）でかいふくさせないとな-<END>
+//POINTER #29 @ $CC814 - STRING #29 @ $C5913
+
+(RED)Tファンガ-:(/RED)<LINE>テレファングに デンジュウを<LINE>3たい よんでいるとき<LINE>オレたち Tファンガ-が<LINE>（コンボ）を しじすると<LINE>デンジュウは れんぞくわざを<LINE>つかうことができるんだ<LINE>わざのこうかを<LINE>うまくかんがえて くみあわせるとこうかてきだぞ<END>
+//POINTER #30 @ $CC818 - STRING #30 @ $C598E
+
+(RED)Tファンガ-:(/RED)<LINE>テレファングに デンジュウが<LINE>3たいさんかしていて<LINE>Tファンガ-が いるときに<LINE>だせる（コンボ）は れんぞくで<LINE>わざを だすだけじゃ ないんだあたえるダメ-ジも ふえるんだ<END>
+//POINTER #31 @ $CC81C - STRING #31 @ $C59F0
+
+(RED)Tファンガ-:(/RED)<LINE>テレファングに デンジュウが<LINE>3たい さんかしているときに<LINE>Tファンガ-のつかう<LINE>（コンボ）はダメ-ジもふえるけどつかいかたを まちがえると<LINE>むだになってしまう<LINE>ことがあるから<LINE>よく かんがえるんだよ!<END>
+//POINTER #32 @ $CC820 - STRING #32 @ $C5A61
+
+(RED)Tファンガ-:(/RED)<LINE>ものしりデンジュウのいえ?<LINE>さあ? こっちにきたばっかりで<LINE>なにも しらないの ごめんね<END>
+//POINTER #33 @ $CC824 - STRING #33 @ $C5A99
+
+(RED)Tファンガ-:(/RED)<LINE>デンジュウには （せいかく）があるのよ<LINE>（せいかく）によっては<LINE>テレファングによんでも<LINE>こなかったりするから<LINE>よくちゅういしてね<LINE>でも （せいかく）だけで<LINE>トモダチは えらばないほうが<LINE>いいわよ<END>
+//POINTER #34 @ $CC828 - STRING #34 @ $C5B06
+
+(RED)Tファンガ-:(/RED)<LINE>デンジュウには いろいろな<LINE>（せいかく）があるの<LINE>テレファングによんでも<LINE>こないような デンジュウでも<LINE>いいところは あるのよ<LINE>デンジュウたちにも トモダチが<LINE>それぞれいるんだけど<LINE>（せいかく）によっては<LINE>そのトモダチが<LINE>たすけにきてくれやすいことも<LINE>あるらしいわ<END>
+//POINTER #35 @ $CC82C - STRING #35 @ $C5B96
+
+(RED)Tファンガ-:(/RED)<LINE>ふっふっふっ・・・<LINE>いいところに きたな<LINE>このオレを おぼえておくがいいオレは デンジュウカイに<LINE>あらたなでんせつを きずくおとこふっふっふっ・・・<LINE>(RED)Tファンガ-:(/RED)<LINE>ふっふっふっ・・・<LINE>なかなか つよそうなヤツと<LINE>トモダチになったようだな<LINE>だが いまだあえぬ わがともの<LINE>あしもとにも およばぬだろう<LINE>ふっふっふっ・・・<END>
+//POINTER #36 @ $CC830 - STRING #36 @ $C5BEB
+
+(RED)Tファンガ-:(/RED)<LINE>ふっふっふっ・・・<LINE>なかなか つよそうなヤツと<LINE>トモダチになったようだな<LINE>だが いまだあえぬ わがともの<LINE>あしもとにも およばぬだろう<LINE>ふっふっふっ・・・<END>
+//POINTER #37 @ $CC834 - STRING #37 @ $C5C44
+
+(RED)Tファンガ-:(/RED)<LINE>ふっふっふっ・・・<LINE>さきを こされてしまったようだなだが ここまでだ<LINE>いまから オレの じだいが<LINE>はじまる・・・・・<END>
+//POINTER #38 @ $CC838 - STRING #38 @ $C5C8A
+
+(RED)Tファンガ-:(/RED)<LINE>ふっふっふっ・・・<LINE>たぶん いつか そのうち・・・<LINE>ぐすん・・・<LINE>(RED)Tファンガ-:(/RED)<LINE>キミの おとうさん?<LINE>どんなひと?<LINE>ハチマキをしているひとか・・<LINE>あったこと ないなぁ<END>
+//POINTER #39 @ $CC83C - STRING #39 @ $C5CB5
+
+(RED)Tファンガ-:(/RED)<LINE>キミの おとうさん?<LINE>どんなひと?<LINE>ハチマキをしているひとか・・<LINE>あったこと ないなぁ<END>
+//POINTER #40 @ $CC840 - STRING #40 @ $C5CEC
+
+(RED)Tファンガ-:(/RED)<LINE>（タケダマどうくつ）にいくの?なら いくつか（やくそう）を<LINE>もっていったほうが いいわよ<LINE>（やくそう）はヒットポイントが<LINE>20 かいふくするの<LINE>あると こころづよいわよ<END>
+//POINTER #41 @ $CC844 - STRING #41 @ $C5D4C
+
+(RED)Tファンガ-:(/RED)<LINE>ワタシと おなじかっこうを<LINE>した Tファンガ-は<LINE>アイテムを うっているの<LINE>ひつようなときは<LINE>こえをかけてみて<END>
+//POINTER #42 @ $CC848 - STRING #42 @ $C5D8F
+
+(RED)デンジュウ:(/RED)<LINE>えっ? ものしりデンジュウの<LINE>いえは ここじゃないよ<LINE>ものしりデンジュウの いえは<LINE>いどの うえにあるよ<END>
+//POINTER #43 @ $CC84C - STRING #43 @ $C5DCE
+
+(RED)デンジュウ:(/RED)<LINE>むかしは デンジュウカイの<LINE>りっぱな(RED)アンテナのき(/RED)を<LINE>たっていたもんさ<LINE>いまでは デンジュウカイにも<LINE>かぞえるほどしか のこっとらんむかしは よかったな・・・<END>
+//POINTER #44 @ $CC850 - STRING #44 @ $C5E29
+
+(RED)デンジュウ:(/RED)<LINE>うれしいよ あんなにわかくて<LINE>あおあおとした (RED)アンテナのき(/RED)を<LINE>また みることが できるんなてこれも アンタの おかげだね<END>
+//POINTER #45 @ $CC854 - STRING #45 @ $C5E72
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウには それぞれ<LINE>ぞくせいが あるんだよ<LINE>（いわやま）（しんりん）<LINE>（そうげん）（さばく）<LINE>（すいせい）（そら）<LINE>それぞれ もっているわざにも<LINE>ぞくせいが あるんだ<LINE>あいての デンジュウと<LINE>つかうわざの あいしょうを<LINE>よく かんがえるんだよ<END>
+//POINTER #46 @ $CC858 - STRING #46 @ $C5EF9
+
+(RED)デンジュウ:(/RED)<LINE>けっこうまえの はなしだけど<LINE>ハチマキをしたへんなおじさんが<LINE>ここで おちゃして いったよ<LINE>オレのいれた おちゃを<LINE>うまそうに のんでくれたなぁ<END>
+//POINTER #47 @ $CC85C - STRING #47 @ $C5F4C
+
+(RED)デンジュウ:(/RED)<LINE>ここは おみせだよ<LINE>ここで うっていてるアイテムは<LINE>（サポ-トアイテム）と<LINE>よばれるアイテムで<LINE>テレファングのときに<LINE>デンジュウを サポ-トするのに<LINE>Tファンガ-が つかうんだ<LINE>デンジュウにそうびできる<LINE>（そうびアイテム）や<LINE>デンジュウの（かいぞう）につかう（かいぞうアイテム）は<LINE>（たからばこ）や<LINE>（テレファング）で<LINE>てにいれるんだ<LINE>アイテムを うるときは<LINE>（イベントアイテム）とよばれる<LINE>アイテムいがいは うることが<LINE>できるからね<END>
+//POINTER #48 @ $CC860 - STRING #48 @ $C6030
+
+(RED)デンジュウ:(/RED)<LINE>やあ キミたちの かつやくは<LINE>このむらまで とどいてるよ<LINE>がんばってね<END>
+//POINTER #49 @ $CC864 - STRING #49 @ $C605E
+
+(RED)デンジュウ:(/RED)<LINE>あっ ニンゲンだ<LINE>さいきん いろんな ニンゲンが<LINE>やってくるなぁ・・・<END>
+//POINTER #50 @ $CC868 - STRING #50 @ $C608C
+
+(RED)デンジュウ:(/RED)<LINE>むらの そとで ウロウロしてるれんちゅうは テレファングの<LINE>あいてを さがしているんだ<LINE>トモダチを つくりたいなら<LINE>まめに はなしかけるといいよ<END>
+//POINTER #51 @ $CC86C - STRING #51 @ $C60DF
+
+(RED)デンジュウ:(/RED)<LINE>すこしまえのことだけど<LINE>ハチマキをまいた おじさんが<LINE>（トカリベむら）に いくって<LINE>いってたよ<END>
+//POINTER #52 @ $CC870 - STRING #52 @ $C6119
+
+(RED)デンジュウ:(/RED)<LINE>テレファングのときに<LINE>（Dショット）で デンジュウを<LINE>よぶことが できるんだけど<LINE>よんでから テレファングの<LINE>ばしょに くるのに<LINE>じかんが かかるんだ<LINE>このじかんは デンジュウの<LINE>しゅっしんちによって<LINE>ちがうんだよ<END>
+//POINTER #53 @ $CC874 - STRING #53 @ $C618F
+
+(RED)デンジュウ:(/RED)<LINE>（Dショット）で よんでも<LINE>そのばしょに つくまで<LINE>じかんがかかるんだ<LINE>くるまでに ぜんめつしたり<LINE>ぜんめつさせたりしたら<LINE>テレファング しゅうりょうだよ<END>
+//POINTER #54 @ $CC878 - STRING #54 @ $C61E7
+
+(RED)デンジュウ:(/RED)<LINE>このむらにも（がっこう）が<LINE>あればいいのになぁ<LINE>あれば テレファングのこと<LINE>いろいろ おしえてもらえるのに<LINE>そしたらオレも テレファングがもっと つよくなるとおもうんだ<END>
+//POINTER #55 @ $CC87C - STRING #55 @ $C6246
+
+(RED)デンジュウ:(/RED)<LINE>う'ん たいくつだなぁ<LINE>ボクも トモダチみつけに<LINE>たびに でようかな?<END>
+//POINTER #56 @ $CC880 - STRING #56 @ $C6274
+
+(RED)デンジュウ:(/RED)<LINE>ようこそ （タケダマむら）へ<LINE>ここで デンジュウのトモダチが<LINE>たくさん できると いいね<END>
+//POINTER #57 @ $CC884 - STRING #57 @ $C62AB
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウのトモダチが<LINE>できたんだ よかったね<END>
+//POINTER #58 @ $CC888 - STRING #58 @ $C62CD
+
+(RED)デンジュウ:(/RED)<LINE>そういえば アイツ かいがんでウロウロしてたよな<LINE>みずあびを しているうちに<LINE>うみに おとしたんじゃないの?<END>
+//POINTER #59 @ $CC88C - STRING #59 @ $C630E
+
+(RED)デンジュウ:(/RED)<LINE>むらの いりぐちで<LINE>さわぐなよなぁ<LINE>ジャマでしょうがないよ<END>
+//POINTER #60 @ $CC890 - STRING #60 @ $C6336
+
+(RED)Tファンガ-:(/RED)<LINE>テレファングして<LINE>だいじなものを おとすなんて<LINE>ドジだよなぁ<END>
+//POINTER #61 @ $CC894 - STRING #61 @ $C6360
+
+(RED)デンジュウ:(/RED)<LINE>う-ん アイツが むらの<LINE>いりぐちで さわぎだしてから<LINE>もう ずいぶんたつからなぁ<LINE>いまごろは もう だれかに<LINE>ひろわれてるんじゃ ないかな?<END>
+//POINTER #62 @ $CC898 - STRING #62 @ $C63B2
+
+(RED)デンジュウ:(/RED)<LINE>ここは（トカリベむら）だよ<END>
+//POINTER #63 @ $CC89C - STRING #63 @ $C63CA
+
+(RED)Tファンガ-:(/RED)<LINE>このむらでは みかけない<LINE>デンジュウだけど やまをこえた<LINE>（チアワタむら）から<LINE>きたのかな?<END>
+//POINTER #64 @ $CC8A0 - STRING #64 @ $C6404
+
+(RED)デンジュウ:(/RED)<LINE>コイツじゃまだなぁ・・・<LINE>コイツのおかげで<LINE>ここを とおれないよ<END>
+//POINTER #65 @ $CC8A4 - STRING #65 @ $C642F
+
+(RED)デンジュウ:(/RED)<LINE>いりぐちで さわいでたヤツってこのむらに どんなようじで<LINE>なにを しにきたんだろうな?<END>
+//POINTER #66 @ $CC8A8 - STRING #66 @ $C6465
+
+(RED)デンジュウ:(/RED)<LINE>ここは（トカリベむら）だよ<END>
+//POINTER #67 @ $CC8AC - STRING #67 @ $C647D
+
+(RED)デンジュウ:(/RED)<LINE>このむらには （がんやく）が<LINE>うってないから おおきなケガを<LINE>したときに こまるんだよ・・・わざわざ ほかのむらまで<LINE>かいにいかないと いけないしね<END>
+//POINTER #68 @ $CC8B0 - STRING #68 @ $C64D2
+
+(RED)デンジュウ:(/RED)<LINE>キミの トモダチが<LINE>いりぐちで さわいでた<LINE>デンジュウに おいかけられて<LINE>いたけど だいじょうぶかい?<END>
+//POINTER #69 @ $CC8B4 - STRING #69 @ $C6510
+
+(RED)デンジュウ:(/RED)<LINE>キミのトモダチの おんなのこ<LINE>すっごく あしが はやいなぁ<LINE>（スクリュ-）かなにかで<LINE>（かいぞう）しんかしてるの?<END>
+//POINTER #70 @ $CC8B8 - STRING #70 @ $C6554
+
+(RED)Tファンガ-:(/RED)<LINE>やまにすむ デンジュウは<LINE>（いわやま）っていう ぞくせいのデンジュウが おおいんだ<LINE>きをつけてね<END>
+//POINTER #71 @ $CC8BC - STRING #71 @ $C6590
+
+(RED)Tファンガ-:(/RED)<LINE>ハチマキをした おっさんねぇ<LINE>なにか さがしてたみたいだけど<LINE>ここのむらには なかったみたいすぐに（チアワタむら）へ<LINE>いってしまったよ<END>
+//POINTER #72 @ $CC8C0 - STRING #72 @ $C65DF
+
+(RED)デンジュウ:(/RED)<LINE>あ-っ ゴハンがおいしいっ!<END>
+//POINTER #73 @ $CC8C4 - STRING #73 @ $C65F8
+
+(RED)デンジュウ:(/RED)<LINE>（かいぞうや）のよこに<LINE>いえをたてたのは・・・<LINE>しっぱいだったかな?<END>
+//POINTER #74 @ $CC8C8 - STRING #74 @ $C6625
+
+(RED)デンジュウ:(/RED)<LINE>このまえから<LINE>うえの（クフモクやま）をこえた<LINE>（チアワタむら）から<LINE>デンジュウが くるんだ・・<LINE>きょうもきてたよね-<END>
+//POINTER #75 @ $CC8CC - STRING #75 @ $C666A
+
+(RED)デンジュウ:(/RED)<LINE>テレファングで かつためには<LINE>まずたいりょくだ!<LINE>よし たべるぞ!!<END>
+//POINTER #76 @ $CC8D0 - STRING #76 @ $C6697
+
+(RED)デンジュウ:(/RED)<LINE>いえのまえを かだんにしようとおもっているんだ<LINE>ニンゲンのセカイに<LINE>なにかきれいな<LINE>はなは ないかな?<END>
+//POINTER #77 @ $CC8D4 - STRING #77 @ $C66D5
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをした おっさんねぇ<LINE>なにか さがしてたみたいだけど<LINE>ここのむらには なかったみたいすぐに（チアワタむら）へ<LINE>いってしまったよ<END>
+//POINTER #78 @ $CC8D8 - STRING #78 @ $C6723
+
+(RED)デンジュウ:(/RED)<LINE>あのおんなのこ?<LINE>キミのしりあいか?<LINE>さっきから おおさわぎで<LINE>こまってるんだよ・・・<END>
+//POINTER #79 @ $CC8DC - STRING #79 @ $C6759
+
+(RED)デンジュウ:(/RED)<LINE>キミの トモダチ?<LINE>いいや あれから みてないけどなやまのほうには<LINE>いっていないとおもうよ<END>
+//POINTER #80 @ $CC8E0 - STRING #80 @ $C6791
+
+(RED)デンジュウ:(/RED)<LINE>おんなのこと デンジュウ?<LINE>あぁ さっき したの<LINE>でぐちから でていったのを<LINE>みたよ<LINE>そのあたりで テレファングでもしてるんじゃないかな??<END>
+//POINTER #81 @ $CC8E4 - STRING #81 @ $C67E2
+
+(RED)デンジュウ:(/RED)<LINE>たまにはメ-ルを<LINE>チェックするんだぞ<LINE>トモダチの Tファンガ-は<LINE>オレが メ-ルを おくっても<LINE>ちっとも みてくれないんだ<LINE>オレ もしかしてきらわれてる?<END>
+//POINTER #82 @ $CC8E8 - STRING #82 @ $C683A
+
+(RED)デンジュウ:(/RED)<LINE>キミって しんせつなヤツだね<LINE>キミのような Tファンガ-が<LINE>いるのなら もういちど<LINE>ニンゲンカイとの こうりゅうが<LINE>ふかまるのも いいかもな<END>
+//POINTER #83 @ $CC8EC - STRING #83 @ $C688B
+
+(RED)デンジュウ:(/RED)<LINE>キミのトモダチの おんなのこ<LINE>すっごく あしが はやいなぁ<END>
+//POINTER #84 @ $CC8F0 - STRING #84 @ $C68D0
+
+(RED)Tファンガ-:(/RED)<LINE>ワタシの デンワバンゴウの<LINE>メモリ-すうに せいげんが<LINE>あるのを すっかりわすれてたわあたらしい デンワバンゴウを<LINE>ゲットしたければ すでにある<LINE>だれかの デンワバンゴウを<LINE>けさなくっちゃ いけないのよ<END>
+//POINTER #85 @ $CC8F4 - STRING #85 @ $C6941
+
+(RED)Tファンガ-:(/RED)<LINE>ハチマキをした おっさんねぇ<LINE>なにか さがしてたみたいだけど<LINE>ここのむらには なかったみたいすぐに（チアワタむら）へ<LINE>いってしまったよ<END>
+//POINTER #86 @ $CC8F8 - STRING #86 @ $C6990
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)?<LINE>う-ん(RED)ヒホウ(/RED)なんて なまえの<LINE>デンジュウに あったことないな<END>
+//POINTER #87 @ $CC8FC - STRING #87 @ $C69CA
+
+(RED)デンジュウ:(/RED)<LINE>（チアワタむら）のちかくにあるどうくつに (RED)アンテナのタネ(/RED)が<LINE>あるってうわさ ほんとうかな?うわさで （タケダマむら）の<LINE>(RED)アンテナのタネ(/RED)が<LINE>ふっかつしたって<LINE>きいたけど それがほんとうならそっちの どうくつの(RED)タネ(/RED)も<LINE>(RED)め(/RED)が でているかもね<END>
+//POINTER #88 @ $CC900 - STRING #88 @ $C6A52
+
+(RED)デンジュウ:(/RED)<LINE>（かいぞう）しんか するときはきをつけなよ<LINE>すでに しんかしているものは<LINE>（かいぞう）できないし<LINE>アイテムと デンジュウの<LINE>くみあわせによっては<LINE>（かいぞう）できないことが<LINE>あるからな<END>
+//POINTER #89 @ $CC904 - STRING #89 @ $C6AB9
+
+(RED)デンジュウ:(/RED)<LINE>うん? ああ そのふたりなら キャアキャア いいながら <LINE>いえのなかを グルグル<LINE>はしりまわってたけど<LINE>そのうち でていっちゃったよ<LINE>・・・やかましかったなぁ<LINE>とくに あの おんなのこがさ<END>
+//POINTER #90 @ $CC908 - STRING #90 @ $C6B22
+
+(RED)デンジュウ:(/RED)<LINE>いえのまえを かだんにしようとおもっているんだ<LINE>（なぞのはな）の タネを<LINE>うえようと おもうんだけど<LINE>どこかに うってないかなぁ<LINE>（なぞのはな）が あったら<LINE>どんなケガしても<LINE>あんしんだからね<END>
+//POINTER #91 @ $CC90C - STRING #91 @ $C6B8D
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをした おっさんねぇ<LINE>なにか さがしてたみたいだけど<LINE>ここのむらには なかったみたいすぐに（チアワタむら）へ<LINE>いってしまったよ<END>
+//POINTER #92 @ $CC910 - STRING #92 @ $C6BDB
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンの おんなのこ?<LINE>しばらく どこかかくれるとこを<LINE>さがしていたみたいだけど<LINE>あきらめて でていったよ<END>
+//POINTER #93 @ $CC914 - STRING #93 @ $C6C1C
+
+(RED)デンジュウ:(/RED)<LINE>ここは（トカリベむら）だよ<LINE>ここから したにいけば<LINE>（タケダマむら）に いけるよ<END>
+//POINTER #94 @ $CC918 - STRING #94 @ $C6C4F
+
+(RED)デンジュウ:(/RED)<LINE>ここは（トカリベむら）だ<LINE>うえのほうにいくと<LINE>（チアワタむら）にいけるよ<END>
+//POINTER #95 @ $CC91C - STRING #95 @ $C6C7E
+
+(RED)デンジュウ:(/RED)<LINE>う'ん・・・ なにをかいて<LINE>メ-ルすればいいのか わからない（ステ-キすきか?）は<LINE>さんざん メ-ルしたし・・・<LINE>なにか いいフレ-ズはないかな<END>
+//POINTER #96 @ $CC920 - STRING #96 @ $C6CD1
+
+(RED)デンジュウ:(/RED)<LINE>こんにちは<END>
+//POINTER #97 @ $CC924 - STRING #97 @ $C6CE1
+
+(RED)デンジュウ:(/RED)<LINE>オレたちが うまれるまえはさ<LINE>(RED)アンテナのき(/RED)を つかって<LINE>デンジュウカイじゅう どこでも<LINE>すきなところに いけたんだって<END>
+//POINTER #98 @ $CC928 - STRING #98 @ $C6D29
+
+(RED)Tファンガ-:(/RED)<LINE>デンジュウカイじゅうの<LINE>(RED)アンテナのき(/RED)が<LINE>ふっかつしたら こっちに<LINE>あそびにくるのがらくになるね<END>
+//POINTER #99 @ $CC92C - STRING #99 @ $C6D66
+
+(RED)Tファンガ-:(/RED)<LINE>ニンゲンカイは いま<LINE>なんじなんだろう?<LINE>オレ まだ あしたのしゅくだいすませてないんだよ<END>
+//POINTER #100 @ $CC930 - STRING #100 @ $C6D9F
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)って<LINE>たべものじゃなかったっけ?<LINE>えっ? ちがう?<LINE>な'んだ じゃ きょうみないね<END>
+//POINTER #101 @ $CC934 - STRING #101 @ $C6DE0
+
+(RED)デンジュウ:(/RED)<LINE>しっぱいだ しっぱいだ<LINE>（かいぞうや）の となりにいえをたてるんじゃなかったよ<LINE>ギコバコ ドタバタ ガンガン<LINE>うるさくて ひるねもできないよ<END>
+//POINTER #102 @ $CC938 - STRING #102 @ $C6E31
+
+(RED)デンジュウ:(/RED)<LINE>よくきてくれたね<LINE>（トカリベむら）は きにいった?まあ ゆっくり していきなよ<END>
+//POINTER #103 @ $CC93C - STRING #103 @ $C6E63
+
+(RED)デンジュウ:(/RED)<LINE>ボクも (RED)あしわ(/RED)をかって<LINE>スピ-ドアップしようかな?<LINE>あっ でも こうげきりょくが<LINE>あがる (RED)うでわ(/RED)のほうが <LINE>いいかもね<END>
+//POINTER #104 @ $CC940 - STRING #104 @ $C6EAD
+
+(RED)デンジュウ:(/RED)<LINE>きめた!<LINE>ニンゲンカイにある<LINE>（ばら）っていうはなを<LINE>うえるぞ!<END>
+//POINTER #105 @ $CC944 - STRING #105 @ $C6ED8
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンカイに あそびに<LINE>おいでって さそわれたんだけど<LINE>（タケダマむら）までいくのも<LINE>だるいしなぁ'<LINE>あ'あっ このむらにも<LINE>(RED)アンテナのき(/RED)が あればなぁ'<END>
+//POINTER #106 @ $CC948 - STRING #106 @ $C6F33
+
+(RED)デンジュウ:(/RED)<LINE>キミのような Tファンガ-が<LINE>たくさんいれば(RED)アンテナのき(/RED)が<LINE>かれずに すんだのかもな<END>
+//POINTER #107 @ $CC94C - STRING #107 @ $C6F6A
+
+(RED)デンジュウ:(/RED)<LINE>アイツには こまってるんだな<LINE>イタズラしていないときは<LINE>ほくせいにある いけのまえで<LINE>のんきに ひるねしてるんだな<LINE>はやくいって こらしめてやってほしいんだな<END>
+//POINTER #108 @ $CC950 - STRING #108 @ $C6FC4
+
+(RED)デンジュウ:(/RED)<LINE>アイツの イタズラには<LINE>ほんとうに こまっているんだな<LINE>はやく こらしめて イタズラをやめさせて ほしいんだな<END>
+//POINTER #109 @ $CC954 - STRING #109 @ $C7006
+
+(RED)デンジュウ:(/RED)<LINE>このあいだ イタズラずきの<LINE>デンジュウに おどろかされて<LINE>こしを ぬかしてしまったんだなすっごく びっくりしたんだな<LINE>キミも きを つけるんだな<END>
+//POINTER #110 @ $CC958 - STRING #110 @ $C7059
+
+(RED)デンジュウ:(/RED)<LINE>ついこのあいだまで<LINE>イタズラずきのデンジュウが<LINE>くさをあんだ わっかを<LINE>むらの そこいらじゅうに<LINE>つくったんだな<LINE>ぜんぶとるのが<LINE>たいへんだったんだな<END>
+//POINTER #111 @ $CC95C - STRING #111 @ $C70AF
+
+(RED)デンジュウ:(/RED)<LINE>このあいだは イドのなかを<LINE>カエルで いっぱいに<LINE>していたんだな<LINE>みずを くみあげるたびに<LINE>ゲコゲコ うるさかったんだな<END>
+//POINTER #112 @ $CC960 - STRING #112 @ $C70F6
+
+(RED)Tファンガ-:(/RED)<LINE>う'っ かゆいよ かゆいよ'<LINE>ひるねをして おきてみたら<LINE>くさのしるで カオにラクガキをされていたんだ<LINE>おかげで カオが かぶれて<LINE>かゆいのなんのって・・・<LINE>いったい どこのどいつが<LINE>こんなイタズラをしたんだ!?<END>
+//POINTER #113 @ $CC964 - STRING #113 @ $C716C
+
+(RED)Tファンガ-:(/RED)<LINE>キミも イタズラものを<LINE>こらしめにきたのかい?<LINE>ボク? ボクはちがうよ<LINE>このむらに トモダチをたずねて<LINE>きただけさ<END>
+//POINTER #114 @ $CC968 - STRING #114 @ $C71B1
+
+(RED)デンジュウ:(/RED)<LINE>う-ん ボクは イタズラの<LINE>ひがいに あったことが<LINE>ないんだな<LINE>だから イタズラもののことは<LINE>どうでも いいんだな<END>
+//POINTER #115 @ $CC96C - STRING #115 @ $C71F5
+
+(RED)デンジュウ:(/RED)<LINE>アイツが イタズラをするようになったのは つい さいきんの<LINE>ことなんだな<LINE>まえは とても いいデンジュウ<LINE>だったんだな なにか ワケが<LINE>あるにちがいないんだな<END>
+//POINTER #116 @ $CC970 - STRING #116 @ $C724F
+
+(RED)デンジュウ:(/RED)<LINE>ちょっと しょっぱくても<LINE>いいなら おちゃをのんで<LINE>いくんだな<LINE>イタズラものの デンジュウに<LINE>しおとさとうを いれかえられてしまってたんだな<LINE>すてるのも もったいないから<LINE>がまんして のんでいるんだな<END>
+//POINTER #117 @ $CC974 - STRING #117 @ $C72BE
+
+(RED)デンジュウ:(/RED)<LINE>みんな イタズラものの<LINE>デンジュウに こまってるんだな<LINE>ところで のどがかわいていたらすきなだけ おちゃを のむと<LINE>いいんだな ボ ボクは<LINE>のどが かわいていないから<LINE>おちゃは ほしくないんだな<END>
+//POINTER #118 @ $CC978 - STRING #118 @ $C732A
+
+(RED)デンジュウ:(/RED)<LINE>きのう ねようとおもったら<LINE>ベットのなかに いっぱい<LINE>ケムシがいてビックリしたんだなひとばんかけて ベットを<LINE>きれいにしてたんだな<LINE>だから とっても ねむいんだな<END>
+//POINTER #119 @ $CC97C - STRING #119 @ $C7386
+
+(RED)デンジュウ:(/RED)<LINE>さいきん あのこ こないんだなこどものデンジュウなんだな<LINE>いぜんは テレファングしてくれしてくれ'って よく<LINE>ここに きていたんだな<LINE>あいてを してやらなかったから<LINE>どこかで いじけてるのかなぁ<END>
+//POINTER #120 @ $CC980 - STRING #120 @ $C73F2
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしたおっさん?<LINE>ちょっとまえの ことだけど<LINE>（チアワタどうくつ）にいくってむらを でていったんだな<LINE>どうくつのちかくに<LINE>いなかった?<END>
+//POINTER #121 @ $CC984 - STRING #121 @ $C7444
+
+(RED)デンジュウ:(/RED)<LINE>（チアワタどうくつ）は<LINE>もりの うえにあるよ<END>
+//POINTER #122 @ $CC988 - STRING #122 @ $C7465
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキの おじさん?<LINE>もしかしたら（メリバロむら）に<LINE>いったのかもしれないんだな<LINE>（メリバロむら）へは したの<LINE>でくちから いくんだな<END>
+//POINTER #123 @ $CC98C - STRING #123 @ $C74B4
+
+(RED)デンジュウ:(/RED)<LINE>イタズラものが かいしんした<LINE>おかげで あんしんして<LINE>くらせるように なったんだな<LINE>みんな キミの おかげなんだな<LINE>ありがとう なんだな<END>
+//POINTER #124 @ $CC990 - STRING #124 @ $C7503
+
+(RED)デンジュウ:(/RED)<LINE>テレファングしたくって<LINE>イタズラしてたんだな<LINE>だったら ゆるすんだな<LINE>オレも テレファングが<LINE>だいすきだから なんだな<END>
+//POINTER #125 @ $CC994 - STRING #125 @ $C7549
+
+(RED)Tファンガ-:(/RED)<LINE>う'ん・・・ ねているあいだにオレのカオに ラクガキした<LINE>はんにんは こどもの<LINE>デンジュウだったのか<LINE>しょうがない ゆるしてやるか<END>
+//POINTER #126 @ $CC998 - STRING #126 @ $C7596
+
+(RED)Tファンガ-:(/RED)<LINE>(RED)アンテナのタネ(/RED)って<LINE>あといくつぐらい<LINE>のこって いるんだろう?<END>
+//POINTER #127 @ $CC99C - STRING #127 @ $C75C3
+
+(RED)Tファンガ-:(/RED)<LINE>キミは Tファンガ-の<LINE>しょうめいしょ もってるかい?<LINE>ボクは もっていないんだよ<LINE>あれを もらえたら<LINE>いっぱしの Tファンガ-さ<END>
+//POINTER #128 @ $CC9A0 - STRING #128 @ $C7610
+
+(RED)デンジュウ:(/RED)<LINE>（チアワタどうくつ）は<LINE>そんちょうの めいれいで<LINE>ふうさされて いたんだな<LINE>さすがの イタズラものも<LINE>(RED)アンテナのタネ(/RED)が<LINE>ほぞんされている どうくつでは<LINE>イタズラできなかったんだな<END>
+//POINTER #129 @ $CC9A4 - STRING #129 @ $C7676
+
+(RED)デンジュウ:(/RED)<LINE>テレファングしたくって<LINE>イタズラしてたんだな・・・<LINE>いってくれれば いつでも<LINE>テレファングしてあげたんだな<LINE>もちろん こどもあいてに<LINE>ほんきで やらないんだな<END>
+//POINTER #130 @ $CC9A8 - STRING #130 @ $C76D0
+
+(RED)デンジュウ:(/RED)<LINE>もう あのこの いたずらを<LINE>きにして くらさなくても<LINE>いいんだな<LINE>これで あんしんして おいしい<LINE>おちゃが のめるんだな<END>
+//POINTER #131 @ $CC9AC - STRING #131 @ $C7717
+
+(RED)デンジュウ:(/RED)<LINE>オラのにいちゃんは<LINE>イタズラされなくても<LINE>しょっちゅう しおと さとうをまちがえて いれるんだな<LINE>だから ちっとも あんしんしておちゃが のめないんだな<END>
+//POINTER #132 @ $CC9B0 - STRING #132 @ $C776E
+
+(RED)デンジュウ:(/RED)<LINE>よかった よかった<LINE>これで このむらにも<LINE>へいわなよるが<LINE>やってくるんだな<END>
+//POINTER #133 @ $CC9B4 - STRING #133 @ $C779E
+
+(RED)デンジュウ:(/RED)<LINE>そうか みんなにしかられてまでテレファングがしたかったんだな<LINE>わるかったんだな<LINE>これからは いつでも あのこの<LINE>あいてに なってやるんだな<END>
+//POINTER #134 @ $CC9B8 - STRING #134 @ $C77EE
+
+(RED)デンジュウ:(/RED)<LINE>（チアワタむら）に<LINE>ようこそなんだな<END>
+//POINTER #135 @ $CC9BC - STRING #135 @ $C780B
+
+(RED)デンジュウ:(/RED)<LINE>ここは（チアワタむら）なんだないいところ なんだな<LINE>ここを したにいくと<LINE>（メリバロむら）なんだな<END>
+//POINTER #136 @ $CC9C0 - STRING #136 @ $C7847
+
+(RED)デンジュウ:(/RED)<LINE>こんにちは なんだな<LINE>ここから ひだりにいくと<LINE>(RED)トガリペむら(/RED)なんだな<END>
+//POINTER #137 @ $CC9C4 - STRING #137 @ $C7876
+
+(RED)デンジュウ:(/RED)<LINE>ここを ひだりにいくと<LINE>(RED)アンテナのき(/RED)なんだな<END>
+//POINTER #138 @ $CC9C8 - STRING #138 @ $C7899
+
+(RED)デンジュウ:(/RED)<LINE>そこのいどは おおむかしから<LINE>ここにあるんだな<LINE>でも くんでもくんでも みずがかれないんだな<LINE>とても いい いどなんだな<END>
+//POINTER #139 @ $CC9CC - STRING #139 @ $C78E0
+
+(RED)Tファンガ-:(/RED)<LINE>（おまもり）って ニンゲンが<LINE>もっていても こうかがないんだ<LINE>オマエ しってた?<END>
+//POINTER #140 @ $CC9D0 - STRING #140 @ $C7914
+
+(RED)Tファンガ-:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)かぁ<LINE>どんなものなのかな?<LINE>きっと とっても かっこよくてすごいヤツなんだろうな<END>
+//POINTER #141 @ $CC9D4 - STRING #141 @ $C7955
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が<LINE>ふっかつしたよ<LINE>え? キミたちが どうくつから(RED)タネ(/RED)をとってきたって?<LINE>うっそだ'い<END>
+//POINTER #142 @ $CC9D8 - STRING #142 @ $C7995
+
+(RED)デンジュウ:(/RED)<LINE>ここは（チアワタむら）なんだなすごく いいところ なんだな<LINE>ゆっくりしていくと いいんだな<END>
+//POINTER #143 @ $CC9DC - STRING #143 @ $C79CD
+
+(RED)デンジュウ:(/RED)<LINE>ボクは まいにち まいにち<LINE>テレファングしてるんだな<LINE>テレファングできるって<LINE>しあわせなことなんだな<END>
+//POINTER #144 @ $CC9E0 - STRING #144 @ $C7A0A
+
+(RED)デンジュウ:(/RED)<LINE>おちゃでも のんでいくんだな<LINE>えんりょは いらないんだな<END>
+//POINTER #145 @ $CC9E4 - STRING #145 @ $C7A31
+
+(RED)デンジュウ:(/RED)<LINE>このおちゃに はいってるのは<LINE>しお? さとう?<LINE>わかるまで のみたくないんだな<END>
+//POINTER #146 @ $CC9E8 - STRING #146 @ $C7A63
+
+(RED)デンジュウ:(/RED)<LINE>（チアワタむら）めいぶつ<LINE>(RED)アンテナのき(/RED) まんじゅうを<LINE>つくって うりだそうかと<LINE>おもうんだけど どうかな?<LINE>(RED)タネ(/RED)が(RED)め(/RED)をだした・・<LINE>めざめたってとこに ひっかけて<LINE>なかみを （めざましどけい）にするつもりなんだな<LINE>ニンゲンカイでも だいヒット<LINE>まちがいなしなんだな<END>
+//POINTER #147 @ $CC9EC - STRING #147 @ $C7AF7
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が あるってのは<LINE>いいもんだな<LINE>やっぱり デンジュウカイには<LINE>(RED)アンテナのき(/RED)が<LINE>ひつようなんだな<END>
+//POINTER #148 @ $CC9F0 - STRING #148 @ $C7B3B
+
+(RED)デンジュウ:(/RED)<LINE>ごめんだな<LINE>このどうくつは いま<LINE>ふうさちゅうなんだな<END>
+//POINTER #149 @ $CC9F4 - STRING #149 @ $C7B61
+
+(RED)デンジュウ:(/RED)<LINE>どうくつのなかは<LINE>デンジュウが いっぱいるんだな<LINE>きをつけて いってくるんだな<END>
+//POINTER #150 @ $CC9F8 - STRING #150 @ $C7B93
+
+(RED)Tファンガ-:(/RED)<LINE>ボクらは もうすこし<LINE>やすんでいくよ<LINE>また どこかで あえるといいね<END>
+//POINTER #151 @ $CC9FC - STRING #151 @ $C7BC1
+
+(RED)デンジュウ:(/RED)<LINE>テレファングして<LINE>つよくなりたいな・・・・<END>
+//POINTER #152 @ $CCA00 - STRING #152 @ $C7BE1
+
+(RED)チャコル:(/RED)<LINE>じゃましないで!<LINE>いまから ミドリちゃんに<LINE>いいところを みせるんだから!<END>
+//POINTER #153 @ $CCA04 - STRING #153 @ $C7C10
+
+(RED)デンジュウ:(/RED)<LINE>いまから テレファングするんだよこのほうに よけてくれ!<END>
+//POINTER #154 @ $CCA08 - STRING #154 @ $C7C37
+
+(RED)デンジュウ:(/RED)<LINE>あ'あ むらのふうさがとけて<LINE>Tファンガ-たちが おおぜい<LINE>むらから でていっちゃった<LINE>いろんなはなしが きけて<LINE>たのしかったのになぁ'<LINE>もいうちど ドロボウが<LINE>あらわれてくれないかなぁ・・・<END>
+//POINTER #155 @ $CCA0C - STRING #155 @ $C7CA2
+
+(RED)デンジュウ:(/RED)<LINE>・・・ほんとうに ドロボウからとりかえしてきたのかい?<LINE>あやしいなぁ じさくじえんってヤツじゃないの?<LINE>えっ? どういういみかって?<LINE>じぶんで けいかくをたてて<LINE>じぶんじしんで えんじることさ<END>
+//POINTER #156 @ $CCA10 - STRING #156 @ $C7D0D
+
+(RED)デンジュウ:(/RED)<LINE>ドロボウにはいられたのは<LINE>むらの まんなかのいえだよ<LINE>はやく そいつを かえして<LINE>あげたほうが いいよ<END>
+//POINTER #157 @ $CCA14 - STRING #157 @ $C7D4B
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンのなかには ほんとうにわるいヤツも いるんだな<LINE>ボクも きを つけようっと<END>
+//POINTER #158 @ $CCA18 - STRING #158 @ $C7D7F
+
+(RED)デンジュウ:(/RED)<LINE>うたがったりして ごめんね<LINE>ほんとうは Tファンガ-なんだね<END>
+//POINTER #159 @ $CCA1C - STRING #159 @ $C7DA8
+
+(RED)Tファンガ-:(/RED)<LINE>やれやれ やっと むらから<LINE>でることができるよ<LINE>え? あたまに ハチマキを<LINE>まいたTファンガ-かい?<LINE>まだ むらのなかに<LINE>いるんじゃ ないかなぁ<END>
+//POINTER #160 @ $CCA20 - STRING #160 @ $C7DFC
+
+(RED)デンジュウ:(/RED)<LINE>とられたモノを<LINE>とりかえしてくれたんだってね<LINE>キミは ほんとうに<LINE>すてきな Tファンガ-だね<END>
+//POINTER #161 @ $CCA24 - STRING #161 @ $C7E35
+
+(RED)Tファンガ-:(/RED)<LINE>やれやれ やっと むらから<LINE>でることができるよ<LINE>え? あたまに ハチマキを<LINE>まいたTファンガ-かい?<LINE>まだ むらのなかに<LINE>いるんじゃ ないかなぁ<END>
+//POINTER #162 @ $CCA28 - STRING #162 @ $C7E89
+
+(RED)デンジュウ:(/RED)<LINE>たったいま きいたはなしだけど（タケダマむら）と<LINE>（チアワタむら）の<LINE>(RED)アンテナのき(/RED)が なんと<LINE>よみがえったんだって<LINE>え? なんだ もうしってたのか<END>
+//POINTER #163 @ $CCA2C - STRING #163 @ $C7EDF
+
+(RED)デンジュウ:(/RED)<LINE>やあ さっきは わるかったね<LINE>ドロボウにはいられた いえなら<LINE>むらのまんなかの いえだよ<LINE>はやく いってあげな<LINE>きっと キミがくるのを<LINE>まっているよ<END>
+//POINTER #164 @ $CCA30 - STRING #164 @ $C7F34
+
+(RED)デンジュウ:(/RED)<LINE>ドロボウは どこかに にげて<LINE>いったんだって?<LINE>よかった これであんしんして<LINE>くらせるよ<END>
+//POINTER #165 @ $CCA34 - STRING #165 @ $C7F6B
+
+(RED)デンジュウ:(/RED)<LINE>オレ おもうんだけどさぁ<LINE>ドロボウのヤツ あんなものを<LINE>ぬすんで どうするつもり<LINE>だったんだろう<LINE>ニンゲンて ときどき<LINE>へんなこと するよね<END>
+//POINTER #166 @ $CCA38 - STRING #166 @ $C7FBC
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンカイには こうばんってところがあるらしいね<LINE>デンジュウカイにも<LINE>こえばんが ひつようかな?<END>
+//POINTER #167 @ $CCA3C - STRING #167 @ $C7FF8
+
+(RED)デンジュウ:(/RED)<LINE>ドロボウにはいられたのは<LINE>むらのまんなかにある いえだよ<END>
+//POINTER #168 @ $CCA40 - STRING #168 @ $C801F
+
+(RED)デンジュウ:(/RED)<LINE>う'ん Tファンガ-たちには<LINE>わるいことをしたなぁ・・・<LINE>むらの でいりぐちの<LINE>ふうさが とけたしゅんかんに<LINE>みんな とびだしていったもんなあのひとたち・・・<LINE>また あそびにきてくれるかな?<END>
+//POINTER #169 @ $CCA44 - STRING #169 @ $C8089
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンカイとの こうりゅうがうすれていたころは <LINE>ドロボウなんて いなかったよ<LINE>ふう・・・ (RED)アンテナのき(/RED)が<LINE>ふっかつしたのは うれしいけどこんなことが おこるなら<LINE>かんがえものだね<END>
+//POINTER #170 @ $CCA48 - STRING #170 @ $C80F1
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしたおじさん?<LINE>えっ!? キミ あのおじさんの<LINE>こどもなんだ<LINE>まだ むらのなかにいると<LINE>おもうけど さがしてみたら?<END>
+//POINTER #171 @ $CCA4C - STRING #171 @ $C813B
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをした おっさん?<LINE>へぇ' あのひと キミの<LINE>おとうさんだったんだ<LINE>まだ むらのなかにいると<LINE>おもうけど さがしてみたら?<END>
+//POINTER #172 @ $CCA50 - STRING #172 @ $C8187
+
+(RED)デンジュウ:(/RED)<LINE>ここには いどがないから<LINE>みずくみが タイヘンだよ<LINE>（ヘルチカむら）のれんちゅうの<LINE>くろうにくらべたら ましだけどね（ヘルチカむら）は<LINE>（キワトラむら）を<LINE>でて ひだりにいくとにあるんだ<LINE>（キワトラむら）は このむらの<LINE>したにある むらだよ<END>
+//POINTER #173 @ $CCA54 - STRING #173 @ $C820A
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしめたおっさんかい?（かいぞうや）の うらにいる<LINE>デンジュウに はなしをきいた?かれなら しってるとおもうよ<END>
+//POINTER #174 @ $CCA58 - STRING #174 @ $C8250
+
+(RED)デンジュウ:(/RED)<LINE>オトナのTファンガ-あいてに<LINE>うでだめしをしているヤツ?<LINE>（かいぞうや）の うらにいるよ<END>
+//POINTER #175 @ $CCA5C - STRING #175 @ $C8287
+
+(RED)Tファンガ-:(/RED)<LINE>（チアワタむら）では<LINE>イタズラされて<LINE>ここでは あしどめされて・・・つぎにいく むらでは いったいなにがおこるんだろうな?<END>
+//POINTER #176 @ $CCA60 - STRING #176 @ $C82D0
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしめたおじさん?<LINE>あの おじさんたちなら<LINE>へんな デンジュウに<LINE>からまれてたなぁ・・・<LINE>（かいぞうや）の<LINE>うらにいってみなよ<END>
+//POINTER #177 @ $CCA64 - STRING #177 @ $C831E
+
+(RED)デンジュウ:(/RED)<LINE>あたまにハチマキをしたひと?<LINE>う-ん・・・しらないなぁ<END>
+//POINTER #178 @ $CCA68 - STRING #178 @ $C8344
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンのいえって<LINE>うさぎごやみたいだって<LINE>むらにいた Tファンガ-に<LINE>きいたんだけど・・・<LINE>うさぎって なんだい?<END>
+//POINTER #179 @ $CCA6C - STRING #179 @ $C8389
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)?<LINE>ボクは みたことないけど<LINE>それって すごいもの?<END>
+//POINTER #180 @ $CCA70 - STRING #180 @ $C83BB
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをまいたおっさんが<LINE>ここに こなかったかって?<LINE>いや ここには こなかったよ<END>
+//POINTER #181 @ $CCA74 - STRING #181 @ $C83F0
+
+(RED)デンジュウ:(/RED)<LINE>ああ あたまにハチマキを<LINE>まいたニンゲンなら<LINE>むらの でいりぐちが ふうさ<LINE>されていたあいだ ここにいたよ<LINE>いま? さあ・・・<LINE>オトナの Tファンガ-に<LINE>やたらと くってかかるヤツが<LINE>むらにいるから そいつに<LINE>きけば なにか わかるかもね<END>
+//POINTER #182 @ $CCA78 - STRING #182 @ $C8472
+
+(RED)デンジュウ:(/RED)<LINE>Tファンガ-の みなさんが<LINE>いつ きても いいように<LINE>へやのなかを きれいに<LINE>しておかなくっちゃね<END>
+//POINTER #183 @ $CCA7C - STRING #183 @ $C84AE
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをした おじさんかい?むらのなかで みかけたよ<LINE>でも もういまごろは<LINE>したの（キワトラむら）に<LINE>むかっているんじゃないかな?<END>
+//POINTER #184 @ $CCA80 - STRING #184 @ $C84FB
+
+(RED)デンジュウ:(/RED)<LINE>ここは（メリバロむら）だよ<LINE>（キワトラむら）は しただよ<END>
+//POINTER #185 @ $CCA84 - STRING #185 @ $C8522
+
+(RED)デンジュウ:(/RED)<LINE>ここは（メリバロむら）だよ<LINE>キミは もうしってるね<END>
+//POINTER #186 @ $CCA88 - STRING #186 @ $C8546
+
+(RED)デンジュウ:(/RED)<LINE>こんにちは いいてんきだね<END>
+//POINTER #187 @ $CCA8C - STRING #187 @ $C855E
+
+(RED)デンジュウ:(/RED)<LINE>むらのなかでの テレファングがきんしに なったんだよ<LINE>テレファングしたければ<LINE>むらのそとを ウロウロしている<LINE>れんちゅうに こえをかけなよ<END>
+//POINTER #188 @ $CCA90 - STRING #188 @ $C85AE
+
+(RED)デンジュウ:(/RED)<LINE>へいわだな'<LINE>これも みんなキミのおかげだね<END>
+//POINTER #189 @ $CCA94 - STRING #189 @ $C85CF
+
+(RED)Tファンガ-:(/RED)<LINE>オマエ （Dメロ）は<LINE>なんばんめのヤツを つかってる?オレは5ばんめの ヤツが<LINE>おきにいりなんだ<END>
+//POINTER #190 @ $CCA98 - STRING #190 @ $C860B
+
+(RED)デンジュウ:(/RED)<LINE>チアワタむらの(RED)アンテナのき(/RED)が<LINE>ふっかつしたおかげで<LINE>だいぶ デンジュウカイを<LINE>たびしやすくなったよ<END>
+//POINTER #191 @ $CCA9C - STRING #191 @ $C8649
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンカイには<LINE>（デパ-ト）ってところがあって<LINE>いろんな しんかアイテムが<LINE>うっているんだって?<LINE>いいなぁ うらやましいなぁ'<END>
+//POINTER #192 @ $CCAA0 - STRING #192 @ $C8694
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンカイには(RED)アンテナのき(/RED)が1ぽんしか ないんだって<LINE>ニンゲンカイも(RED)アンテナのき(/RED)が<LINE>ふえると いいね<END>
+//POINTER #193 @ $CCAA4 - STRING #193 @ $C86D6
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンは （かいぞう）しんかできないって ほんとう?<LINE>（しぜん）しんかしか<LINE>できないんだ かわいそう'<END>
+//POINTER #194 @ $CCAA8 - STRING #194 @ $C8715
+
+(RED)デンジュウ:(/RED)<LINE>オレさ わるいヤツをつかまえるおまわりさんに しんかしようと<LINE>おもっているんだけど・・・<LINE>おまわりさんに なるには<LINE>なにを つかえば なれるんだ?<END>
+//POINTER #195 @ $CCAAC - STRING #195 @ $C8769
+
+(RED)デンジュウ:(/RED)<LINE>えっ? デンジュウカイの<LINE>いえが ニンゲンカイのいえに<LINE>にているって?<LINE>ばかいっちゃ いけないよ<LINE>ニンゲンカイのいえが<LINE>デンジュウカイのいえに<LINE>にているのさ<END>
+//POINTER #196 @ $CCAB0 - STRING #196 @ $C87C2
+
+(RED)デンジュウ:(/RED)<LINE>オイラのうちは ピカピカだろ?まいにち ちゃんと そうじを<LINE>しているからね<LINE>キミのへやは きれいかい?<END>
+//POINTER #197 @ $CCAB4 - STRING #197 @ $C8800
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が ふっかつして<LINE>デンジュウカイに やってくる<LINE>Tファンガ-たちが どんどん<LINE>ふえてきているよ<LINE>ニンゲンと デンジュウたちの<LINE>あいだで きっと これから<LINE>いろいろたのしいことが<LINE>おきるんだろうね<END>
+//POINTER #198 @ $CCAB8 - STRING #198 @ $C8874
+
+(RED)Tファンガ-:(/RED)<LINE>ハチマキをしたおっさん?<LINE>そのひとなら たったいま<LINE>むらを でていったところだよ<END>
+//POINTER #199 @ $CCABC - STRING #199 @ $C88A8
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしたおっさんかい?<LINE>そのひとなら むらにいるよ<END>
+//POINTER #200 @ $CCAC0 - STRING #200 @ $C88CF
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしたおっさんには<LINE>あわなかったけど<LINE>へんな 3にんぐみが<LINE>ウロウロしていたなぁ・・・<END>
+//POINTER #201 @ $CCAC4 - STRING #201 @ $C8909
+
+(RED)デンジュウ:(/RED)<LINE>ここから したにいった<LINE>（ヘルチカむら）には<LINE>アイテムショップが ないよ<LINE>ここで ひつようなものを<LINE>かっておくと いいよ<END>
+//POINTER #202 @ $CCAC8 - STRING #202 @ $C8950
+
+(RED)Tファンガ-:(/RED)<LINE>あたまに ハチマキをした<LINE>おじさんなら つぎのむらに<LINE>いくって いってたよ<END>
+//POINTER #203 @ $CCACC - STRING #203 @ $C8981
+
+(RED)Tファンガ-:(/RED)<LINE>（キワトラむら）に いくの?<LINE>あそこは（かいぞうや）がないよ<LINE>しんかさせたい デンジュウが<LINE>いるんなら このむらの<LINE>（かいぞうや）によってくんだね<END>
+//POINTER #204 @ $CCAD0 - STRING #204 @ $C89D6
+
+(RED)Tファンガ-:(/RED)<LINE>オレ （ヘルチカむら）から<LINE>もどってきたんだけど<LINE>すなぼこりが すごくて・・・<LINE>（キワトラむら）に いくなら<LINE>（めぐすり）を かっていった<LINE>ほうがいいぞ<END>
+//POINTER #205 @ $CCAD4 - STRING #205 @ $C8A2E
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをまいたおっさんなら<LINE>（ヘルチカむら）に<LINE>いったみたいだよ<END>
+//POINTER #206 @ $CCAD8 - STRING #206 @ $C8A5A
+
+(RED)デンジュウ:(/RED)<LINE>こんにちはでち<LINE>ゆっくりしていくでち・・・<LINE>あれ? あのこの いいかたが<LINE>うつっちゃったでち・・・<LINE>ん? そのこは ほかのふたりと（ヘルチカむら）に<LINE>いったみたいでち<END>
+//POINTER #207 @ $CCADC - STRING #207 @ $C8AB8
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのタネ(/RED)かい?<LINE>そうだね' (RED)アンテナのタネ(/RED)が<LINE>ほかんされているどうくつは<LINE>（ヘルチカむら）のむこう・・<LINE>（ビジニアむら）とのあいだに<LINE>ひとつあったとおもうけど<LINE>なんとなくしか おぼえてないや<END>
+//POINTER #208 @ $CCAE0 - STRING #208 @ $C8B29
+
+(RED)デンジュウ:(/RED)<LINE>このむらの したのでくちを<LINE>でると さばくちたいだ<LINE>たびびとは みんな このむらでアイテムを かったり<LINE>（みず）ぞくせいに<LINE>（かいぞう）しんかしたり<END>
+//POINTER #209 @ $CCAE4 - STRING #209 @ $C8B85
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをまいた おじさんたち（やくそう）とか（めぐすり）<LINE>ちゃんと もってるのかなぁ<LINE>（ヘルチカむら）には<LINE>ショップが ないんだよ<END>
+//POINTER #210 @ $CCAE8 - STRING #210 @ $C8BD2
+
+(RED)Tファンガ-:(/RED)<LINE>ここは（キワトラむら）だよ<LINE>（ヘルチカむら）に いくまえに<LINE>ここでアイテムを<LINE>かっていったほうがいいよ<END>
+//POINTER #211 @ $CCAEC - STRING #211 @ $C8C11
+
+(RED)デンジュウ:(/RED)<LINE>ここは（キワトラむら）です<LINE>（メリバロむら）は ここから<LINE>うえに いったところにあるよ<END>
+//POINTER #212 @ $CCAF0 - STRING #212 @ $C8C47
+
+(RED)デンジュウ:(/RED)<LINE>うえの（メリバロむら）で<LINE>ドロボウさわぎが あったらしいねここにも ドロボウたちが<LINE>くるかもしれないから<LINE>ようじんしようっと<END>
+//POINTER #213 @ $CCAF4 - STRING #213 @ $C8C90
+
+(RED)デンジュウ:(/RED)<LINE>さいきん このむらをおとずれるTファンガ-が おおくなって<LINE>きたんだけど どうしたのかな?えっ? (RED)アンテナのき(/RED)が・・・<LINE>そうか それでなんだね<END>
+//POINTER #214 @ $CCAF8 - STRING #214 @ $C8CE4
+
+Tファンガ-:<LINE>（すいとう）をつかって<LINE>（かいぞう）すると<LINE>（さばく）のぞくせいに<LINE>しんかするんだって<LINE>しってた?<END>
+//POINTER #215 @ $CCAFC - STRING #215 @ $C8D1F
+
+(RED)Tファンガ-:(/RED)<LINE>（かがみ）って （さばく）の<LINE>ぞくせいに しんかするんだぜ<LINE>いがいだよな<END>
+//POINTER #216 @ $CCB00 - STRING #216 @ $C8D4F
+
+(RED)Tファンガ-:(/RED)<LINE>オレさ Tファンガ-として<LINE>なにか こう・・・もうひとつ<LINE>たりないようなきがするんだ<LINE>う'ん いったい なにが<LINE>たりないんだろうな<END>
+//POINTER #217 @ $CCB04 - STRING #217 @ $C8D9C
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしたおっさんは<LINE>デンジュウカイの(RED)ヒホウ(/RED)を<LINE>さがしているらしいね<LINE>えっ キミも さがしているの?<LINE>へぇ' がんばってね<END>
+//POINTER #218 @ $CCB08 - STRING #218 @ $C8DE8
+
+(RED)デンジュウ:(/RED)<LINE>こんにちはでち<LINE>ゆっくりしていくでち・・・<LINE>あれ? あのこの いいかたが<LINE>うつっちゃったでち・・・<LINE>ん? そのこは ほかのふたりと（ヘルチカむら）に<LINE>いったみたいでち<END>
+//POINTER #219 @ $CCB0C - STRING #219 @ $C8E46
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイじゅうの<LINE>(RED)アンテナのき(/RED)がふっかつすると<LINE>なにか いいことが あるらしいそれがなにかは しらないけどね<END>
+//POINTER #220 @ $CCB10 - STRING #220 @ $C8E8C
+
+(RED)デンジュウ:(/RED)<LINE>しばらくは このむらで<LINE>（さばく）ぞくせいの トモダチをふやしたり アイテムを<LINE>かったりして いくといいよ<END>
+//POINTER #221 @ $CCB14 - STRING #221 @ $C8ECC
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをまいた おじさんたち（やくそう）とか（めぐすり）<LINE>ちゃんと もってるのかなぁ<LINE>（ヘルチカむら）には<LINE>ショップがないんだよ<END>
+//POINTER #222 @ $CCB18 - STRING #222 @ $C8F18
+
+(RED)Tファンガ-:(/RED)<LINE>ここは（キワトラむら）だよ<LINE>したの どうくつをこえて<LINE>しばらく すすむと<LINE>（ヘルチカむら）があるよ<END>
+//POINTER #223 @ $CCB1C - STRING #223 @ $C8F55
+
+(RED)デンジュウ:(/RED)<LINE>ここは（キワトラむら）です<LINE>（メリバロむら）は ここから<LINE>うえに いったところにあるよ<END>
+//POINTER #224 @ $CCB20 - STRING #224 @ $C8F8B
+
+(RED)デンジュウ:(/RED)<LINE>このむらは あいもかわらず<LINE>へいわで のんびりとしているよ<END>
+//POINTER #225 @ $CCB24 - STRING #225 @ $C8FB3
+
+(RED)デンジュウ:(/RED)<LINE>むらの ひだりしたの うみに<LINE>よく かいすいよくに いくんだ<LINE>キミは スイカわり すきかい?ボクはあれが だいすきなんだよ<END>
+//POINTER #226 @ $CCB28 - STRING #226 @ $C8FFB
+
+(RED)Tファンガ-:(/RED)<LINE>（ポリタンク）をつかって<LINE>（かいぞう）すると<LINE>（さばく）のぞくせいに<LINE>しんかするんだって<LINE>しってた?<END>
+//POINTER #227 @ $CCB2C - STRING #227 @ $C9039
+
+(RED)Tファンガ-:(/RED)<LINE>（かがみ）って （さばく）の<LINE>ぞくせいに しんかするんだぜ<LINE>いがいだよな<END>
+//POINTER #228 @ $CCB30 - STRING #228 @ $C9069
+
+(RED)Tファンガ-:(/RED)<LINE>へんな 3にんぐみを<LINE>みたぞ・・・<LINE>デンジュウカイが にあわない<LINE>3にんだったなぁ<LINE>このさきの どうくつへ<LINE>むかったみたいだけど<LINE>だいじょうぶかな?<END>
+//POINTER #229 @ $CCB34 - STRING #229 @ $C90BF
+
+(RED)デンジュウ:(/RED)<LINE>さばくのちかくに うみ・・・<LINE>これって すごい ひにくだと<LINE>おもわない?<END>
+//POINTER #230 @ $CCB38 - STRING #230 @ $C90EE
+
+(RED)デンジュウ:(/RED)<LINE>こんにちはでち<LINE>こんな しゃべりかたをする<LINE>ニンゲンに あったんでち<LINE>このいいかた きにいってるでち<LINE>とっても かわいいでち?<END>
+//POINTER #231 @ $CCB3C - STRING #231 @ $C9138
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンカイには さばくに<LINE>ラクダって いきものが<LINE>すんでいるんだってね?<END>
+//POINTER #232 @ $CCB40 - STRING #232 @ $C9168
+
+(RED)デンジュウ:(/RED)<LINE>こんにちは じぶんの うちだとおもって のんびりくつろいでよ<LINE>なんなら ず-っと いても<LINE>いいんだよ<END>
+//POINTER #233 @ $CCB44 - STRING #233 @ $C91A5
+
+(RED)デンジュウ:(/RED)<LINE>（そなえあれば うれいなし）<LINE>（やくそう）や（どくけし）は<LINE>いくつあっても こまらないよね<END>
+//POINTER #234 @ $CCB48 - STRING #234 @ $C91DD
+
+(RED)デンジュウ:(/RED)<LINE>アイツら しゅうねんぶかそうなカオを していたから また<LINE>むらを おそってくるだろうな<LINE>えっ? もうすこし このむらに<LINE>いてくれるって!?<LINE>たすかるよ ありがとう<END>
+//POINTER #235 @ $CCB4C - STRING #235 @ $C9239
+
+(RED)デンジュウ:(/RED)<LINE>ありがとう たすかったよ<LINE>まえに ヤツらが きたときは<LINE>たくわえていた しょくりょうをぜんぶ うばわれてしまったんだ<END>
+//POINTER #236 @ $CCB50 - STRING #236 @ $C927E
+
+(RED)デンジュウ:(/RED)<LINE>ここらへんは みてのとおり<LINE>いきていくだけでも きびしい<LINE>ところさ<LINE>そのうえ こんなことが<LINE>おきるだなんて あんまりだよ<END>
+//POINTER #237 @ $CCB54 - STRING #237 @ $C92C5
+
+(RED)デンジュウ:(/RED)<LINE>アイツらが どこにすんでるか<LINE>わかれば アイツらをやっつけに<LINE>いけるんだけど・・・<LINE>こうして また やってくるのを<LINE>まつしか ないのかなぁ<END>
+//POINTER #238 @ $CCB58 - STRING #238 @ $C9315
+
+(RED)デンジュウ:(/RED)<LINE>あのさんぞくたち また<LINE>すぐに もどってくるって<LINE>いってたけど・・・<LINE>できれば にどと こないで<LINE>ほしいなぁ・・・<END>
+//POINTER #239 @ $CCB5C - STRING #239 @ $C9359
+
+(RED)デンジュウ:(/RED)<LINE>みずがめが こわされなくって<LINE>ほんとうによかったよ<LINE>みずは きちょうひんなんだ<END>
+//POINTER #240 @ $CCB60 - STRING #240 @ $C938B
+
+(RED)デンジュウ:(/RED)<LINE>このむらには ショップが<LINE>ないんだ<LINE>（やくそう）とかが きれたら<LINE>わざわざ さばくをこえて<LINE>ほかのむらまで かいだしに<LINE>いかないとダメなんだよ<END>
+//POINTER #241 @ $CCB64 - STRING #241 @ $C93DD
+
+(RED)デンジュウ:(/RED)<LINE>アナタが きてくれたおかげで<LINE>たすかったわ<LINE>いま テレファングできないのよワタシの おトモダチ・・・<LINE>このあいだ ケガをして<LINE>まだ キズが なおってないのよ<END>
+//POINTER #242 @ $CCB68 - STRING #242 @ $C9436
+
+(RED)デンジュウ:(/RED)<LINE>アイツら・・・<LINE>おなじデンジュウに どうして<LINE>こんなことが できるんだろう?ほんとうに ひどいヤツらだ!<END>
+//POINTER #243 @ $CCB6C - STRING #243 @ $C9475
+
+(RED)デンジュウ:(/RED)<LINE>Tファンガ-さん<LINE>このうちを<LINE>まもってくださいね!!<END>
+//POINTER #244 @ $CCB70 - STRING #244 @ $C949A
+
+(RED)デンジュウ:(/RED)<LINE>キミ すごいな・・・<LINE>ボクは ヤツらが このいえに<LINE>はいってこないように<LINE>するだけで せいいっぱいだよ<END>
+//POINTER #245 @ $CCB74 - STRING #245 @ $C94D8
+
+(RED)デンジュウ:(/RED)<LINE>こんかいは ひがいがなくて<LINE>ほんとうに よかった よかった<END>
+//POINTER #246 @ $CCB78 - STRING #246 @ $C9500
+
+(RED)Tファンガ-:(/RED)<LINE>きゅうに にんそうのわるい<LINE>デンジュウたちが おしかけてきてびっくりしたぜ<LINE>えっ? なんで テレファング<LINE>しなかったのかって?<LINE>だって アイツら ものすごく<LINE>つよそうだったんだもん<END>
+//POINTER #247 @ $CCB7C - STRING #247 @ $C9566
+
+(RED)デンジュウ:(/RED)<LINE>うまれそだった このむらから<LINE>でていきたく ないんだけど<LINE>（キワトラむら）か<LINE>（ビジニアむら）に<LINE>ひっこそうかと しんけんに<LINE>かんがえてるんだよ<END>
+//POINTER #248 @ $CCB80 - STRING #248 @ $C95B9
+
+(RED)Tファンガ-:(/RED)<LINE>み みましたよ<LINE>アナタの かつやくを!!<LINE>いや' かっこよかったなぁ<LINE>おなじ Tファンガ-として<LINE>そんけいしますよ<END>
+//POINTER #249 @ $CCB84 - STRING #249 @ $C95FE
+
+(RED)デンジュウ:(/RED)<LINE>このさき ず-っと<LINE>あんなヤツらに おびえながら<LINE>くらしていかなきゃならないの?<END>
+//POINTER #250 @ $CCB88 - STRING #250 @ $C9631
+
+(RED)デンジュウ:(/RED)<LINE>（タケダマむら）と<LINE>（チアワタむら）で<LINE>あたらしく (RED)アンテナのき(/RED)が<LINE>ふっかつしたそうじゃないか<LINE>だったら むらの かれたきも<LINE>いつかまた あおあおとした<LINE>はを しげらせるかもしれないな<END>
+//POINTER #251 @ $CCB8C - STRING #251 @ $C969A
+
+(RED)デンジュウ:(/RED)<LINE>みんなで ちからを あわせて<LINE>（ヘルチカむら）に<LINE>ようすいろを ひきたいんだ<LINE>なんねんもかかって<LINE>たいへんだとおもうけど<LINE>むらを すみやすくするために<LINE>がんばるよ<END>
+//POINTER #252 @ $CCB90 - STRING #252 @ $C96F6
+
+(RED)デンジュウ:(/RED)<LINE>むらのじゅうにんが<LINE>ふえたのは いいけど<LINE>なんにも たべるものがない<END>
+//POINTER #253 @ $CCB94 - STRING #253 @ $C9723
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしめたおっさんが<LINE>このむらに きたかって?<LINE>きたよ(RED)アンテナのタネ(/RED)の<LINE>ことを きいてたっけ<END>
+//POINTER #254 @ $CCB98 - STRING #254 @ $C9761
+
+(RED)デンジュウ:(/RED)<LINE>やっと あんしんして<LINE>いえのそとを あるけるように<LINE>なったよ ありがとう<END>
+//POINTER #255 @ $CCB9C - STRING #255 @ $C9790
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのタネ(/RED)?<LINE>それなら （ビジニアむら）へいくとちゅうにある どうくつに<LINE>あるってはなしを むかし<LINE>（ビジニアむら）のヤツから<LINE>きいたことがあるよ<END>
+//POINTER #256 @ $CCBA0 - STRING #256 @ $C97E8
+
+(RED)デンジュウ:(/RED)<LINE>みんなで ちからを あわせて<LINE>すこしづつ このむらを<LINE>よくしていこうって きめたんだなんねんかごには このむらを<LINE>デンジュウカイいちの<LINE>ゆたかなむらに するつもりだよ<END>
+//POINTER #257 @ $CCBA4 - STRING #257 @ $C9846
+
+(RED)Tファンガ-:(/RED)<LINE>アイツらに さらわれたって<LINE>きいたときは ほんとうに<LINE>しんぱいしたのよ<LINE>ぶじで よかったわ<END>
+//POINTER #258 @ $CCBA8 - STRING #258 @ $C987F
+
+(RED)デンジュウ:(/RED)<LINE>つみをにくんで デンジュウを<LINE>にくまずさ・・・<LINE>これからは みんなで なかよくくらしていくよ<END>
+//POINTER #259 @ $CCBAC - STRING #259 @ $C98B8
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのタネ(/RED)?<LINE>このむらには ありませんよ<LINE>（ビジニアむら）のちかくにあるいせきに (RED)タネ(/RED)があると<LINE>きいたことはありますが・・・<END>
+//POINTER #260 @ $CCBB0 - STRING #260 @ $C9907
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしめたオヤジ?<LINE>ボクが このむらにきて<LINE>すぐに いなくなっちゃったよ<LINE>そのときは いせきに いくって<LINE>いっていたんだ<END>
+//POINTER #261 @ $CCBB4 - STRING #261 @ $C9951
+
+(RED)デンジュウ:(/RED)<LINE>（ビジニアむら）にいくとちゅう(RED)アンテナのタネ(/RED)がある<LINE>どうくつがあるよ<LINE>でも そのどうくつのなかに<LINE>はいるには （ビジニアむら）のTファンガ-の きょかが<LINE>いるんだって<END>
+//POINTER #262 @ $CCBB8 - STRING #262 @ $C99B1
+
+(RED)Tファンガ-:(/RED)<LINE>このむらは きっと いまより<LINE>よくなるぜ こういうのを<LINE>（あめふって じ かたまる）というんだろうな<LINE>・・・って このことわざで<LINE>いみ あってる?<END>
+//POINTER #263 @ $CCBBC - STRING #263 @ $C9A06
+
+(RED)デンジュウ:(/RED)<LINE>もう このむらから<LINE>ひっこさなくていいんだね<LINE>うれしいよ やっぱり オレは<LINE>このむらが いちばんスキなんだ<LINE>これからも ずっと このむらでくらしていくよ<END>
+//POINTER #264 @ $CCBC0 - STRING #264 @ $C9A5D
+
+(RED)Tファンガ-:(/RED)<LINE>よかったぁ'<LINE>しんぱいしてたんですよ'<LINE>でも アナタのことだ<LINE>ぶじだと しんじていましたよ<END>
+//POINTER #265 @ $CCBC4 - STRING #265 @ $C9A96
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのタネ(/RED)?<LINE>それなら （ビジニアむら）へいくとちゅうにある どうくつに<LINE>あるってはなしを むかし<LINE>（ビジニアむら）のヤツから<LINE>きいたことがあるよ<END>
+//POINTER #266 @ $CCBC8 - STRING #266 @ $C9AEE
+
+(RED)デンジュウ:(/RED)<LINE>ここは いわと すなのむら<LINE>（ヘルチカむら）だよ<END>
+//POINTER #267 @ $CCBCC - STRING #267 @ $C9B11
+
+(RED)デンジュウ:(/RED)<LINE>すこし あめがふってくれると<LINE>たすかるんだけどね<LINE>あまごいの ぎしきでも<LINE>やろうかな?<END>
+//POINTER #268 @ $CCBD0 - STRING #268 @ $C9B47
+
+(RED)デンジュウ:(/RED)<LINE>こんにちは くも ひとつない<LINE>いいてんきだね<LINE>このあたりでは いちねんじゅうこんな てんきなんだけどね<END>
+//POINTER #269 @ $CCBD4 - STRING #269 @ $C9B85
+
+(RED)デンジュウ:(/RED)<LINE>かれたきと すなと いわしか<LINE>ないけれど・・・<LINE>みんなで なかよく ちからを<LINE>あわせて くらしているのが<LINE>このむらの じまんです<END>
+//POINTER #270 @ $CCBD8 - STRING #270 @ $C9BD0
+
+(RED)デンジュウ:(/RED)<LINE>ひよけようの かさを<LINE>ニンゲンカイから しいれて<LINE>むらにくる Tファンガ-に<LINE>うろうと おもってるんだ<LINE>どう? いいアイデアだろ?<END>
+//POINTER #271 @ $CCBDC - STRING #271 @ $C9C1C
+
+(RED)デンジュウ:(/RED)<LINE>このむらでは かまどにくべる<LINE>まきぎだけは ふじゆうしないよ<LINE>いっぽ いえのそとにでれば<LINE>そのへんに おちているからね<END>
+//POINTER #272 @ $CCBE0 - STRING #272 @ $C9C62
+
+(RED)デンジュウ:(/RED)<LINE>へやの なかは ひんやりとしてすずしいだろう?<LINE>ゆっくりと すずんでいきなよ<END>
+//POINTER #273 @ $CCBE4 - STRING #273 @ $C9C93
+
+(RED)デンジュウ:(/RED)<LINE>へやのなかにいても<LINE>このむらは あついわぁ'<LINE>どこか うみのちかくに<LINE>あたらしい おトモダチを<LINE>つくりに いこうかしら?<END>
+//POINTER #274 @ $CCBE8 - STRING #274 @ $C9CDA
+
+(RED)デンジュウ:(/RED)<LINE>あついっていうな!<LINE>あつい あついって いうから<LINE>あついんだ! きいてるほうも<LINE>あつくなってくるだろ!<END>
+//POINTER #275 @ $CCBEC - STRING #275 @ $C9D18
+
+(RED)デンジュウ:(/RED)<LINE>いちどでいいから<LINE>（かきごおり）ってヤツを<LINE>このむらで たべてみたいですね<END>
+//POINTER #276 @ $CCBF0 - STRING #276 @ $C9D48
+
+(RED)デンジュウ:(/RED)<LINE>（さばく）の ぞくせいいがいのデンジュウを さばくで<LINE>かつやくさせたいなら<LINE>（すいとう）か（ポリタンク）で<LINE>（かいぞう）しんか させるのをボクは おすすめるるよ<END>
+//POINTER #277 @ $CCBF4 - STRING #277 @ $C9DA3
+
+(RED)デンジュウ:(/RED)<LINE>えっ? デンジュウカイの<LINE>いえが ニンゲンカイのいえに<LINE>にているって?<LINE>ばかいっちゃ いけないよ<LINE>ニンゲンカイのいえが<LINE>デンジュウカイのいえに<LINE>にているのさ<END>
+//POINTER #278 @ $CCBF8 - STRING #278 @ $C9DFC
+
+(RED)Tファンガ-:(/RED)<LINE>ニンゲンカイに かえると<LINE>みちに じどうはんばいきが<LINE>おいてあって のどがかわいたらすぐに ジュ-スがのめるじゃん<LINE>かんがえてみれば それって<LINE>すごく ぜいたくな<LINE>ことなんだよね<END>
+//POINTER #279 @ $CCBFC - STRING #279 @ $C9E61
+
+(RED)デンジュウ:(/RED)<LINE>テ-ブルクロスのいろを<LINE>ほかのいろに かえようかと<LINE>おもっているんだ<LINE>こんどは なにいろがいいかな?<END>
+//POINTER #280 @ $CCC00 - STRING #280 @ $C9E9E
+
+(RED)Tファンガ-:(/RED)<LINE>ニンゲンカイでも ここと<LINE>おなじように さばくかが<LINE>すすんでいる ところがありますニンゲンカイに かえったら<LINE>このもんだいについて<LINE>ボクにも できることがないか<LINE>しらべてみるつもりです<END>
+//POINTER #281 @ $CCC04 - STRING #281 @ $C9F06
+
+(RED)デンジュウ:(/RED)<LINE>このむらが ず-っと へいわでありますように・・・<LINE>それと デンジュウカイと<LINE>ニンゲンカイも へいわで<LINE>ありますように・・・<END>
+//POINTER #282 @ $CCC08 - STRING #282 @ $C9F4F
+
+(RED)デンジュウ:(/RED)<LINE>きょうは ニンゲンが<LINE>たくさん くるひだなぁ<END>
+//POINTER #283 @ $CCC0C - STRING #283 @ $C9F70
+
+(RED)デンジュウ:(/RED)<LINE>よう アンタたち もう<LINE>（カミシノいせき）にいったか?<LINE>えっ? なかにはいれなかった?それなら Tファンガ-のいえに<LINE>いって きょかを とってきなよ<END>
+//POINTER #284 @ $CCC10 - STRING #284 @ $C9FC5
+
+(RED)デンジュウ:(/RED)<LINE>このまえ ハチマキをした<LINE>おっさんが いってたけど<LINE>デンジュウカイじゅうの<LINE>(RED)アンテナのき(/RED)が<LINE>よみがえりつつ あるんだって?ほんとうなら ビッグニュ-スだ<END>
+//POINTER #285 @ $CCC14 - STRING #285 @ $CA01E
+
+(RED)デンジュウ:(/RED)<LINE>（ヘルチカむら）からきたの?<LINE>ここまで くるのは<LINE>タイヘンだっただろ?<END>
+//POINTER #286 @ $CCC18 - STRING #286 @ $CA04C
+
+(RED)デンジュウ:(/RED)<LINE>ここにくる とちゅうで<LINE>かいふくアイテムが<LINE>きれて たいへんだったんだ<LINE>ハチマキをしたおじさんが<LINE>とおりがからなかったら・・・<LINE>おもいだしただけで<LINE>ぞっとするよ<END>
+//POINTER #287 @ $CCC1C - STRING #287 @ $CA0A7
+
+(RED)デンジュウ:(/RED)<LINE>このさきの（ウラ-ニむら）にはアイテムを うっているところが<LINE>ないらしいよ<END>
+//POINTER #288 @ $CCC20 - STRING #288 @ $CA0D7
+
+(RED)Tファンガ-:(/RED)<LINE>（カミシノいせき）は<LINE>いりぐちが 4つあるんだよ<LINE>いりぐちごとに ゆかのいろが<LINE>ちがうんだよ<END>
+//POINTER #289 @ $CCC24 - STRING #289 @ $CA111
+
+(RED)デンジュウ:(/RED)<LINE>（カミシノいせき）には<LINE>Tファンガ-の きょかがないと<LINE>はいれないよ<END>
+//POINTER #290 @ $CCC28 - STRING #290 @ $CA13E
+
+(RED)デンジュウ:(/RED)<LINE>ほかのむらの れんちゅうは<LINE>どうくつって いってるけど<LINE>(RED)アンテナのタネ(/RED)が ほかん<LINE>されているばしょは すべて<LINE>こだいの いせきなんだよ<LINE>しんせいなばしょなんだ<END>
+//POINTER #291 @ $CCC2C - STRING #291 @ $CA19A
+
+(RED)Tファンガ-:(/RED)<LINE>（カミシノいせき）は<LINE>おくがふかいから きをつけてね<END>
+//POINTER #292 @ $CCC30 - STRING #292 @ $CA1C0
+
+(RED)デンジュウ:(/RED)<LINE>むかしは このむらも<LINE>さばくだったんだよ<LINE>みんなで がんばって ここまでみどりを ふやしたんだ<LINE>いまは ざっそうばかりだけど<LINE>そのうち はなも さくように<LINE>なるよ<END>
+//POINTER #293 @ $CCC34 - STRING #293 @ $CA21C
+
+(RED)デンジュウ:(/RED)<LINE>Tファンガ-のいえは<LINE>ここじゃないよ<END>
+//POINTER #294 @ $CCC38 - STRING #294 @ $CA239
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)を<LINE>ふっかつさせて どうするの?<LINE>デンジュウカイの(RED)ヒホウ(/RED)?<LINE>へへ'っ そんなものが<LINE>あるなんて しらなかったよ<END>
+//POINTER #295 @ $CCC3C - STRING #295 @ $CA285
+
+(RED)デンジュウ:(/RED)<LINE>このさばくの うえには<LINE>(RED)アンテナのき(/RED)が あるむら<LINE>（ウラ-ニむら）が あるんだ<LINE>むかしから ある<LINE>ふるいむらなんだ<END>
+//POINTER #296 @ $CCC40 - STRING #296 @ $CA2CB
+
+(RED)デンジュウ:(/RED)<LINE>ボクも （カミシノいせき）に<LINE>(RED)アンテナのタネ(/RED)を<LINE>さがしにいったことが<LINE>あるんだけど なにも<LINE>みつけられなかったんだ<END>
+//POINTER #297 @ $CCC44 - STRING #297 @ $CA311
+
+(RED)デンジュウ:(/RED)<LINE>このあたりで ショップが<LINE>あるのは このむらだけさ<LINE>（ウラ-ニむら）も ないよ<END>
+//POINTER #298 @ $CCC48 - STRING #298 @ $CA343
+
+(RED)デンジュウ:(/RED)<LINE>（Dショット）にひょうじされるアンテナのかずを<LINE>きをつけて みているかい?<LINE>たっている アンテナのかずが<LINE>すくないほど テレファングに<LINE>よべる デンジュウのかずが<LINE>すくなくなるってのは もう<LINE>じょうしきだよな?<END>
+//POINTER #299 @ $CCC4C - STRING #299 @ $CA3B7
+
+(RED)デンジュウ:(/RED)<LINE>（ウラ-ニむら）は<LINE>（かいぞうや）はあるのに<LINE>どうして アイテムショップは<LINE>ないんだろう?<END>
+//POINTER #300 @ $CCC50 - STRING #300 @ $CA3EF
+
+(RED)デンジュウ:(/RED)<LINE>（ポンプ）で トモダチが<LINE>（かいぞう）したんだ<LINE>でんまこうげきが<LINE>つよくなって ビックリしたよ<LINE>（みずでっぽう）は こうげきがものすごくあがるらしいから<LINE>どっちにするか なやんだけどね<END>
+//POINTER #301 @ $CCC54 - STRING #301 @ $CA456
+
+(RED)Tファンガ-:(/RED)<LINE>いせきにはいる きょかが<LINE>おりたって?<END>
+//POINTER #302 @ $CCC58 - STRING #302 @ $CA475
+
+(RED)デンジュウ:(/RED)<LINE>いせきのなかには めずらしい<LINE>アイテムが あるらしい・・・<LINE>よゆうがあったら みんな<LINE>あつめてごらん<END>
+//POINTER #303 @ $CCC5C - STRING #303 @ $CA4B2
+
+(RED)Tファンガ-:(/RED)<LINE>キミは すごいTファンガ-だ<LINE>これからの かつやくを<LINE>きたいしてるよ!<END>
+//POINTER #304 @ $CCC60 - STRING #304 @ $CA4E1
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が ふっかつしたらますます このむらも<LINE>くらしやすくなるぞ'<END>
+//POINTER #305 @ $CCC64 - STRING #305 @ $CA512
+
+(RED)デンジュウ:(/RED)<LINE>ん? へんな 3にんぐみが<LINE>にげて こなかったかって?<LINE>いいや オレは あったことも<LINE>みかけたことも ないよ<END>
+//POINTER #306 @ $CCC68 - STRING #306 @ $CA553
+
+(RED)デンジュウ:(/RED)<LINE>ここは（ビジニアむら）だよ<LINE>（ヘルチカむら）に いくなら<LINE>わるいことは いわないから<LINE>アイテムを かっていきなよな<END>
+//POINTER #307 @ $CCC6C - STRING #307 @ $CA597
+
+(RED)デンジュウ:(/RED)<LINE>ここは（ビジニアむら）だよ<LINE>（ウラ-ニむら）にいくなら<LINE>ここで アイテムをかっていきなあのむらには ショップがないぜ<END>
+//POINTER #308 @ $CCC70 - STRING #308 @ $CA5DC
+
+(RED)デンジュウ:(/RED)<LINE>となりのむらには<LINE>(RED)アンテナのき(/RED)が あるよ<END>
+//POINTER #309 @ $CCC74 - STRING #309 @ $CA5FD
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が ふっかつして<LINE>べんりになったのは いいけれど<LINE>アイテムが いぜんほど<LINE>うれなくなったって<LINE>アイテムショップの てんいんがなげいていたよ<END>
+//POINTER #310 @ $CCC78 - STRING #310 @ $CA655
+
+(RED)デンジュウ:(/RED)<LINE>（Dショット）にひょうじされるアンテナのかずを<LINE>きをつけて みているかい?<LINE>たっている アンテナのかずが<LINE>すくないほど テレファングに<LINE>よべる デンジュウのかずが<LINE>すくなくなるってのは もう<LINE>じょうしきだよな?<END>
+//POINTER #311 @ $CCC7C - STRING #311 @ $CA6C9
+
+(RED)デンジュウ:(/RED)<LINE>（ウラ-ニむら）は<LINE>（かいぞうや）はあるのに<LINE>どうして アイテムショップは<LINE>ないんだろう?<END>
+//POINTER #312 @ $CCC80 - STRING #312 @ $CA701
+
+(RED)デンジュウ:(/RED)<LINE>（ポンプ）で トモダチを<LINE>（かいぞう）しんかさせたら <LINE>でんまこうげきが<LINE>つよくなって ビックリしたよ<LINE>（みずでっぽう）は こうげきがものすごくあがるらしいから<LINE>どっちにするか なやんだけどね<END>
+//POINTER #313 @ $CCC84 - STRING #313 @ $CA76C
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンカイにも<LINE>（カミシノいせき）のように<LINE>れきしのあるばしょが <LINE>あるんだってね<LINE>いちど いって みようかな<END>
+//POINTER #314 @ $CCC88 - STRING #314 @ $CA7AF
+
+(RED)デンジュウ:(/RED)<LINE>ニンゲンカイに あそびにいってびっくりしたことが あるんだ<LINE>ニンゲンのいえって たてに<LINE>やたら ながいんだな<LINE>うえをみあげて クラクラしたよ<END>
+//POINTER #315 @ $CCC8C - STRING #315 @ $CA800
+
+(RED)Tファンガ-:(/RED)<LINE>テレファングがんばってるかい?<END>
+//POINTER #316 @ $CCC90 - STRING #316 @ $CA81B
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)も<LINE>ふっかつしたことだし<LINE>ニンゲンカイにいって<LINE>あたらしい （Dショット）を<LINE>かおうかな<END>
+//POINTER #317 @ $CCC94 - STRING #317 @ $CA85A
+
+(RED)デンジュウ:(/RED)<LINE>オレ Tファンガ-のトモダチ<LINE>50にんに なったぜ<LINE>すごいだろう?<LINE>キミは デンジュウのトモダチ<LINE>なんにんできた?<END>
+//POINTER #318 @ $CCC98 - STRING #318 @ $CA89E
+
+(RED)デンジュウ:(/RED)<LINE>（ウラ-ニむら）へ ようこそ<LINE>すこしもどると デンジュウカイでいちばんおおきな みずうみ<LINE>（ウラ-ニこ）があるよ<END>
+//POINTER #319 @ $CCC9C - STRING #319 @ $CA8E1
+
+(RED)デンジュウ:(/RED)<LINE>このさきは ぬまちだよ<LINE>あんまり おもしろいところじゃ<LINE>ないから いっても<LINE>しょうがないよ<END>
+//POINTER #320 @ $CCCA0 - STRING #320 @ $CA919
+
+(RED)デンジュウ:(/RED)<LINE>ちょっと わかりにくいけど<LINE>そこのでぐちを みぎにいくと<LINE>(RED)アンテナのき(/RED)があるよ<END>
+//POINTER #321 @ $CCCA4 - STRING #321 @ $CA94D
+
+(RED)デンジュウ:(/RED)<LINE>え? キミに デンワをした<LINE>デンジュウのいえ?<LINE>なまえは? しらないって?<LINE>それじゃあ どのうちか<LINE>わからないよ<END>
+//POINTER #322 @ $CCCA8 - STRING #322 @ $CA990
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)?<LINE>なんだい それ?<LINE>ボクは きいたことがないね<END>
+//POINTER #323 @ $CCCAC - STRING #323 @ $CA9C0
+
+(RED)Tファンガ-:(/RED)<LINE>ハチマキをしめたおっさん?<LINE>ああ そのヒトなら もうひとり<LINE>いっしょにいた おじさんを<LINE>むりやり ひきずって<LINE>（ウラ-ニこ）のほうへ<LINE>もどって いったけど<END>
+//POINTER #324 @ $CCCB0 - STRING #324 @ $CAA19
+
+(RED)デンジュウ:(/RED)<LINE>（ビジニアむら）で アイテムをかっておくのを わすれてたよ<LINE>（メリバロむら）から<LINE>（キワトラむら）にいったときも<LINE>アイテムをかいわすれて<LINE>メチャこうかいしたっていうのに<END>
+//POINTER #325 @ $CCCB4 - STRING #325 @ $CAA78
+
+(RED)デンジュウ:(/RED)<LINE>ん? デンワ?<LINE>ううん ボクは していないよ<LINE>ほかのいえじゃない?<END>
+//POINTER #326 @ $CCCB8 - STRING #326 @ $CAAA4
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)の ちかくで<LINE>ゆうれいの デンジュウを<LINE>みたんだ! うそじゃない<LINE>そのデンジュウは きのちかくで<LINE>フッと すがたを けしたんだよむらの みぎにある<LINE>(RED)アンテナのき(/RED)が<LINE>ふっかつしたら なにかが<LINE>おこるに ちがいないよ!<END>
+//POINTER #327 @ $CCCBC - STRING #327 @ $CAB24
+
+(RED)デンジュウ:(/RED)<LINE>オレの トモダチがさ<LINE>(RED)アンテナのき(/RED)が<LINE>ふっかつしたときに<LINE>ゆうれいをみたっていうんだ<LINE>なんだか こわいから<LINE>うちのむらの (RED)アンテナのき(/RED)は<LINE>ふっかつさせなくて いいよ<END>
+//POINTER #328 @ $CCCC0 - STRING #328 @ $CAB85
+
+(RED)デンジュウ:(/RED)<LINE>おおっ こんなところまで<LINE>よくきなすった!<LINE>え? デンワしたかって?<LINE>いいや ワシは オマエさんの<LINE>デンワバンゴウなんぞ しらんよ<END>
+//POINTER #329 @ $CCCC4 - STRING #329 @ $CABD1
+
+(RED)デンジュウ:(/RED)<LINE>デンワ? キミに?<LINE>ボクは かけてないけど?<END>
+//POINTER #330 @ $CCCC8 - STRING #330 @ $CABF2
+
+(RED)デンジュウ:(/RED)<LINE>ざんねんだけど デンワしたのはボクじゃないよ<LINE>キミが おんなのこなら<LINE>まいにち デンワして<LINE>あげるんだけどね'<END>
+//POINTER #331 @ $CCCCC - STRING #331 @ $CAC34
+
+(RED)デンジュウ:(/RED)<LINE>いま （ビジニアむら）の<LINE>トモダチと デンワしたてんだ<LINE>どうやら ここのむらにある<LINE>(RED)アンテナのき(/RED)を のぞいて<LINE>すべて ふっかつしたらしいね<END>
+//POINTER #332 @ $CCCD0 - STRING #332 @ $CAC86
+
+(RED)デンジュウ:(/RED)<LINE>（ウラ-ニどうくつ）には<LINE>すごくつよい デンジュウがいて<LINE>(RED)アンテナのタネ(/RED)を<LINE>まもっているんだ<END>
+//POINTER #333 @ $CCCD4 - STRING #333 @ $CACC1
+
+(RED)デンジュウ:(/RED)<LINE>このさきは ぬまちだよ<LINE>あんまり おもしろいところじゃ<LINE>ないから いっても<LINE>しょうがないよ<END>
+//POINTER #334 @ $CCCD8 - STRING #334 @ $CACF9
+
+(RED)デンジュウ:(/RED)<LINE>ちょっと わかりにくいけど<LINE>そこのでぐちを みぎにいくと<LINE>(RED)アンテナのき(/RED)があるよ<END>
+//POINTER #335 @ $CCCDC - STRING #335 @ $CAD2D
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしめたおっさん?<LINE>このむらに そんなひとが<LINE>きていたっけ?<END>
+//POINTER #336 @ $CCCE0 - STRING #336 @ $CAD5A
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)?<LINE>なんだい それ?<LINE>ボクは きいたことがないね<END>
+//POINTER #337 @ $CCCE4 - STRING #337 @ $CAD8A
+
+(RED)Tファンガ-:(/RED)<LINE>あの 3にんぐみ・・・<LINE>まだ むら にいるのかなぁ<LINE>なにか わるいことを<LINE>たくらんで いそうな<LINE>かんじだったんだよね・・・<END>
+//POINTER #338 @ $CCCE8 - STRING #338 @ $CADD3
+
+(RED)デンジュウ:(/RED)<LINE>アイテムを かいに<LINE>（ビジニアむら）まで<LINE>もどらなくっちゃ とほほっ<END>
+//POINTER #339 @ $CCCEC - STRING #339 @ $CAE00
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)の ひろばなら<LINE>むらの みぎにあるよ<LINE>ちょっと いりぐちが<LINE>わかりにくいかも しれないけど<END>
+//POINTER #340 @ $CCCF0 - STRING #340 @ $CAE40
+
+(RED)デンジュウ:(/RED)<LINE>オレ (RED)アンテナのき(/RED)で<LINE>ゆうれいをみたんだ<LINE>ほんとだってば<END>
+//POINTER #341 @ $CCCF4 - STRING #341 @ $CAE69
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)の ちかくに<LINE>こわくて ちかづけないんだ<LINE>あいぼうが オバケがいるって<LINE>おどかすもんだからさ'<END>
+//POINTER #342 @ $CCCF8 - STRING #342 @ $CAEAB
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が かれはじめた<LINE>りゆう?<LINE>さあ なんだろうな・・・<LINE>ワシには わからんよ<END>
+//POINTER #343 @ $CCCFC - STRING #343 @ $CAEE3
+
+(RED)デンジュウ:(/RED)<LINE>ハチマキをしめたおっさんには<LINE>あわなかったけど へんな<LINE>3にんぐみには あったよ<LINE>おんなふたり おとこひとり <LINE>そのうちの ひとりは やたらとでちでち いってたなぁ・・・<END>
+//POINTER #344 @ $CCD00 - STRING #344 @ $CAF43
+
+(RED)デンジュウ:(/RED)<LINE>キミたち むらのなかを<END>
+//POINTER #345 @ $CCD04 - STRING #345 @ $CAF59
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのタネ(/RED)を<LINE>もってきたんだ!<LINE>ここのむらにある(RED)アンテナのき(/RED)もいよいよふっかつだね<END>
+//POINTER #346 @ $CCD08 - STRING #346 @ $CAF93
+
+(RED)デンジュウ:(/RED)<LINE>（ウラ-ニどうくつ）には<LINE>すごくつよい デンジュウがいて<LINE>(RED)アンテナのタネ(/RED)を<LINE>まもっているんだ<LINE>(RED)アンテナのタネ(/RED)が ほしいなら<LINE>(RED)タネ(/RED)のしゅごしゃを なっとく<LINE>させないと ダメだね<END>
+//POINTER #347 @ $CCD0C - STRING #347 @ $CAFFB
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)?<LINE>それなら このむらのみぎだ<LINE>えっ? そうじゃない?<LINE>(RED)アンテナのき(/RED)の ふっかつを<LINE>どうおもうかって?<LINE>う'ん むずかいしなぁ・・・<LINE>こたえないとダメかい?<END>
+//POINTER #348 @ $CCD10 - STRING #348 @ $CB05E
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)? ふっかつ?<LINE>べつに ど-でも いいかなぁ<LINE>とくに なにも かわらないしね<END>
+//POINTER #349 @ $CCD14 - STRING #349 @ $CB097
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が あっても<LINE>なくても ボクたちには<LINE>とくに かんけいないよ<END>
+//POINTER #350 @ $CCD18 - STRING #350 @ $CB0C8
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)ね' さいきん<LINE>(RED)アンテナのタネ(/RED)のことを<LINE>いろいろきくヤツが おおいけど(RED)アンテナのき(/RED)を<LINE>ふっかつさせると<LINE>なにかいいことでもあるの?<LINE>(RED)ヒホウ(/RED)?なにそれ?うまい?<END>
+//POINTER #351 @ $CCD1C - STRING #351 @ $CB130
+
+(RED)Tファンガ-:(/RED)<LINE>そういえばさぁ' ハチマキを<LINE>しめたおじさんが<LINE>(RED)アンテナのき(/RED)や<LINE>(RED)アンテナのタネ(/RED)のことを<LINE>どうこういってたよなぁ'<END>
+//POINTER #352 @ $CCD20 - STRING #352 @ $CB178
+
+(RED)Tファンガ-:(/RED)<LINE>（ビジニアむら）で アイテムをかっておくのを わすれてたよ<LINE>（メリバロむら）から<LINE>（キワトラむら）にいったときも<LINE>アイテムをかいわすれて<LINE>メチャこうかいしたっていうのに<END>
+//POINTER #353 @ $CCD24 - STRING #353 @ $CB1D8
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)って<LINE>たべものじゃなかったっけ?<LINE>えっ? ちがう?<LINE>な'んだ じゃ きょうみないね<END>
+//POINTER #354 @ $CCD28 - STRING #354 @ $CB219
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)の ちかくで<LINE>ゆうれいの デンジュウを<LINE>みたんだ! うそじゃない<LINE>そのデンジュウは きのちかくで<LINE>フッと すがたを けしたんだよむらの みぎにある<LINE>(RED)アンテナのき(/RED)が<LINE>ふっかつしたら なにかが<LINE>おこるに ちがいないよ!<END>
+//POINTER #355 @ $CCD2C - STRING #355 @ $CB299
+
+(RED)デンジュウ:(/RED)<LINE>オレの トモダチがさ<LINE>(RED)アンテナのき(/RED)が<LINE>ふっかつしたときに<LINE>ゆうれいをみたっていうんだ<LINE>なんだか こわいから<LINE>うちのむらの (RED)アンテナのき(/RED)は<LINE>ふっかつさせなくて いいよ<END>
+//POINTER #356 @ $CCD30 - STRING #356 @ $CB2FA
+
+(RED)デンジュウ:(/RED)<LINE>ワシは (RED)アンテナのき(/RED)が<LINE>ふっかつするほうが<LINE>いいとおもっとるよ しかし<LINE>それは だれかのつごうで<LINE>やるもんじゃない・・・<LINE>(RED)アンテナのき(/RED)の ふっかつは<LINE>しぜんが きめたことなんだろう<END>
+//POINTER #357 @ $CCD34 - STRING #357 @ $CB363
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)の ふっかつ?<LINE>ぜんぜん かんけいないけど<LINE>へんな 3にんぐみも<LINE>(RED)アンテナのき(/RED)が どうとか<LINE>(RED)ヒホウ(/RED)が こうとか<LINE>いってたなぁ<END>
+//POINTER #358 @ $CCD38 - STRING #358 @ $CB3B8
+
+(RED)デンジュウ:(/RED)<LINE>う'ん (RED)アンテナのき(/RED)の<LINE>ふっかつに ついて?<LINE>う'ん どっちでもいいや<LINE>キミの すきにしなよ<END>
+//POINTER #359 @ $CCD3C - STRING #359 @ $CB3F3
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が<LINE>ふっかつしたね!<LINE>むかしみたいに<LINE>いろいろな Tファンガ-が<LINE>くるようになるのかな?<END>
+//POINTER #360 @ $CCD40 - STRING #360 @ $CB432
+
+(RED)デンジュウ:(/RED)<LINE>ここは （ウラ-ニむら）<LINE>デンジュウカイの さいはて<LINE>・・・だった むらさ<END>
+//POINTER #361 @ $CCD44 - STRING #361 @ $CB462
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)が ふっかつ<LINE>したおかげで どこにいくにも<LINE>べんりになったよ<END>
+//POINTER #362 @ $CCD48 - STRING #362 @ $CB493
+
+(RED)デンジュウ:(/RED)<LINE>(RED)アンテナのき(/RED)は ここを<LINE>みぎに いったところにあるよ<END>
+//POINTER #363 @ $CCD4C - STRING #363 @ $CB4BA
+
+(RED)デンジュウ:(/RED)<LINE>まめに メ-ルのへんじを<LINE>だすって タイヘンだね<LINE>でも へんじを たのしみに<LINE>まっている トモダチのことを<LINE>おもうと がんばれるんだ<END>
+//POINTER #364 @ $CCD50 - STRING #364 @ $CB507
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)って<LINE>トモダチのこと だったんだって<LINE>キミ しってた?<END>
+//POINTER #365 @ $CCD54 - STRING #365 @ $CB53A
+
+(RED)Tファンガ-:(/RED)<LINE>ここまで くるとちゅうで<LINE>いろいろあったけど オレ<LINE>デンジュウカイで たびをして<LINE>よかったなぁって おもってるよ<LINE>トモダチが たくさんできたしね<END>
+//POINTER #366 @ $CCD58 - STRING #366 @ $CB58E
+
+(RED)デンジュウ:(/RED)<LINE>（ビジニアむら）に<LINE>いくとちゅうで アイテムが<LINE>なくなって こまったときに<LINE>デンワひとつで トモダチが<LINE>かけつけて くれたんだ<LINE>やっぱり もつべきものは<LINE>トモダチだよね'<END>
+//POINTER #367 @ $CCD5C - STRING #367 @ $CB5EE
+
+(RED)デンジュウ:(/RED)<LINE>デンジュウカイの(RED)ヒホウ(/RED)って<LINE>たべものじゃなかったっけ?<LINE>えっ? ちがう?<LINE>な'んだ じゃ きょうみないね<END>
+//POINTER #368 @ $CCD60 - STRING #368 @ $CB62F
+
+(RED)デンジュウ:(/RED)<LINE>けっきょく オバケなんて<LINE>いないんだね<LINE>すべては おくびょうな<LINE>こころが つくりだした<LINE>まぼろしなんだ・・・<LINE>でも オレ ようせいは<LINE>どこかに いるとおもうよ<END>
+//POINTER #369 @ $CCD64 - STRING #369 @ $CB689
+
+(RED)デンジュウ:(/RED)<LINE>おくびょうなことは いいことだこわさに まひして むぼうな<LINE>ことをする れんちゅうよりは<LINE>ながいきできると おもわないか<END>
+//POINTER #370 @ $CCD68 - STRING #370 @ $CB6D0
+
+(RED)デンジュウ:(/RED)<LINE>トモダチは タカラ・・・<LINE>まさしく そのと-りじゃ<LINE>トモダチは たいせつにせにゃ<LINE>ならんぞ<END>
+//POINTER #371 @ $CCD6C - STRING #371 @ $CB708
+
+(RED)デンジュウ:(/RED)<LINE>ボクもそろそろ だれかと<LINE>いっしょに くらそうかな?<LINE>きのあった トモダチどうしで<LINE>くらすのって すてきだろうな<END>
+//POINTER #372 @ $CCD70 - STRING #372 @ $CB74B
+
+(RED)デンジュウ:(/RED)<LINE>むかし よんだほんに<LINE>ゆうじょうは つばさのない<LINE>あいじょうである・・・って<LINE>かいてあったよ すてきな<LINE>ことばだと おもよないかい?<END>
+//POINTER #373 @ $CCD74 - STRING #373 @ $CB798
+
+(RED)デンジュウ:(/RED)<LINE>デンワや メ-ルでは<LINE>かおが みえないぶん<LINE>きもちをこめて ていねいに<LINE>へんじを するようにしてるんだ<END>
+//POINTER #374 @ $CCD78 - STRING #374 @ $CB7D6
+
+(RED)ユウ:(/RED)<LINE>こ・・・こしがぬけて・・・<LINE>さきにいってくれ・・・<END>
+//POINTER #375 @ $CCD7C - STRING #375 @ $CB7F7
+
+(RED)チャコル:(/RED)<LINE>ここで まってるから<LINE>おねがいするんだな<END>
+//POINTER #376 @ $CCD80 - STRING #376 @ $CB815
+
+(RED)ミドリ:(/RED)<LINE>ワタシは ここで まってるね<LINE>きをつけて いってきてね<END>
+//POINTER #377 @ $CCD84 - STRING #377 @ $CB839
+
+(RED)ミドリ:(/RED)<LINE>はやく ユウくんのところに<LINE>いってあげて!<LINE>このむらを みぎしたにいくと<LINE>（メリバロむら）よ!<END>
+//POINTER #378 @ $CCD88 - STRING #378 @ $CB871
+
+(RED)デンジュウ:(/RED)<LINE>あの おおきいニンゲンが<LINE>こわいから・・・かくれてた・・<END>
+//POINTER #379 @ $CCD8C - STRING #379 @ $CB898
+
+(RED)デンジュウ:(/RED)<LINE>がんばってね!<END>
+//POINTER #380 @ $CCD90 - STRING #380 @ $CB8AA
+
+(RED)デンジュウ:(/RED)<LINE>きをつけて いってくるんだよ<END>
+//POINTER #381 @ $CCD94 - STRING #381 @ $CB8C3
+
+(RED)そんちょう:(/RED)<LINE>おねがいしたんだな!<END>
+//POINTER #382 @ $CCD98 - STRING #382 @ $CB8D8
+
+(RED)そんちょう:(/RED)<LINE>あのこのことを たのんだんだな<END>
+//POINTER #383 @ $CCD9C - STRING #383 @ $CB8F2
+
+(RED)そんちょう:(/RED)<LINE>あのこは げんきにしてるかな?<END>
+//POINTER #384 @ $CCDA0 - STRING #384 @ $CB90C
+
+(RED)デンジュウ:(/RED)<LINE>これいじょう むらを<LINE>あらされたら たまらないんだな<LINE>おねがいするんだな!<END>
+//POINTER #385 @ $CCDA4 - STRING #385 @ $CB93C
+
+(RED)デンジュウ:(/RED)<LINE>すこし くせがあるだろうけど<LINE>あのこのことを よろしく<LINE>おねがいするんだな<END>
+//POINTER #386 @ $CCDA8 - STRING #386 @ $CB96C
+
+(RED)デンジュウ:(/RED)<LINE>あのこは つよくなったのかな?<END>
+//POINTER #387 @ $CCDAC - STRING #387 @ $CB986
+
+(RED)デンジュウ:(/RED)<LINE>このさきには<LINE>（メリバロむら）があるんだな<END>
+//POINTER #388 @ $CCDB0 - STRING #388 @ $CB9A6
+
+(RED)デンジュウ:(/RED)<LINE>ここは（チアワタむら）なんだな<END>
+//POINTER #389 @ $CCDB4 - STRING #389 @ $CB9C0
+
+(RED)デンジュウ:(/RED)<LINE>ボクの だいじなモノを<LINE>もってきてくれて ありがとう!<END>
+//POINTER #390 @ $CCDB8 - STRING #390 @ $CB9E6
+
+(RED)デンジュウ:(/RED)<LINE>キミって やさしい<LINE>Tファンガ-なんだね<END>
+//POINTER #391 @ $CCDBC - STRING #391 @ $CBA05
+
+(RED)デンジュウ:(/RED)<LINE>あっちにいってよ<LINE>こどもには ようじはないんだ<END>
+//POINTER #392 @ $CCDC0 - STRING #392 @ $CBA27
+
+(RED)デンジュウ:(/RED)<LINE>つよい Tファンガ-は<LINE>みんなトモダチさ!<END>
+//POINTER #393 @ $CCDC4 - STRING #393 @ $CBA47
+
+(RED)Tファンガ-:(/RED)<LINE>ここは きょかがないと<LINE>はいれないよ<END>
+//POINTER #394 @ $CCDC8 - STRING #394 @ $CBA65
+
+(RED)デンジュウ:(/RED)<LINE>（メリバロむら）への<LINE>たちいりは きんししてるんだ<END>
+//POINTER #395 @ $CCDCC - STRING #395 @ $CBA89
+
+(RED)デンジュウ:(/RED)<LINE>ここは（メリバロむら）だよ<END>
+//POINTER #396 @ $CCDD0 - STRING #396 @ $CBAA1
+
+(RED)オトメ:(/RED)<LINE>こ・・・こしがぬけて・・・<LINE>さきにいって・・・<END>
+//POINTER #397 @ $CCDD4 - STRING #397 @ $CBAC1
+
+(RED)マツキヨ:(/RED)<LINE>おかあさんのところに<LINE>いってあげてください<END>
+//POINTER #398 @ $CCDD8 - STRING #398 @ $CBAE0
+
+(RED)デンジュウ:(/RED)<LINE>あのニンゲンたちは<LINE>わるい ひとたちで<LINE>キミは いいひとだったんだ<LINE>ここからみてて よくわかったよ<LINE>こんどから きをつけるね!<END>
+//POINTER #399 @ $CCDDC - STRING #399 @ $CBB2A
+
+(RED)デンジュウ:(/RED)<LINE>このさきは （ウジチチやま）<LINE>いまは ふぶきで はいれないんだ(RED)アンテナのき(/RED)が すべて<LINE>ふっかつすれば ふぶきは<LINE>やむっていう いいつたえなんだ<END>
+//POINTER #400 @ $CCDE0 - STRING #400 @ $CBB7E
+
+(RED)デンジュウ:(/RED)<LINE>あるおかたが みとめないと<LINE>ここは とおれないんだよ<END>
+//POINTER #401 @ $CCDE4 - STRING #401 @ $CBBA3
+
+(RED)デンジュウ:(/RED)<LINE>このさきは オマエが<LINE>はいれるような ばしょじゃあ<LINE>ないんだ<LINE>ここからさきは オレたちの<LINE>なわばりだ<END>
+//POINTER #402 @ $CCDE8 - STRING #402 @ $CBBE0
+
+(RED)おんなのこ:(/RED)<LINE>おんなのこも デンジュウカイはきょうみあるのよ<LINE>じっさいに いっている<LINE>おんなのこの Tファンガ-だっているんだから!<END>
+//POINTER #403 @ $CCDEC - STRING #403 @ $CBC26
+
+(RED)おんなのこ:(/RED)<LINE>デンジュウカイで たんさくの<LINE>おしごとを するひとを<LINE>（Tファンガ-）って<LINE>いうんでしょ<LINE>じつりょくが あったら<LINE>こどもでも なれるんだって!<LINE>ワタシでも なれるかな?<END>
+//POINTER #404 @ $CCDF0 - STRING #404 @ $CBC85
+
+(RED)おとこのこ:(/RED)<LINE>この おにいちゃん<LINE>（Dショット）のことばっかり<LINE>いってるんだ<END>
+//POINTER #405 @ $CCDF4 - STRING #405 @ $CBCAF
+
+(RED)おとこのこ:(/RED)<LINE>（Dショット）ごとに<LINE>デザインとか かべがみとか<LINE>（Dメロ）が ちがうんだってさ<END>
+//POINTER #406 @ $CCDF8 - STRING #406 @ $CBCE2
+
+(RED)おねえちゃん:(/RED)<LINE>ワタシも しょうらいは<LINE>Tファンガ-に なろうかしら?<LINE>なんだか かっこいい<LINE>しょくぎょうじゃない?<END>
+//POINTER #407 @ $CCDFC - STRING #407 @ $CBD20
+
+(RED)おにいちゃん:(/RED)<LINE>あの（Dショット）のデザインがすてがたいんだよな-<LINE>でも あっちの（Dメロ）も・・おかねを ためなきゃな-<END>
+//POINTER #408 @ $CCE00 - STRING #408 @ $CBD61
+
+(RED)おじいちゃん:(/RED)<LINE>きょうびの わかいもんは・・<LINE>ワシらが わかいころには<LINE>（Dショット）なぞ なかったぞフガフガ・・・・・・<END>
+//POINTER #409 @ $CCE04 - STRING #409 @ $CBDA2
+
+(RED)おばあちゃん:(/RED)<LINE>なにいっとるかね じいさん<LINE>（Dショット）を ほしがって<LINE>いたじゃないか・・・・<LINE>それも ついさっき・・・・<LINE>もうわすれたのかい<END>
+//POINTER #410 @ $CCE08 - STRING #410 @ $CBDEE
+
+(RED)ママ:(/RED)<LINE>おとうさん どうしてるのかしらしんぱいだわ<END>
+//POINTER #411 @ $CCE0C - STRING #411 @ $CBE0B
+
+(RED)ママ:(/RED)<LINE>マツキヨおじさんを<LINE>てつだって あげなさい<END>
+//POINTER #412 @ $CCE10 - STRING #412 @ $CBE28
+
+(RED)ママ:(/RED)<LINE>デンジュウカイに<LINE>いくときは きをつけるのよ<LINE>がんばってね<END>
+//POINTER #413 @ $CCE14 - STRING #413 @ $CBE4D
+
+(RED)デンジュウ:(/RED)<LINE>ボク ここでまってるからね!<END>
+//POINTER #414 @ $CCE18 - STRING #414 @ $CBE66
+
+(RED)ミドリ:(/RED)<LINE>やっと おとうさんに<LINE>あえたから しばらく<LINE>ここに いるね<END>
+//POINTER #415 @ $CCE1C - STRING #415 @ $CBE8C
+
+(RED)おんなのこ:(/RED)<LINE>ほんものの Tファンガ-さんてすごいのね<END>
+//POINTER #416 @ $CCE20 - STRING #416 @ $CBEAB
+
+(RED)おとこのこ:(/RED)<LINE>キミなら あのひとたちに<LINE>かてるかもね<LINE>がんばってね<END>
+//POINTER #417 @ $CCE24 - STRING #417 @ $CBED0
+
+(RED)おんなのこ:(/RED)<LINE>ワタシも まだまだ<LINE>がんばらないとね!<LINE>つぎのあいてを さがさないと!<END>
+//POINTER #418 @ $CCE28 - STRING #418 @ $CBEFE
+
+(RED)おとこのこ:(/RED)<LINE>これからも がんばれよ!<END>
+//POINTER #419 @ $CCE2C - STRING #419 @ $CBF15
+
+(RED)おねえちゃん:(/RED)<LINE>ワタシは まだまだ あえそうにないわね・・・<END>
+//POINTER #420 @ $CCE30 - STRING #420 @ $CBF37
+
+(RED)おにいちゃん:(/RED)<LINE>あぁ・・オレの めがみは<LINE>どこにいるんだ・・・・<END>
+//POINTER #421 @ $CCE34 - STRING #421 @ $CBF5B
+
+(RED)おじさん:(/RED)<LINE>キミみたいなひとは いつか<LINE>（スマイルシスタ-ズ）に<LINE>あえるんだろうな<LINE>がんばってくれ<END>
+//POINTER #422 @ $CCE38 - STRING #422 @ $CBF90
+
+(RED)おばあさん:(/RED)<LINE>じいさんをみつけて<LINE>ワシのかわりに<LINE>ガツンと いってやってくれ<END>
+//POINTER #423 @ $CCE3C - STRING #423 @ $CBFBA
+
+(RED)Tファンガ-:(/RED)<LINE>やっぱり キミは<LINE>つよいな さすがだよ!<LINE>これからもがんばってね<END>
+//POINTER #424 @ $CCE40 - STRING #424 @ $CBFE6
+
+(RED)Tファンガ-:(/RED)<LINE>たのむぜ! どんなヤツらか<LINE>みてきてくれよ!<END>
+//POINTER #425 @ $CCE44 - STRING #425 @ $CC008
+
+(RED)おじいさん:(/RED)<LINE>あぁ もうあえんのかのぉ・・・<END>
+//POINTER #426 @ $CCE48 - STRING #426 @ $CC022
+
+(RED)Tファンガ-:(/RED)<LINE>まけちゃった・・・<LINE>でも つよいTファンガ-に<LINE>まけたから くいはないわ<END>
+//POINTER #427 @ $CCE4C - STRING #427 @ $CC052
+
+(RED)Tファンガ-:(/RED)<LINE>ワタシには しかくが<LINE>ないってことなのね・・・<END>
+//POINTER #428 @ $CCE50 - STRING #428 @ $CC075
+
+(RED)Tファンガ-:(/RED)<LINE>けっきょく どんなヤツらか<LINE>わからないままなのね・・・<LINE>アナタ ちゃんと みてきてね<END>
+//POINTER #429 @ $CCE54 - STRING #429 @ $CC0AB
+
+(RED)サラリ-マン:(/RED)<LINE>ようじがあるのに・・どうしよう<END>
+//POINTER #430 @ $CCE58 - STRING #430 @ $CC0C6
+
+(RED)Tファンガ-:(/RED)<LINE>これからも がんばって<LINE>トモダチをつよくしてね<END>
+//POINTER #431 @ $CCE5C - STRING #431 @ $CC0E9
+
+(RED)Tファンガ-:(/RED)<LINE>あとは キミに たくしたよ<LINE>がんばって!<END>
+//POINTER #432 @ $CCE60 - STRING #432 @ $CC109
+
+(RED)デンジュウ:(/RED)<LINE>このさきは（ウラ-ニこ）<LINE>ここへの たちいりは<LINE>（ウラ-ニむら）で<LINE>きょかを もらわないと<LINE>だめだよ<END>
+//POINTER #433 @ $CCE64 - STRING #433 @ $CC146
+
+(RED)ド-ン:(/RED)<LINE>オレが あんなヤツに<LINE>まけるなんて・・・・<END>
+//POINTER #434 @ $CCE68 - STRING #434 @ $CC164
+
+(RED)ギュ-ン:(/RED)<LINE>オレが あんなヤツに<LINE>まけるなんて・・・・<END>
+//POINTER #435 @ $CCE6C - STRING #435 @ $CC183
+
+(RED)ミドリ:(/RED)<LINE>むらのなかにいるからね<END>
+//POINTER #436 @ $CCE70 - STRING #436 @ $CC197
+
+(RED)チャコル:(/RED)<LINE>ミドリちゃんといっしょなら<LINE>どこにいても たのしいんだな<END>
+//POINTER #437 @ $CCE74 - STRING #437 @ $CC1BD
+
+(RED)ユウ:(/RED)<LINE>オレのことは きにするなよ<END>
+//POINTER #438 @ $CCE78 - STRING #438 @ $CC1D2
+
+(RED)オトメ:(/RED)<LINE>ワタシのことは きにしないで<END>
+//POINTER #439 @ $CCE7C - STRING #439 @ $CC1E9
+
+(RED)ド-ン:(/RED)<LINE>ユウくんが うごけるように<LINE>なるまで ここにいるよ<END>
+//POINTER #440 @ $CCE80 - STRING #440 @ $CC20B
+
+(RED)ギュ-ン:(/RED)<LINE>オトメちゃんが うごけるようになるまで ここにいるよ<END>
+//POINTER #441 @ $CCE84 - STRING #441 @ $CC22F
+
+(RED)デンジュウ:(/RED)<LINE>ちょうどいいところに<LINE>あきやが あったんだな<LINE>チャコルが かえってくるまで<LINE>ここにいるんだな<END>
+//POINTER #442 @ $CCE88 - STRING #442 @ $CC268
+
+(RED)ミドリ:(/RED)<LINE>はやく ほんとうの<LINE>ドロボウを つかまえてね<END>
+//POINTER #443 @ $CCE8C - STRING #443 @ $CC287
+
+(RED)チャコル:(/RED)<LINE>このあたりで かくれるなら<LINE>（クフモクやま）が<LINE>いちばんなんだな!<END>
+//POINTER #444 @ $CCE90 - STRING #444 @ $CC2B2
+
+(RED)ミドリ:(/RED)<LINE>はやく（メリバロむら）に<LINE>いってみて!<END>
+//POINTER #445 @ $CCE94 - STRING #445 @ $CC2CE
+
+(RED)チャコル:(/RED)<LINE>ミドリちゃんのトモダチが<LINE>そんなこと するはずが<LINE>ないんだな!<LINE>ほんとうの はんにんは<LINE>ほかにいるんだな!<END>
+//POINTER #446 @ $CCE98 - STRING #446 @ $CC30D
+
+(RED)ミドリ:(/RED)<LINE>とられたものを<LINE>とりかえしたのね<LINE>はやく（メリバロむら）に<LINE>かえしにいってあげて<END>
+//POINTER #447 @ $CCE9C - STRING #447 @ $CC33E
+
+(RED)チャコル:(/RED)<LINE>ミドリちゃんのトモダチが<LINE>そんなこと するはずが<LINE>ないんだな!<LINE>ほんとうの はんにんは<LINE>ほかにいるんだな!<END>
+//POINTER #448 @ $CCEA0 - STRING #448 @ $CC37D
+
+(RED)デンジュウ:(/RED)<LINE>ヤツらがきたら<LINE>おおごえを だすからね<END>
+//POINTER #449 @ $CCEA4 - STRING #449 @ $CC39B
+
+(RED)デンジュウ:(/RED)<LINE>ここは（ヘルチカむら）だよ<LINE>さばくの どまんなかにある<LINE>むらさ<END>
+//POINTER #450 @ $CCEA8 - STRING #450 @ $CC3C5
+
+(RED)デンジュウ:(/RED)<LINE>ここで みはりをしてるんだ<END>
+//POINTER #451 @ $CCEAC - STRING #451 @ $CC3DD
+
+(RED)デンジュウ:(/RED)<LINE>もう みはりはいらないね<END>
+//POINTER #452 @ $CCEB0 - STRING #452 @ $CC3F4
+
+(RED)さんぞくボス:(/RED)<LINE>ここからでるには<LINE>そこのボタンをおせ・・・<END>
+//POINTER #453 @ $CCEB4 - STRING #453 @ $CC415
+
+(RED)ミドリ:(/RED)<LINE>ワタシ このあたりでまってるね<END>
+//POINTER #454 @ $CCEB8 - STRING #454 @ $CC42D
+
+(RED)チャコル:(/RED)<LINE>ミドリちゃんと ここらへんで<LINE>まってるんだな<END>
+//POINTER #455 @ $CCEBC - STRING #455 @ $CC44D
+
+(RED)ミドリ:(/RED)<LINE>みどりの おおいむらね<LINE>ワタシにぴったり!<END>
+//POINTER #456 @ $CCEC0 - STRING #456 @ $CC46B
+
+(RED)ミドリ:(/RED)<LINE>なんだか へんな いらいね<LINE>きをつけてね<END>
+//POINTER #457 @ $CCEC4 - STRING #457 @ $CC488
+
+(RED)ミドリ:(/RED)<LINE>(RED)アンテナのタネ(/RED)あったの?<LINE>はやくもっていってあげて!<END>
+//POINTER #458 @ $CCEC8 - STRING #458 @ $CC4AD
+
+(RED)ミドリ:(/RED)<LINE>このむらは のんびりしてて<LINE>すき!<LINE>しばらくここにいるわ<END>
+//POINTER #459 @ $CCECC - STRING #459 @ $CC4D2
+
+(RED)チャコル:(/RED)<LINE>きをつけていくんだな<LINE>じゅんびを おこたっちゃ<LINE>だめなんだな<END>
+//POINTER #460 @ $CCED0 - STRING #460 @ $CC4FA
+
+(RED)チャコル:(/RED)<LINE>(RED)アンテナのタネ(/RED)を<LINE>もってくるなんて すごいんだな<LINE>いらいをしてきた<LINE>デンジュウの ところへ<LINE>もっていって あげるんだな<END>
+//POINTER #461 @ $CCED4 - STRING #461 @ $CC541
+
+(RED)チャコル:(/RED)<LINE>ボクの すんでたむらに<LINE>そっくりなんだな<LINE>ボクも ここにいるんだな<END>
+//POINTER #462 @ $CCED8 - STRING #462 @ $CC56C
+
+(RED)マキュレット:(/RED)<LINE>おねがいだよ!<LINE>はやく (RED)アンテナのタネ(/RED)を<LINE>もってきて!<END>
+//POINTER #463 @ $CCEDC - STRING #463 @ $CC595
+
+(RED)マキュレット:(/RED)<LINE>ありがとう!<LINE>なんておれいをいっていいか<LINE>わからないよ<END>
+//POINTER #464 @ $CCEE0 - STRING #464 @ $CC5BC
+
+(RED)マキュレット:(/RED)<LINE>おかげで このむらも<LINE>へいわになりそうだよ<LINE>ありがとう<END>
+//POINTER #465 @ $CCEE4 - STRING #465 @ $CC5E3
+
+(RED)コッタ:(/RED)<LINE>たすけてくれて ありがとう!<END>
+//POINTER #466 @ $CCEE8 - STRING #466 @ $CC5FA
+
+(RED)コッタ:(/RED)<LINE>ボクも テレファングが<LINE>つよくなりたいな!<END>
+//POINTER #467 @ $CCEEC - STRING #467 @ $CC618
+
+(RED)ギュ-ン:(/RED)<LINE>オトメちゃんが<LINE>かえってくるのを まってるよ<END>
+//POINTER #468 @ $CCEF0 - STRING #468 @ $CC638
+
+(RED)ド-ン:(/RED)<LINE>ユウくんが かえってくるのを<LINE>ここでまつんだ<END>
+//POINTER #469 @ $CCEF4 - STRING #469 @ $CC657
+
+(RED)デンジュウ:(/RED)<LINE>このさきは（ウジチチやま）だよ<END>
+//POINTER #470 @ $CCEF8 - STRING #470 @ $CC671
+
+(RED)デンジュウ:(/RED)<LINE>このさきは（ウジチチやま）だよもうすこしで ふぶきが<LINE>やみそうなんだ<END>
+//POINTER #471 @ $CCEFC - STRING #471 @ $CC69E
+
+(RED)ミドリ:(/RED)<LINE>きをつけてね<END>
+//POINTER #472 @ $CCF00 - STRING #472 @ $CC6AD
+
+(RED)デンジュウ:(/RED)<LINE>キミは デンジュウカイは<LINE>はじめてだね<LINE>いま じゅんびちゅうだから<LINE>トモダチが みつかったころに<LINE>またきてね<END>
+//POINTER #473 @ $CCF04 - STRING #473 @ $CC6EE
+
+(RED)デンジュウ:(/RED)<LINE>コイツって じつは・・・・<END>
+//POINTER #474 @ $CCF08 - STRING #474 @ $CC706
+
+(RED)ギュ-ン:(/RED)<LINE>オトメちゃん・・・・<LINE>キミと あってから<LINE>かわっちゃったなぁ<END>
+//POINTER #475 @ $CCF0C - STRING #475 @ $CC72E
+
+(RED)ド-ン:(/RED)<LINE>ユウくん・・・・<LINE>どうしたんだろ・・・・<END>
+//POINTER #476 @ $CCF10 - STRING #476 @ $CC74B
+
+(RED)ド-ン:(/RED)<LINE>ユウくんのためにも<LINE>キミには まけられないな!<END>
+//POINTER #477 @ $CCF14 - STRING #477 @ $CC76B
+
+(RED)ギュ-ン:(/RED)<LINE>オトメちゃんが<LINE>すごいってことを<LINE>ボクが しょうめいしてあげる<END>

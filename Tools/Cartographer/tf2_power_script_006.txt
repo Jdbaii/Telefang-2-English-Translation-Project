@@ -1,0 +1,298 @@
+//GAME NAME:		Telefang 2 - Power (GBA)
+
+//BLOCK #006 NAME:		7 - Menu Denjuu Locations
+
+//POINTER #0 @ $CEE40 - STRING #0 @ $CE9B2
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #1 @ $CEE44 - STRING #1 @ $CE9CA
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #2 @ $CEE48 - STRING #2 @ $CE9E2
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #3 @ $CEE4C - STRING #3 @ $CE9FA
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #4 @ $CEE50 - STRING #4 @ $CEA12
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #5 @ $CEE54 - STRING #5 @ $CEA2A
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #6 @ $CEE58 - STRING #6 @ $CEA42
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #7 @ $CEE5C - STRING #7 @ $CEA5A
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #8 @ $CEE60 - STRING #8 @ $CEA73
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #9 @ $CEE64 - STRING #9 @ $CEA8C
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #10 @ $CEE68 - STRING #10 @ $CEAA5
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #11 @ $CEE6C - STRING #11 @ $CEABE
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #12 @ $CEE70 - STRING #12 @ $CEAD7
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #13 @ $CEE74 - STRING #13 @ $CEAF0
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #14 @ $CEE78 - STRING #14 @ $CEB09
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #15 @ $CEE7C - STRING #15 @ $CEB22
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #16 @ $CEE80 - STRING #16 @ $CEB39
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #17 @ $CEE84 - STRING #17 @ $CEB50
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #18 @ $CEE88 - STRING #18 @ $CEB67
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #19 @ $CEE8C - STRING #19 @ $CEB7E
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #20 @ $CEE90 - STRING #20 @ $CEB95
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #21 @ $CEE94 - STRING #21 @ $CEBAC
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #22 @ $CEE98 - STRING #22 @ $CEBC3
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #23 @ $CEE9C - STRING #23 @ $CEBDB
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #24 @ $CEEA0 - STRING #24 @ $CEBF3
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #25 @ $CEEA4 - STRING #25 @ $CEC0B
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #26 @ $CEEA8 - STRING #26 @ $CEC23
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #27 @ $CEEAC - STRING #27 @ $CEC3B
+
+（メリバロのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #28 @ $CEEB0 - STRING #28 @ $CEC53
+
+（メリバロのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #29 @ $CEEB4 - STRING #29 @ $CEC6B
+
+（キワトラそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #30 @ $CEEB8 - STRING #30 @ $CEC84
+
+（キワトラそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #31 @ $CEEBC - STRING #31 @ $CEC9D
+
+（キワトラそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #32 @ $CEEC0 - STRING #32 @ $CECB6
+
+（ヒエロのぬけあな）に<LINE>せいそくしているらしい<END>
+//POINTER #33 @ $CEEC4 - STRING #33 @ $CECCF
+
+（ヒエロのぬけあな）に<LINE>せいそくしているらしい<END>
+//POINTER #34 @ $CEEC8 - STRING #34 @ $CECE8
+
+（ヒエロのぬけあな）に<LINE>せいそくしているらしい<END>
+//POINTER #35 @ $CEECC - STRING #35 @ $CED01
+
+（カミシノいせき）に<LINE>せいそくしているらしい<END>
+//POINTER #36 @ $CEED0 - STRING #36 @ $CED19
+
+（ウラ-ニのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #37 @ $CEED4 - STRING #37 @ $CED31
+
+（ウラ-ニどうくつ）に<LINE>せいそくしているらしい<END>
+//POINTER #38 @ $CEED8 - STRING #38 @ $CED4A
+
+（ウラ-ニどうくつ）に<LINE>せいそくしているらしい<END>
+//POINTER #39 @ $CEEDC - STRING #39 @ $CED63
+
+（バルスタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #40 @ $CEEE0 - STRING #40 @ $CED7B
+
+（バルスタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #41 @ $CEEE4 - STRING #41 @ $CED93
+
+（ウジチチやま）に<LINE>せいそくしているらしい<END>
+//POINTER #42 @ $CEEE8 - STRING #42 @ $CEDAA
+
+（ウジチチやま）に<LINE>せいそくしているらしい<END>
+//POINTER #43 @ $CEEEC - STRING #43 @ $CEDC1
+
+（ウジチチやま）に<LINE>せいそくしているらしい<END>
+//POINTER #44 @ $CEEF0 - STRING #44 @ $CEDD8
+
+（カラツムどうくつ）に<LINE>せいそくしているらしい<END>
+//POINTER #45 @ $CEEF4 - STRING #45 @ $CEDF1
+
+（カラツムどうくつ）に<LINE>せいそくしているらしい<END>
+//POINTER #46 @ $CEEF8 - STRING #46 @ $CEE0A
+
+（カラツムどうくつ）に<LINE>せいそくしているらしい<END>
+//POINTER #47 @ $CEEFC - STRING #47 @ $CEE23
+
+（せいちイアスカ）に<LINE>せいそくしているらしい<END>
+//POINTER #48 @ $CEF00 - STRING #48 @ $CE500
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #49 @ $CEF04 - STRING #49 @ $CE518
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #50 @ $CEF08 - STRING #50 @ $CE530
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #51 @ $CEF0C - STRING #51 @ $CE548
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #52 @ $CEF10 - STRING #52 @ $CE560
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #53 @ $CEF14 - STRING #53 @ $CE578
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #54 @ $CEF18 - STRING #54 @ $CE590
+
+（タケダマのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #55 @ $CEF1C - STRING #55 @ $CE5A8
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #56 @ $CEF20 - STRING #56 @ $CE5C1
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #57 @ $CEF24 - STRING #57 @ $CE5DA
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #58 @ $CEF28 - STRING #58 @ $CE5F3
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #59 @ $CEF2C - STRING #59 @ $CE60C
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #60 @ $CEF30 - STRING #60 @ $CE625
+
+（トカリベそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #61 @ $CEF34 - STRING #61 @ $CE63E
+
+（トカリベかいがん）に<LINE>せいそくしているらしい<END>
+//POINTER #62 @ $CEF38 - STRING #62 @ $CE657
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #63 @ $CEF3C - STRING #63 @ $CE66E
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #64 @ $CEF40 - STRING #64 @ $CE685
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #65 @ $CEF44 - STRING #65 @ $CE69C
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #66 @ $CEF48 - STRING #66 @ $CE6B3
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #67 @ $CEF4C - STRING #67 @ $CE6CA
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #68 @ $CEF50 - STRING #68 @ $CE6E1
+
+（クフモクやま）に<LINE>せいそくしているらしい<END>
+//POINTER #69 @ $CEF54 - STRING #69 @ $CE6F8
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #70 @ $CEF58 - STRING #70 @ $CE710
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #71 @ $CEF5C - STRING #71 @ $CE728
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #72 @ $CEF60 - STRING #72 @ $CE740
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #73 @ $CEF64 - STRING #73 @ $CE758
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #74 @ $CEF68 - STRING #74 @ $CE770
+
+（チアワタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #75 @ $CEF6C - STRING #75 @ $CE788
+
+（メリバロのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #76 @ $CEF70 - STRING #76 @ $CE7A0
+
+（メリバロのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #77 @ $CEF74 - STRING #77 @ $CE7B8
+
+（キワトラそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #78 @ $CEF78 - STRING #78 @ $CE7D1
+
+（キワトラそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #79 @ $CEF7C - STRING #79 @ $CE7EA
+
+（キワトラそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #80 @ $CEF80 - STRING #80 @ $CE803
+
+（キワトラそうげん）に<LINE>せいそくしているらしい<END>
+//POINTER #81 @ $CEF84 - STRING #81 @ $CE81C
+
+（ヒエロのぬけあな）に<LINE>せいそくしているらしい<END>
+//POINTER #82 @ $CEF88 - STRING #82 @ $CE835
+
+（ヒエロのぬけあな）に<LINE>せいそくしているらしい<END>
+//POINTER #83 @ $CEF8C - STRING #83 @ $CE84E
+
+（ヘルチカさばく）に<LINE>せいそくしているらしい<END>
+//POINTER #84 @ $CEF90 - STRING #84 @ $CE866
+
+（ビジニアさばく）に<LINE>せいそくしているらしい<END>
+//POINTER #85 @ $CEF94 - STRING #85 @ $CE87E
+
+（カミシノいせき）に<LINE>せいそくしているらしい<END>
+//POINTER #86 @ $CEF98 - STRING #86 @ $CE896
+
+（ウラ-ニのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #87 @ $CEF9C - STRING #87 @ $CE8AE
+
+（ウラ-ニのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #88 @ $CEFA0 - STRING #88 @ $CE8C6
+
+（ウラ-ニのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #89 @ $CEFA4 - STRING #89 @ $CE8DE
+
+（ウラ-ニのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #90 @ $CEFA8 - STRING #90 @ $CE8F6
+
+（バルスタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #91 @ $CEFAC - STRING #91 @ $CE90E
+
+（バルスタのもり）に<LINE>せいそくしているらしい<END>
+//POINTER #92 @ $CEFB0 - STRING #92 @ $CE926
+
+（ウジチチやま）に<LINE>せいそくしているらしい<END>
+//POINTER #93 @ $CEFB4 - STRING #93 @ $CE93D
+
+（ウジチチやま）に<LINE>せいそくしているらしい<END>
+//POINTER #94 @ $CEFB8 - STRING #94 @ $CE954
+
+（ウジチチやま）に<LINE>せいそくしているらしい<END>
+//POINTER #95 @ $CEFBC - STRING #95 @ $CE96B
+
+（ウジチチやま）に<LINE>せいそくしているらしい<END>
+//POINTER #96 @ $CEFC0 - STRING #96 @ $CE982
+
+（せいちイアスカ）に<LINE>せいそくしているらしい<END>
+//POINTER #97 @ $CEFC4 - STRING #97 @ $CE99A
+
+（せいちイアスカ）に<LINE>せいそくしているらしい<END>

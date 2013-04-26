@@ -22,6 +22,7 @@ namespace GfxDecompressor
         private Color[] WhiteToBlackPalette;
         private Color[] CurPalette;
         private byte[] rawGraphics; //raw tileset graphics
+        private byte[] findPattern;
         private Bitmap mapBitmap;
         private Graphics mapGraphics;
         private List<GraphicsData> datas;
@@ -35,6 +36,80 @@ namespace GfxDecompressor
         ///
         /// </summary>
         /// <param name="path"></param>
+        /// 
+
+        public static byte[] StringToByteArray(String hex)
+        {
+            int NumberChars = hex.Length;
+            byte[] bytes = new byte[NumberChars / 2];
+            for (int i = 0; i < NumberChars; i += 2)
+                bytes[i / 2] = Convert.ToByte(hex.Substring(i, 2), 16);
+            return bytes;
+        }
+
+        public static string ByteArrayToString(byte[] ba)
+        {
+            if (ba.Length == 0) return "";
+            string hex = BitConverter.ToString(ba);
+            return hex.Replace("-", "");
+        }
+
+        public static int IndexOf(byte[] arrayToSearchThrough, byte[] patternToFind)
+        {
+            if (patternToFind.Length > arrayToSearchThrough.Length)
+                return -1;
+            for (int i = 0; i < arrayToSearchThrough.Length - patternToFind.Length; i++)
+            {
+                bool found = true;
+                for (int j = 0; j < patternToFind.Length; j++)
+                {
+                    if (arrayToSearchThrough[i + j] != patternToFind[j])
+                    {
+                        found = false;
+                        break;
+                    }
+                }
+                if (found)
+                {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+        public int find(byte[] pattern, int start = -1)
+        {
+            if (start == -1) start = Convert.ToInt32(numericUpDown1.Value);
+            int index;
+            if (findPattern.Length == 0)
+            {
+                MessageBox.Show("Pattern to find is blank.");
+                return -2;
+            }
+            progressBar1.Maximum = datas.Count - 1;
+            for (int i = start; i < datas.Count; i++)
+            {
+                numericUpDown1.Value = i;
+                progressBar1.Value = i;
+                progressBar1.Refresh();
+                if (rawGraphics == null || rawGraphics.Length == 0)
+                {
+                    //MessageBox.Show("Graphic at index " + numericUpDown1.Value.ToString() + " is blank.");
+                }
+                else
+                {
+                    index = IndexOf(rawGraphics, findPattern);
+                    if (index >= 0)
+                    {
+                        progressBar1.Value = progressBar1.Maximum;
+                        progressBar1.Refresh();
+                        return i;
+                    }
+                }
+            }
+            return -1;
+        }
+
         public void SaveBitmap(string path)
         {
             ImageFormat im;
@@ -157,6 +232,7 @@ namespace GfxDecompressor
             int empty;
             Bitmap bitmap = GBAGraphics.ToBitmap(graphics, length, 0, palette, width, mode, out empty);
             pictureBox1.Image = bitmap;
+            pictureBox1.Refresh();
         }
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
@@ -188,7 +264,7 @@ namespace GfxDecompressor
                 CurPalette = WhiteToBlackPalette;
 
                 Scan(0x20);
-                UpdateGraphics();
+                numericUpDown1_ValueChanged(sender, e);
             }
         }
 
@@ -203,7 +279,11 @@ namespace GfxDecompressor
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
+            if (numericUpDown1.Value >= datas.Count) numericUpDown1.Value = datas.Count - 1;
             label4.Text = String.Format("Offset: {0:X8}", datas[(int) numericUpDown1.Value].Offset);
+            label5.Text = numericUpDown1.Value.ToString() + " / " + (numericUpDown1.Maximum-1).ToString();
+            label4.Refresh();
+            label5.Refresh();
             UpdateGraphics();
         }
 
@@ -222,6 +302,69 @@ namespace GfxDecompressor
             if (save.FileNames.Length > 0)
             {
                 File.WriteAllBytes(save.FileName, rawGraphics);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string value = "";
+            if (findPattern != null && findPattern.Length > 0) value = ByteArrayToString(findPattern);
+            if (InputBox.Show("Find", "Enter hex string to search for:", ref value) == DialogResult.OK)
+            {
+                try
+                {
+                    findPattern = StringToByteArray(value);
+                    int result = find(findPattern, 0);
+                    if (result == -1) MessageBox.Show("No results.");
+                    else
+                    {
+                        DialogResult dialogResult = MessageBox.Show("Result found at index " + result.ToString() + " (offset: " + datas[result].Offset + ")\r\nDo you want to search for pointers to this graphic now?", "Result found", MessageBoxButtons.YesNo);
+                        if (dialogResult == DialogResult.Yes) button4_Click(null, null);
+                    }
+                }
+                catch (ArgumentException)
+                {
+                    MessageBox.Show("Invalid hex string");
+                }
+                catch (FormatException)
+                {
+                    MessageBox.Show("Invalid hex string");
+                }
+                catch (OverflowException)
+                {
+                    MessageBox.Show("Invalid hex string");
+                }
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (findPattern == null || findPattern.Length == 0) MessageBox.Show("Nothing to find. Use Find before Next.");
+            else
+            {
+                int result = find(findPattern,Convert.ToInt32(numericUpDown1.Value) + 1);
+                if (result == -1) MessageBox.Show("No results.");
+                else
+                {
+                    DialogResult dialogResult = MessageBox.Show("Result found at index " + result.ToString() + " (offset: " + datas[result].Offset + ")\r\nDo you want to search for pointers to this graphic now?", "Result found", MessageBoxButtons.YesNo);
+                    if (dialogResult == DialogResult.Yes) button4_Click(null, null);
+                }
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            String str = "";
+            int[] pointers = ROM.SearchForPointer(datas[(int)numericUpDown1.Value].Offset);
+            if (pointers.Length == 0) MessageBox.Show("No pointers found.");
+            else
+            {
+                foreach(int cur in pointers) {
+                    String curstr = cur.ToString("X");
+                    str = str + "0x8" + (new String('0', curstr.Length - 6)) + curstr + "\r\n";
+                }
+                DialogResult dialogResult = MessageBox.Show("Pointers found. Do you want to copy these to the clipboard?\r\n\r\n" + str, "Pointers found", MessageBoxButtons.YesNo);
+                if (dialogResult == DialogResult.Yes) Clipboard.SetText(str);
             }
         }
     }

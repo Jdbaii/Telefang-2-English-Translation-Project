@@ -74,6 +74,17 @@ here:
 .org 0x81570F4
 	.word DShotGfx
 	
+; Stats Screen Tile Maps
+.org 0x81360D4
+	.word statsTileMap
+	
+.org 0x81360DC
+	.word statsTileMap2
+	
+; Dex Tile Map
+.org 0x8139DA8
+	.word dexTileMap
+	
 ; -------------------------------------
 .org 0x81359AC
 	.word gfx126
@@ -355,10 +366,6 @@ here:
 .org 0x8870000
 
 .align 4
-smallMenuGfx:
-.incbin asm/bin/smallMenuGfx_Malias2.bin
-
-.align 4
 battleFont:
 .incbin asm/bin/battleFont.bin
 
@@ -373,6 +380,22 @@ DShotFont:
 .align 4
 DShotGfx:
 .incbin asm/bin/DShotGfx.bin
+
+.align 4
+smallMenuGfx:
+.incbin asm/bin/gfx/smallMenuGfx_Malias2.bin
+
+.align 4
+statsTileMap:
+.incbin asm/bin/gfx/statsTileMap_Malias2.bin
+
+.align 4
+statsTileMap2:
+.incbin asm/bin/gfx/statsTileMap2_Malias2.bin
+
+.align 4
+dexTileMap:
+.incbin asm/bin/gfx/dexTileMap_Malias2.bin
 
 .align 4
 gfx126:

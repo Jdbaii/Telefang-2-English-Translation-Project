@@ -12,3 +12,8 @@
 2843 = title screen
 2894 = title screen logo
 2896 = title screen logo outline
+
+
+
+tilemaps:
+195 = stats screen stats tilemap

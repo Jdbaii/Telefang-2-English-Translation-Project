@@ -1,0 +1,106 @@
+//GAME NAME:		Telefang 2 - Power (GBA)
+
+//BLOCK #011 NAME:		12 - Menu Stuff (POINTER)
+
+//POINTER #0 @ $F8580 - STRING #0 @ $F7F60
+
+セ-ブしますか? <LINE>         <LINE>  はい     <LINE>         <LINE>  いいえ    <END>
+//POINTER #1 @ $F8584 - STRING #1 @ $F7F92
+
+         <LINE>セ-ブちゅうです!<LINE>         <LINE>         <LINE><$C7><$C7><$C7><$C7><$C7><$C7><$C7><$C7> <END>
+//POINTER #2 @ $F8588 - STRING #2 @ $F7FC4
+
+         <LINE>         <LINE>セ-ブしました!!<LINE>         <LINE>         <$F1>-----------<$F1>もっているかず 00コ<$F1>WHAT NEW? <LINE><LINE>WANTED!   <LINE><LINE>Dメロダウンロ-ド <LINE><LINE>ゲ-ム<100チル><$F1>アイテムがありません!<$F1>メ-ルがありません!!<$F1>ちゃくれきがありません<END>
+//POINTER #3 @ $F858C - STRING #3 @ $F7FF6
+
+-----------<$F1>もっているかず 00コ<$F1>WHAT NEW? <LINE><LINE>WANTED!   <LINE><LINE>Dメロダウンロ-ド <LINE><LINE>ゲ-ム<100チル><$F1>アイテムがありません!<$F1>メ-ルがありません!!<$F1>ちゃくれきがありません<END>
+//POINTER #4 @ $F8590 - STRING #4 @ $F8002
+
+もっているかず 00コ<$F1>WHAT NEW? <LINE><LINE>WANTED!   <LINE><LINE>Dメロダウンロ-ド <LINE><LINE>ゲ-ム<100チル><$F1>アイテムがありません!<$F1>メ-ルがありません!!<$F1>ちゃくれきがありません<END>
+//POINTER #5 @ $F8594 - STRING #5 @ $F800E
+
+WHAT NEW? <LINE><LINE>WANTED!   <LINE><LINE>Dメロダウンロ-ド <LINE><LINE>ゲ-ム<100チル><$F1>アイテムがありません!<$F1>メ-ルがありません!!<$F1>ちゃくれきがありません<END>
+//POINTER #6 @ $F8598 - STRING #6 @ $F803D
+
+アイテムがありません!<$F1>メ-ルがありません!!<$F1>ちゃくれきがありません<END>
+//POINTER #7 @ $F859C - STRING #7 @ $F8049
+
+メ-ルがありません!!<$F1>ちゃくれきがありません<END>
+//POINTER #8 @ $F85A0 - STRING #8 @ $F8055
+
+ちゃくれきがありません<END>
+//POINTER #9 @ $F85A4 - STRING #9 @ $F8061
+
+          <LINE>せつぞくちゅうです!<END>
+//POINTER #10 @ $F85A8 - STRING #10 @ $F8077
+
+          <LINE>          <END>
+//POINTER #11 @ $F85AC - STRING #11 @ $F808D
+
+           <LINE>でんぱがとどきません!<LINE>           <LINE>せつぞくできません! <$F1>そうびしているアイテム<$F1>どく<$F1>やけど<$F1>しもやけ<$F1>けっかい<$F1>くらやみ<END>
+//POINTER #12 @ $F85B0 - STRING #12 @ $F80BD
+
+そうびしているアイテム<$F1>どく<$F1>やけど<$F1>しもやけ<$F1>けっかい<$F1>くらやみ<END>
+//POINTER #13 @ $F85B4 - STRING #13 @ $F80C9
+
+どく<$F1>やけど<$F1>しもやけ<$F1>けっかい<$F1>くらやみ<END>
+//POINTER #14 @ $F85B8 - STRING #14 @ $F80CC
+
+やけど<$F1>しもやけ<$F1>けっかい<$F1>くらやみ<END>
+//POINTER #15 @ $F85BC - STRING #15 @ $F80D0
+
+しもやけ<$F1>けっかい<$F1>くらやみ<END>
+//POINTER #16 @ $F85C0 - STRING #16 @ $F80D5
+
+けっかい<$F1>くらやみ<END>
+//POINTER #17 @ $F85C4 - STRING #17 @ $F80DA
+
+くらやみ<END>
+//POINTER #18 @ $F85C8 - STRING #18 @ $F80DF
+
+   HPかいふく   <LINE> 000／000    <LINE> <$C7> 000／000  <END>
+//POINTER #19 @ $F85CC - STRING #19 @ $F8106
+
+   パラメ-タ    <LINE>MAXHP UP    <LINE>  000 <$C7> 000 <END>
+//POINTER #20 @ $F85D0 - STRING #20 @ $F812D
+
+   パラメ-タ    <LINE>すばやさ UP     <LINE>  000 <$C7> 000 <END>
+//POINTER #21 @ $F85D4 - STRING #21 @ $F8154
+
+   パラメ-タ    <LINE>こうげきりょく UP  <LINE>  000 <$C7> 000 <END>
+//POINTER #22 @ $F85D8 - STRING #22 @ $F817B
+
+   パラメ-タ    <LINE>ぼうぎょりょく UP  <LINE>  000 <$C7> 000 <END>
+//POINTER #23 @ $F85DC - STRING #23 @ $F81A2
+
+   パラメ-タ    <LINE>でんまりょく UP   <LINE>  000 <$C7> 000 <END>
+//POINTER #24 @ $F85E0 - STRING #24 @ $F81C9
+
+   ステ-タス<END>
+//POINTER #25 @ $F85E4 - STRING #25 @ $F81D2
+
+    もどる<$F1>パタ-ン1<$F1>パタ-ン2<$F1>パタ-ン3<$F1>Dメロ1<$F1>Dメロ2<$F1>Dメロ3<END>
+//POINTER #26 @ $F85E8 - STRING #26 @ $F81DA
+
+パタ-ン1<$F1>パタ-ン2<$F1>パタ-ン3<$F1>Dメロ1<$F1>Dメロ2<$F1>Dメロ3<END>
+//POINTER #27 @ $F85EC - STRING #27 @ $F81E0
+
+パタ-ン2<$F1>パタ-ン3<$F1>Dメロ1<$F1>Dメロ2<$F1>Dメロ3<END>
+//POINTER #28 @ $F85F0 - STRING #28 @ $F81E6
+
+パタ-ン3<$F1>Dメロ1<$F1>Dメロ2<$F1>Dメロ3<END>
+//POINTER #29 @ $F85F4 - STRING #29 @ $F81EC
+
+Dメロ1<$F1>Dメロ2<$F1>Dメロ3<END>
+//POINTER #30 @ $F85F8 - STRING #30 @ $F81F1
+
+Dメロ2<$F1>Dメロ3<END>
+//POINTER #31 @ $F85FC - STRING #31 @ $F81F6
+
+Dメロ3<END>
+//POINTER #32 @ $F8600 - STRING #32 @ $F81FB
+
+      <END>
+//POINTER #33 @ $F8604 - STRING #33 @ $F8202
+
+      <END>

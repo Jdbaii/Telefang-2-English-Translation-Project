@@ -8156,10 +8156,10 @@ Monster: Outside the<LINE>village, the Monsters<LINE>wandering are looking for<L
 Monster: A person with<LINE>scarf went to Toka Village.<END>
 //POINTER #52 @ $CC870 - STRING #52 @ $C620C
 
-Monster: During a battle,<LINE>call Monster with D card,<LINE>but it needs time  The time<LINE>will depend on the<LINE>birthplace of the Monster  <END>
+Monster: During a battle,<LINE>call Monster with D-Shot,<LINE>but it needs time  The time<LINE>will depend on the<LINE>birthplace of the Monster  <END>
 //POINTER #53 @ $CC874 - STRING #53 @ $C628C
 
-Monster: It needs time for<LINE>D-card call, before<LINE>arriving,  Victory or<LINE>failure, the battle ends.<END>
+Monster: It needs time for<LINE>D-Shot call, before<LINE>arriving,  Victory or<LINE>failure, the battle ends.<END>
 //POINTER #54 @ $CC878 - STRING #54 @ $C62EC
 
 Monster: What a good thing<LINE>if it had a school here, so<LINE>that I can learn fighting<LINE>skill.<END>
@@ -8894,7 +8894,7 @@ Monster: I also went to<LINE>seek seeds for antenna<LINE>trees, but didn't find.
 Monster: Only here has<LINE>store, it has no in Wula.<END>
 //POINTER #298 @ $CCC48 - STRING #298 @ $C9F1F
 
-Monster: D card represents<LINE>antenna No., if it has few<LINE>antenna, fewer Monsters<LINE>cancall in a battle.<END>
+Monster: D-Shot represents<LINE>antenna No., if it has few<LINE>antenna, fewer Monsters<LINE>cancall in a battle.<END>
 //POINTER #299 @ $CCC4C - STRING #299 @ $C9F83
 
 Monster: It has House for<LINE>transformation in Wula<LINE>Village, but no store for<LINE>items.<END>
@@ -8930,7 +8930,7 @@ Monster: It has antenna<LINE>trees in neighbor village.<END>
 Monster: Wonderful, antenna<LINE>trees revive, now we can<LINE>open store for items.<END>
 //POINTER #310 @ $CCC78 - STRING #310 @ $CA237
 
-Monster: D card represents<LINE>antenna No., if it has few<LINE>antenna, fewer Monsters<LINE>cancall in a battle.<END>
+Monster: D-Shot represents<LINE>antenna No., if it has few<LINE>antenna, fewer Monsters<LINE>cancall in a battle.<END>
 //POINTER #311 @ $CCC7C - STRING #311 @ $CA29B
 
 Monster: It has House for<LINE>transformation in Wula<LINE>Village, but no store for<LINE>items.<END>
@@ -8948,7 +8948,7 @@ Monster: It must have a lot<LINE>of funny thing in the man's<LINE>world, especia
 T SOLDIER: Come on!<END>
 //POINTER #316 @ $CCC90 - STRING #316 @ $CA40A
 
-Monster: With revival of<LINE>antenna trees, we can buy<LINE>new D cards from the man's<LINE>world.<END>
+Monster: With revival of<LINE>antenna trees, we can buy<LINE>new D-Shots from the man's<LINE>world.<END>
 //POINTER #317 @ $CCC94 - STRING #317 @ $CA460
 
 Monster: Have 50 friends,<LINE>great! How many Monster<LINE>friends do you have?<END>
@@ -9212,7 +9212,7 @@ Girl: Girls are interested<LINE>in the Monster's world,<LINE>because it also has
 Girl: It is said that there<LINE>are many T soldier in the<LINE>Monster's world,  whoever<LINE>can be just if he has<LINE>strength.<END>
 //POINTER #404 @ $CCDF0 - STRING #404 @ $CB73C
 
-Boy: D card mentioned by<LINE>elder brother.<END>
+Boy: D-Shot mentioned by<LINE>elder brother.<END>
 //POINTER #405 @ $CCDF4 - STRING #405 @ $CB765
 
 Boy: The decoration for D<LINE>card and D key is different.<END>
@@ -10178,7 +10178,7 @@ monster's skill has<LINE>something to do with attribute.<END>
 It is essential to have<LINE>recovery item in the monster's<LINE>world.<END>
 //POINTER #27 @ $FCE0C - STRING #27 @ $FBD93
 
-There are many categories<LINE>for equipment, with D card,<LINE>can look up description<LINE>aboutitem.<END>
+There are many categories<LINE>for equipment, with D-Shot,<LINE>can look up description<LINE>aboutitem.<END>
 //POINTER #28 @ $FCE10 - STRING #28 @ $FBDED
 
 One can obtain items by<LINE>promoting.<END>
@@ -10546,7 +10546,7 @@ Learn more about electric<LINE>monster's world.<END>
 All antenna trees died.<END>
 //POINTER #70 @ $101768 - STRING #70 @ $7F2AFD
 
-Electric wave<LINE>of D card has<LINE>sth. to do with<LINE>battle.<LINE> Got(SPACE)it What(SELECT)Common sense of<LINE>T soldier.<LINE> Of(SPACE)course Yes?(SELECT)Different<LINE>electric wave<LINE>code can call<LINE>different<LINE>amounts of<LINE>electric<LINE>monsters<LINE> Sure No(SELECT)Don't be late<LINE>when I call!<END>
+Electric wave<LINE>of D-Shot has<LINE>sth. to do with<LINE>battle.<LINE> Got(SPACE)it What(SELECT)Common sense of<LINE>T soldier.<LINE> Of(SPACE)course Yes?(SELECT)Different<LINE>electric wave<LINE>code can call<LINE>different<LINE>amounts of<LINE>electric<LINE>monsters<LINE> Sure No(SELECT)Don't be late<LINE>when I call!<END>
 //POINTER #71 @ $10176C - STRING #71 @ $7F2B3F
 
 Common sense of<LINE>T soldier.<LINE> Of(SPACE)course Yes?(SELECT)Different<LINE>electric wave<LINE>code can call<LINE>different<LINE>amounts of<LINE>electric<LINE>monsters<LINE> Sure No(SELECT)Don't be late<LINE>when I call!<END>
@@ -10609,7 +10609,7 @@ Yes, joyful.<END>
 Is that dog?<END>
 //POINTER #91 @ $1017BC - STRING #91 @ $7F2DB7
 
-What is D card?<LINE> Gun Hand(SPACE)phone(SELECT)Joking?<LINE> Lie No(SELECT)Don't you know<LINE>key of D?!<LINE> Know En(SELECT)Ha Ha, you<LINE>played kidding<LINE>overly!<END>
+What is D-Shot?<LINE> Gun Hand(SPACE)phone(SELECT)Joking?<LINE> Lie No(SELECT)Don't you know<LINE>key of D?!<LINE> Know En(SELECT)Ha Ha, you<LINE>played kidding<LINE>overly!<END>
 //POINTER #92 @ $1017C0 - STRING #92 @ $7F2DD8
 
 Joking?<LINE> Lie No(SELECT)Don't you know<LINE>key of D?!<LINE> Know En(SELECT)Ha Ha, you<LINE>played kidding<LINE>overly!<END>
@@ -11110,7 +11110,7 @@ Tell you!<LINE> Please Matter(SELECT)Does birthplace<LINE>have something<LINE>to
 Does birthplace<LINE>have something<LINE>to do with<LINE>battle?<LINE> Don't(SPACE)know Know(SELECT)To watch status<LINE>of electric<LINE>monster with D<LINE>card.<END>
 //POINTER #258 @ $101A58 - STRING #258 @ $7F43A1
 
-To watch status of electric<LINE>monster with D card.<END>
+To watch status of electric<LINE>monster with D-Shot.<END>
 //POINTER #259 @ $101A5C - STRING #259 @ $7F43D3
 
 You're not lovely.<END>
@@ -11248,16 +11248,16 @@ You're optimistic?<END>
 When you're fat, never<LINE>think those unhappy things.<END>
 //POINTER #304 @ $101B10 - STRING #304 @ $7F4964
 
-Key of D is<LINE>new, e.g. La La<LINE>La, Do Do Do.<LINE><LINE> Be(SPACE)careful infatuated(SELECT)You can also<LINE>use key of D?<LINE> Yes No(SPACE)interest(SELECT)You can sing?<LINE> Great Sorry(SELECT)Use D card to<LINE>set key of D!<END>
+Key of D is<LINE>new, e.g. La La<LINE>La, Do Do Do.<LINE><LINE> Be(SPACE)careful infatuated(SELECT)You can also<LINE>use key of D?<LINE> Yes No(SPACE)interest(SELECT)You can sing?<LINE> Great Sorry(SELECT)Use D-Shot to<LINE>set key of D!<END>
 //POINTER #305 @ $101B14 - STRING #305 @ $7F49A7
 
-You can also<LINE>use key of D?<LINE> Yes No(SPACE)interest(SELECT)You can sing?<LINE> Great Sorry(SELECT)Use D card to<LINE>set key of D!<END>
+You can also<LINE>use key of D?<LINE> Yes No(SPACE)interest(SELECT)You can sing?<LINE> Great Sorry(SELECT)Use D-Shot to<LINE>set key of D!<END>
 //POINTER #306 @ $101B18 - STRING #306 @ $7F49D4
 
-You can sing?<LINE> Great Sorry(SELECT)Use D card to<LINE>set key of D!<END>
+You can sing?<LINE> Great Sorry(SELECT)Use D-Shot to<LINE>set key of D!<END>
 //POINTER #307 @ $101B1C - STRING #307 @ $7F49F0
 
-Use D card to set key of D!<END>
+Use D-Shot to set key of D!<END>
 //POINTER #308 @ $101B20 - STRING #308 @ $7F4A0D
 
 A life without music is<LINE>meaningless!<END>

@@ -7,3 +7,12 @@ D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecomp
 D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\bin\Release\GfxDecompressor.pdb
 D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Release\GfxDecompressor.exe
 D:\Git_Projects\Telefang-2-English-Translation-Project\GfxDecompressor\GfxDecompressor\obj\Release\GfxDecompressor.pdb
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\bin\Release\GfxDecompressor.exe.config
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\bin\Release\GfxDecompressor.exe
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\bin\Release\GfxDecompressor.pdb
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Release\GfxDecompressor.csprojResolveAssemblyReference.cache
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Release\GfxDecompressor.Form1.resources
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Release\GfxDecompressor.Properties.Resources.resources
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Release\GfxDecompressor.csproj.GenerateResource.Cache
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Release\GfxDecompressor.exe
+E:\Stuff\Telefang-2-English-Translation-Project\Tools\source\GfxDecompressor_C#\GfxDecompressor\obj\Release\GfxDecompressor.pdb

@@ -1,0 +1,97 @@
+//GAME NAME:		Telefang 2 - Power (GBA)
+
+//BLOCK #012 NAME:		12 Part 2 - Menu Stuff (POINTER)
+
+//POINTER #0 @ $F8640 - STRING #0 @ $F82D1
+
+どく<$F1>まひ<$F1>やけど<$F1>しもやけ<$F1>けっかい<$F1>くらやみ<$F1>ファイル1<$F1>ファイル2<$F1>ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #1 @ $F8644 - STRING #1 @ $F82D4
+
+まひ<$F1>やけど<$F1>しもやけ<$F1>けっかい<$F1>くらやみ<$F1>ファイル1<$F1>ファイル2<$F1>ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #2 @ $F8648 - STRING #2 @ $F82D7
+
+やけど<$F1>しもやけ<$F1>けっかい<$F1>くらやみ<$F1>ファイル1<$F1>ファイル2<$F1>ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #3 @ $F864C - STRING #3 @ $F82DB
+
+しもやけ<$F1>けっかい<$F1>くらやみ<$F1>ファイル1<$F1>ファイル2<$F1>ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #4 @ $F8650 - STRING #4 @ $F82E0
+
+けっかい<$F1>くらやみ<$F1>ファイル1<$F1>ファイル2<$F1>ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #5 @ $F8654 - STRING #5 @ $F82E5
+
+くらやみ<$F1>ファイル1<$F1>ファイル2<$F1>ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #6 @ $F8658 - STRING #6 @ $F82EA
+
+ファイル1<$F1>ファイル2<$F1>ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #7 @ $F865C - STRING #7 @ $F82F0
+
+ファイル2<$F1>ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #8 @ $F8660 - STRING #8 @ $F82F6
+
+ファイル3<$F1>のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #9 @ $F8664 - STRING #9 @ $F82FC
+
+のデ-タが<LINE>こわれています<LINE>しょきかします<$F1>なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #10 @ $F8668 - STRING #10 @ $F8312
+
+なまえ:<LINE>        <LINE>ばしょ:<LINE>        <LINE>プレイじかん:<LINE> 00にち00:00<END>
+//POINTER #11 @ $F866C - STRING #11 @ $F8341
+
+               <LINE><LINE>               <END>
+//POINTER #12 @ $F8670 - STRING #12 @ $F8362
+
+        <END>
+//POINTER #13 @ $F8674 - STRING #13 @ $F836B
+
+    <END>
+//POINTER #14 @ $F8678 - STRING #14 @ $F8370
+
+              <LINE>              <$F1>????????<$F1>1。<LINE><LINE>2。<LINE><LINE>3。<$F1>ダウンロ-ドさきを<LINE>えらんでください<END>
+//POINTER #15 @ $F867C - STRING #15 @ $F838E
+
+????????<$F1>1。<LINE><LINE>2。<LINE><LINE>3。<$F1>ダウンロ-ドさきを<LINE>えらんでください<END>
+//POINTER #16 @ $F8680 - STRING #16 @ $F8397
+
+1。<LINE><LINE>2。<LINE><LINE>3。<$F1>ダウンロ-ドさきを<LINE>えらんでください<END>
+//POINTER #17 @ $F8684 - STRING #17 @ $F83A2
+
+ダウンロ-ドさきを<LINE>えらんでください<END>
+//POINTER #18 @ $F8688 - STRING #18 @ $F83B5
+
+          <LINE>せつぞくしました!<END>
+//POINTER #19 @ $F868C - STRING #19 @ $F83CA
+
+ でんまりょくかいふく <LINE> 000／000    <LINE> <$C7> 000／000  <END>
+//POINTER #20 @ $F8690 - STRING #20 @ $F83F1
+
+   パラメ-タ    <LINE>HPかいふく      <LINE> 000 になりました <END>
+//POINTER #21 @ $F8694 - STRING #21 @ $F8418
+
+   パラメ-タ    <LINE>MAXHP UP    <LINE> 000 になりました <END>
+//POINTER #22 @ $F8698 - STRING #22 @ $F843F
+
+   パラメ-タ    <LINE>すばやさ UP     <LINE> 000 になりました <END>
+//POINTER #23 @ $F869C - STRING #23 @ $F8466
+
+   パラメ-タ    <LINE>こうげきりょく UP  <LINE> 000 になりました <END>
+//POINTER #24 @ $F86A0 - STRING #24 @ $F848D
+
+   パラメ-タ    <LINE>ぼうぎょりょく UP  <LINE> 000 になりました <END>
+//POINTER #25 @ $F86A4 - STRING #25 @ $F84B4
+
+   パラメ-タ    <LINE>でんまりょく UP   <LINE> 000 になりました <END>
+//POINTER #26 @ $F86A8 - STRING #26 @ $F84DB
+
+   パラメ-タ    <LINE>でんまりょくかいふく  <LINE> 000 になりました <END>
+//POINTER #27 @ $F86AC - STRING #27 @ $F8502
+
+          <LINE>ダウンロ-ドです!<$F1>-----<$F1>しんかについて   <LINE><LINE>テレファングについて<LINE><LINE>デンジュウについて <LINE><LINE>ヘルプ       <END>
+//POINTER #28 @ $F86B0 - STRING #28 @ $F8517
+
+-----<$F1>しんかについて   <LINE><LINE>テレファングについて<LINE><LINE>デンジュウについて <LINE><LINE>ヘルプ       <END>
+//POINTER #29 @ $F86B4 - STRING #29 @ $F851D
+
+しんかについて   <LINE><LINE>テレファングについて<LINE><LINE>デンジュウについて <LINE><LINE>ヘルプ       <END>
+//POINTER #30 @ $F86B8 - STRING #30 @ $F854C
+
+           <LINE>           <LINE>           <LINE>でんぱがとどきません!<END>
