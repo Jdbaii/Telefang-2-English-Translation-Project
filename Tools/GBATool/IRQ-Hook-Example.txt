@@ -1,0 +1,12 @@
+
+Hook-Example <LadySia>
+-----------------------------
+To hook it:
+------------
+1) Hunt-IRQ
+2) Watch IRQ-Table <Adress given by GBATool> with BoycottAdvance
+3) Insert Adresses in Hook 
+4) Compile Hook + insert it with ´Insert Hook´ Function
+
+Done, keep this Tool internal!
+                                  [NtSC] 10-1-2002

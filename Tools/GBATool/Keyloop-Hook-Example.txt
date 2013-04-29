@@ -1,0 +1,11 @@
+
+Hook-Example <Tekken Advance>
+-----------------------------
+To hook it:
+------------
+1) Hunt-Keyloop
+2) Insert Values in the Hook as the Example or Source shows
+3) Compile Hook + insert it with ´Insert Hook´ Function
+
+Done, keep this Tool internal!
+                                  [NtSC] 10-1-2002

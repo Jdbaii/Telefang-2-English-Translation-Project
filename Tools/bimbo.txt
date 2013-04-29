@@ -1,0 +1,23 @@
+BIMBO - GAME BOY ADVANCE BITMAP MODE GRAPHICS CONVERTER - V1.3
+
+
+GBA     Image Size/     Exported Data
+Mode    Colors
+
+3       240x160/32768   0x12c00 bytes (VRAM)
+4       240x160/256     0x00200 bytes (Palette) + 0x09600 bytes (VRAM)
+5       160x128/32768   0x0a000 bytes (VRAM)
+
+
+Output format (Binary, Assembler Source or C Source) is selected in Export
+dialog file type box.
+
+
+No color reduction for Mode 4 is implemented. Images with more than 256
+unique colors can't be converted to Mode 4.
+
+Dithering option is only enabled with the actual RGB Modes 3 and 5.
+
+
+Aleksi Eeben (aleksi@cncd.fi)
+http://www.cncd.fi/aeeben

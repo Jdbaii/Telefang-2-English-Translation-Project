@@ -1,0 +1,55 @@
+--------------------------------------------------------------------------------------------
+
+------------------------------------->
+GBA-Tool Version 1.5 <C> by [NtSC]
+Cryption by r!sc and NoodleSpa
+<------------------------------------
+
+Hunt-IRQ:       Hunt IRQ-Table init of the Game,and if possible display RAM-Adress  
+                of IRQ-Table in Memory <to use with Mappy etc.>
+
+Hunt-Keyloop:   Hunt Keyloop searches for Keyloops. Some kinda Instruction 
+                Disassembler gives direct Outputs wich can be directly 
+                inserted in the Hook.
+
+Inject-Hook:    See Examples included.Mainly inserts assembled Hooks into Roms.
+                IRQ and VBL inserting is different,so look at the included Sources :>
+
+Kill-Intro:     Replace starting Branch <to Intro> with Branch to Original start.
+                Completely Zero <0> out the Intro Bytes.
+
+Rip-Intro:      Rip Intro gets any existing Intros and appends an Header if no one
+                found to make ripped Intro standalone GBA File.Special Support for
+                RNC-Packed Files.Original Decrunch Routine is realigned.
+                Also,a Code-Realigner was added for C-Files wich had absolute 
+                Adresses inside.Rips all out Intros yet :>
+
+Pack-Intro:     RNC-Propack Intro.
+                RNC-Propacker is included in GBATool and will be extracted to
+                local Directory @ Runtime and will be deleted after the packing!  
+
+Link-Intro:     Fixes Starting Branch + Insert Intro <From Back->0>.
+                RNC-Packed Intros <like Intros handeld with Pack Intro Command>
+                get fixed with an RNC-Decruncher modified by WayneKerr (Colour added!)
+
+Apply-IPS/IPS2: Applies IPS / IPS-Strip Files. IPS-Files that Append not supported yet.
+
+Create-IPS:     Create IPS :>
+
+Branch[Start]:  Grab first Bytes of Rom <Starting Branch> and check for Mirrors.
+                Needs workout with a Debugger though.
+
+Add 1/2 MBit:   for ROMS that do not offer any free SPace to append Hook/Intro.
+
+Ascii-Scan:     Scan+Show Ascii-Texts in Rom.
+
+-----------------------------------------------------------------------------------------------------
+For Suggestions/Comments you can reach me at: trainerdude@hotmail.com
+-----------------------------------------------------------------------------------------------------
+Console greetz to   : WayneKerr!!,jus,lordee,kdogg,Neimod,mfm,harlekin,aftermath,ennay,estrayk......
+PC-Favourite-Flushes: r!sc,NoodleSpa,^DAEMON^,Mr_Nop,G-Rom,EliCZ,MackT,KeyboardJunky,[Sheep],
+                      Jazz|Haujobb,.......
+-----------------------------------------------------------------------------------------------------
+                     
+                            [NtSC] --> 11-1-2002 ----------->
+

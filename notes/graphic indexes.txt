@@ -11,7 +11,9 @@
 2769 = credits font
 2843 = title screen
 2894 = title screen logo
+2895 = title screen logo tilemap
 2896 = title screen logo outline
+2897 = title screen logo outline tilemap
 
 
 

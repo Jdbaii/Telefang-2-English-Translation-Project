@@ -86,11 +86,30 @@ here:
 	.word dexTileMap
 	
 ; Title Screen Gfx
-.org 0x81663A0
-	.word titleScreenGfx
-.org 0x8167B58
-	.word titleScreenGfx
+; Disabled at the moment
+; .org 0x81663A0
+; 	.word titleScreenGfx
+; .org 0x8167B58
+; 	.word titleScreenGfx
 	
+.org 0x8503F9C
+	.word titleScreenLogo
+	
+.org 0x8503FA0
+	.word titleScreenLogoTileMap
+	
+.org 0x8503FA8
+	.word titleScreenLogoOutline
+	
+.org 0x8503FAC
+	.word titleScreenLogoOutlineTileMap
+	
+.org 0x87C1DF4
+	.word 0x00000000 ; Corrupt the old logo outline graphic
+	.word 0x00000000 ; Corrupt the old logo outline graphic
+	.word 0x00000000 ; Corrupt the old logo outline graphic
+	.word 0x00000000 ; Corrupt the old logo outline graphic
+	.word 0x00000000 ; Corrupt the old logo outline graphic
 	
 ; -------------------------------------
 .org 0x81359AC
@@ -370,7 +389,7 @@ here:
 .org 0x8158E8C
 	.word gfx2761
 	
-.org 0x8870000
+.org 0x8890000
 
 .align 4
 battleFont:
@@ -407,6 +426,22 @@ dexTileMap:
 .align 4
 titleScreenGfx:
 .incbin asm/bin/gfx/titleScreenGfx_Malias2.bin
+
+.align 4
+titleScreenLogo:
+.incbin asm/bin/gfx/logo_english.img_Malias2.bin
+
+.align 4
+titleScreenLogoOutline:
+.incbin asm/bin/gfx/logo_outline_english.img_Malias2.bin
+
+.align 4
+titleScreenLogoTileMap:
+.incbin asm/bin/gfx/logo_english.map_Malias2.bin
+
+.align 4
+titleScreenLogoOutlineTileMap:
+.incbin asm/bin/gfx/logo_outline_english.map_Malias2.bin
 
 .align 4
 gfx126:
