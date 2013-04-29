@@ -34,6 +34,8 @@ Battle Translation:
 - RacieB
 - Blaziken257
 - Kimbles
+- Jdbye
 
 Other Translation:
+- Jdbye
 - Unknown chinese bootleggers

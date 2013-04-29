@@ -85,6 +85,13 @@ here:
 .org 0x8139DA8
 	.word dexTileMap
 	
+; Title Screen Gfx
+.org 0x81663A0
+	.word titleScreenGfx
+.org 0x8167B58
+	.word titleScreenGfx
+	
+	
 ; -------------------------------------
 .org 0x81359AC
 	.word gfx126
@@ -396,6 +403,10 @@ statsTileMap2:
 .align 4
 dexTileMap:
 .incbin asm/bin/gfx/dexTileMap_Malias2.bin
+
+.align 4
+titleScreenGfx:
+.incbin asm/bin/gfx/titleScreenGfx_Malias2.bin
 
 .align 4
 gfx126:
