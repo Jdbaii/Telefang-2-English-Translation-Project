@@ -86,11 +86,10 @@ here:
 	.word dexTileMap
 	
 ; Title Screen Gfx
-; Disabled at the moment
-; .org 0x81663A0
-; 	.word titleScreenGfx
-; .org 0x8167B58
-; 	.word titleScreenGfx
+ .org 0x81663A0
+ 	.word titleScreenGfx
+ .org 0x8167B58
+ 	.word titleScreenGfx
 	
 .org 0x8503F9C
 	.word titleScreenLogo
@@ -389,7 +388,7 @@ here:
 .org 0x8158E8C
 	.word gfx2761
 	
-.org 0x8890000
+.org 0x8880000
 
 .align 4
 battleFont:

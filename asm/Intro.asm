@@ -20,6 +20,10 @@ b main
 
 .org 0x8870000
 main:
+mov r3, #0x10
+ldr r4, =0x4000054
+strh r3, [r4] ; set brightness to max (white)
+
 mov r0, #0x4000000 ; the usual set up routine
 mov r1, #0x400 ; 0x403 is BG 2 enable, and mode 3.
 add r1, r1, #3
@@ -41,9 +45,20 @@ stmia r0!, r3,r4,r5,r6,r7,r8,r9,r10 ; will start with the address in r1, it will
 ; just don't use the address register in the destination list.
 subs r2, r2, #1 ; subtraction setting the flags
 bne loop1 ; will loop if r2 wasn't zero.
+
+mov r0, #0x10
+mov r1, #0x0
+ldr r2, =0x4000054
+fadein:
+swi 0x5 ;VBlankIntrWait
+swi 0x5 ;VBlankIntrWait
+swi 0x5 ;VBlankIntrWait
+sub r0, r0, #0x1
+strh r0, [r2] ; set brightness to r0
+cmp r0, r1
+bhi fadein
 infin:
-;mov lr, pc ;need to add 8+1 on later
-ldr r0, =CheckKeys ; my notes say this is free
+ldr r0, =CheckKeys
 bx r0
 CheckKeys:
 ldr r0, =0x4000130

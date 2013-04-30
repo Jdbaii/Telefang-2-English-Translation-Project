@@ -6,7 +6,7 @@ call batchcompressgfx.bat
 echo Applying ASM hacks...
 armips.exe asm\GFX.asm
 armips.exe asm\VariableWidthFont_Power.asm
-armips.exe asm\Intro.asm
+armips.exe asm\Intro8bpp.asm
 echo Inserting script...
 Atlas rom\power_patched.gba script\tf2_bootleg_script_autowrite.txt
 echo Done.
