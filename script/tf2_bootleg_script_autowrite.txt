@@ -8069,10 +8069,10 @@ Monster: When I have chance<LINE>I'd like to visit the man's<LINE>world.<END>
 Monster: Monster may use<LINE>many skills in battle.<END>
 //POINTER #23 @ $CC7FC - STRING #23 @ $C5824
 
-Monster: Skills have 4<LINE>types: Normal, Elemental,<LINE>Defense, and<LINE>electric Demon.<END>
+Monster: Attacks have 4<LINE>types: Normal, Elemental,<LINE>Defense, and<LINE>Denma Attack.<END>
 //POINTER #24 @ $CC800 - STRING #24 @ $C587B
 
-Monster: Each Monster has<LINE>no-attribute skill,<LINE>Attribute skill  can be used<LINE>by Monster of the same<LINE>attribute  , the defense<LINE>skill can make the battle<LINE>forward in a favorable<LINE>direction  the electric<LINE>Demon skill is a Must Kill<LINE>skill.<END>
+Monster: Each Monster has<LINE>a Normal attack, the<LINE>Elemental attack can be used<LINE>by a Monster of the same<LINE>type, the Defense<LINE>skill can make the battle<LINE>outcome lean in your favor,<LINE>the Denma Attack<LINE>is super-powerful.<END>
 //POINTER #25 @ $CC804 - STRING #25 @ $C5962
 
 Monster: Uncles found that,<LINE>great!!<END>
@@ -8900,7 +8900,7 @@ Monster: D-Shot represents<LINE>antenna No., if it has few<LINE>antenna, fewer M
 Monster: It has House for<LINE>transformation in Wula<LINE>Village, but no store for<LINE>items.<END>
 //POINTER #300 @ $CCC50 - STRING #300 @ $C9FD6
 
-Monster,  Attack force of<LINE>electric demon becomes<LINE>strong, that of water iron<LINE>gun is surprising.<END>
+Monster: Attack force of<LINE>Denma Attack is very<LINE>strong, that of water iron<LINE>gun is surprising.<END>
 //POINTER #301 @ $CCC54 - STRING #301 @ $CA036
 
 T SOLDIER: This is<LINE>permission?<END>
@@ -8936,7 +8936,7 @@ Monster: D-Shot represents<LINE>antenna No., if it has few<LINE>antenna, fewer M
 Monster: It has House for<LINE>transformation in Wula<LINE>Village, but no store for<LINE>items.<END>
 //POINTER #312 @ $CCC80 - STRING #312 @ $CA2EE
 
-Monster: Attack force of<LINE>electric demon becomes<LINE>strong, that of water iron<LINE>gun is surprising.<END>
+Monster: Attack force of<LINE>Denma Attack is very<LINE>strong, that of water iron<LINE>gun is surprising.<END>
 //POINTER #313 @ $CCC84 - STRING #313 @ $CA34D
 
 Monster: It also has relics<LINE>in the man's world? How can<LINE>I visit them!<END>
@@ -9005,7 +9005,7 @@ Monster: It is marsh swamp<LINE>in front, we'd better not<LINE>go.<END>
 Monster: Turn right at exit<LINE>to seek for antenna trees.<END>
 //POINTER #335 @ $CCCDC - STRING #335 @ $CA8C6
 
-Monster,  Seems met a<LINE>person with scarf.<END>
+Monster: Seems met a<LINE>person with scarf.<END>
 //POINTER #336 @ $CCCE0 - STRING #336 @ $CA8F0
 
 Monster: Never heard of<LINE>Xiwu in the Monster's world.<END>
@@ -12241,13 +12241,13 @@ Yes? There's no such set<LINE>phrase.<END>
 Yes, seems to be cheated.<END>
 //POINTER #635 @ $10203C - STRING #635 @ $7F7862
 
-Does it have<LINE>result if<LINE>getting skill<LINE>from enemy?<LINE> Yes NO(SELECT)In dark, can't<LINE>use electric<LINE>Demon to<LINE>attack?<LINE> No Yes(SELECT)Can't use<LINE>electric Demon<LINE>to attack, be<LINE>careful?<LINE> I(SPACE)see Others?(SELECT)It is very<LINE>difficult to<LINE>hit the target<LINE>in dark.<END>
+Does it have<LINE>result if<LINE>getting skill<LINE>from enemy?<LINE> Yes NO(SELECT)In the dark, can you use<LINE>Denma Attack?<LINE> No Yes(SELECT)You can't use Denma Attack,<LINE>be careful?<LINE> I(SPACE)see Others?(SELECT)It is very difficult to<LINE>hit the target in the dark.<END>
 //POINTER #636 @ $102040 - STRING #636 @ $7F789C
 
-In dark, can't<LINE>use electric<LINE>Demon to<LINE>attack?<LINE> No Yes(SELECT)Can't use<LINE>electric Demon<LINE>to attack, be<LINE>careful?<LINE> I(SPACE)see Others?(SELECT)It is very<LINE>difficult to<LINE>hit the target<LINE>in dark.<END>
+In the dark, can you use<LINE>Denma Attack?<LINE> No Yes(SELECT)You can't use Denma Attack,<LINE>be careful?<LINE> I(SPACE)see Others?(SELECT)It is very difficult to<LINE>hit the target in the dark.<END>
 //POINTER #637 @ $102044 - STRING #637 @ $7F78D2
 
-Can't use<LINE>electric Demon<LINE>to attack, be<LINE>careful?<LINE> I(SPACE)see Others?(SELECT)It is very<LINE>difficult to<LINE>hit the target<LINE>in dark.<END>
+You can't use Denma Attack,<LINE>be careful?<LINE> I(SPACE)see Others?(SELECT)It is very difficult to<LINE>hit the target in the dark.<END>
 //POINTER #638 @ $102048 - STRING #638 @ $7F7912
 
 It is very difficult to hit<LINE>the target in dark.<END>
