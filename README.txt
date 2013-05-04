@@ -38,4 +38,5 @@ Battle Translation:
 
 Other Translation:
 - Jdbye
+- Glitch
 - Unknown chinese bootleggers
