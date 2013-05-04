@@ -5,6 +5,8 @@
   <property key="viewStatusBar" value="true"/>
   <property key="viewToolBar" value="true"/>
   <property key="maxRecentFiles" value="10"/>
+  <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\asm\bin\GFX\statsTileMap.bin"/>
+  <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\asm\bin\GFX\smallMenuGfx.bin"/>
   <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\rom\power.gba"/>
   <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\resources\2843_titlescreen.bin"/>
   <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\asm\bin\GFX\titleScreenGfx.bin"/>
@@ -12,7 +14,5 @@
   <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\asm\bin\GFX\logo_outline_english.map.bin"/>
   <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\asm\bin\GFX\logo_english.img.bin"/>
   <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\asm\bin\GFX\logo_outline_english.img.bin"/>
-  <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\resources\logo_outline_english.img.bin"/>
-  <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\asm\bin\splashScreen.bin"/>
   <property key="recentFile" value="E:\Stuff\Telefang-2-English-Translation-Project\asm\bin\GFX\128.bin"/>
 </settings>
