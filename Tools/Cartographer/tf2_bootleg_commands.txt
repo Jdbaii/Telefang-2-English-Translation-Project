@@ -98,7 +98,7 @@
 #COMMENTS:		No
 #END BLOCK
 
-#BLOCK NAME:		8 - Hints/Phone Conversations? (POINTER)
+#BLOCK NAME:		8 - Phone Conversation Hints (POINTER)
 #TYPE:			NORMAL
 #METHOD:		POINTER_RELATIVE
 #POINTER ENDIAN:	LITTLE

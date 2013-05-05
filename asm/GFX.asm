@@ -103,13 +103,6 @@ here:
 .org 0x8503FAC
 	.word titleScreenLogoOutlineTileMap
 	
-.org 0x87C1DF4
-	.word 0x00000000 ; Corrupt the old logo outline graphic
-	.word 0x00000000 ; Corrupt the old logo outline graphic
-	.word 0x00000000 ; Corrupt the old logo outline graphic
-	.word 0x00000000 ; Corrupt the old logo outline graphic
-	.word 0x00000000 ; Corrupt the old logo outline graphic
-	
 ; -------------------------------------
 .org 0x81359AC
 	.word gfx126
